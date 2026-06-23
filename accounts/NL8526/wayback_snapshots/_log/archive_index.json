@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-23T07:26:43",
+  "last_updated": "2026-06-23T07:27:15",
   "html": {
     "https://web.archive.org/web/20251027071217if_/https://twitter.com/NL8526/status/1982706905068994996": {
       "status": "done",
@@ -10651,18 +10651,18 @@
       "referenced_by": [
         "20251112161640_twitter_com_NL8526_status_1988642109621260341.json"
       ],
-      "last_updated": "2026-06-23T06:04:00",
+      "last_updated": "2026-06-23T07:27:05",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251112161640/https://video.twimg.com/ext_tw_video/1988642062812770304/pu/vid/avc1/720x1086/K7n9zLMlqhNjHfXC.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/1996263501694984192/vid/avc1/854x480/BBitLGfmLuj5aqzS.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20251204015144_twitter_com_NL8526_status_1996396974132912521.json"
       ],
-      "last_updated": "2026-06-23T06:31:45",
+      "last_updated": "2026-06-23T07:27:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251204015144/https://video.twimg.com/amplify_video/1996263501694984192/vid/avc1/854x480/BBitLGfmLuj5aqzS.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2007494079412940800/pu/vid/avc1/720x1280/V2a1T7eWZk8hV7L4.mp4?tag=12": {
       "status": "done",
@@ -10691,9 +10691,9 @@
       "referenced_by": [
         "20260208075953_twitter_com_NL8526_status_2020407219658035680.json"
       ],
-      "last_updated": "2026-06-23T06:04:00",
+      "last_updated": "2026-06-23T07:27:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260208075953/https://video.twimg.com/ext_tw_video/2020363364292239360/pu/vid/avc1/720x1280/f1tONh9ayjBWm_eV.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2026150806840561664/pu/vid/avc1/720x720/Bb1miEJlhuc67vf-.mp4?tag=12": {
       "status": "done",
@@ -10749,9 +10749,9 @@
       "referenced_by": [
         "20260426112722_twitter_com_NL8526_status_2048363301881758206.json"
       ],
-      "last_updated": "2026-06-23T06:04:03",
+      "last_updated": "2026-06-23T07:27:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260426112722/https://video.twimg.com/ext_tw_video/2048363289756016640/pu/vid/avc1/720x1280/Ht3zH0ieEf3dwPCP.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2049549003025760256/pu/vid/avc1/720x1280/Cq06DfdStUGATonU.mp4?tag=12": {
       "status": "done",
@@ -10926,13 +10926,13 @@
       "last_updated": "2026-06-23T06:03:58"
     },
     "https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/720x1280/HHYpIbLQvj6MfFyM.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260615122939_twitter_com_NL8526_status_2066498368499769433.json"
       ],
-      "last_updated": "2026-06-23T06:04:00",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260615122939/https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/720x1280/HHYpIbLQvj6MfFyM.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-06-23T07:27:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615122939im_/https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/720x1280/HHYpIbLQvj6MfFyM.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f11fda6af00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2066820882803359745/pu/vid/avc1/720x1280/J9LhSWsFeVwNR1XD.mp4": {
       "status": "done",
@@ -29482,7 +29482,7 @@
       "last_updated": "2026-06-23T06:04:56"
     },
     "20260615122939_twitter_com_NL8526_status_2066498368499769433.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -29493,7 +29493,7 @@
           "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-23T06:04:56"
+      "last_updated": "2026-06-23T07:27:15"
     },
     "20260615124021_twitter_com_NL8526_status_2066501063478485154.json": {
       "status": "done",

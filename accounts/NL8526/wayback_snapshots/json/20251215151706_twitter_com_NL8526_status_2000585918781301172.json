@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000585915090227200"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000585918781301172",
+    "created_at": "2025-12-15T15:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000585918781301172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWLuyQ9qDO",
+          "end": 167,
+          "expanded_url": "https://x.com/NL8526/status/2000585918781301172/photo/1",
+          "media_key": "3_2000585915090227200",
+          "start": 144,
+          "url": "https://t.co/NWLuyQ9qDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000585918781301172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自从室友买了新电脑 宿舍里更吵了..\n琴谱背不下来 天天被老师压力 想破罐子破摔 期末考那就挂科吧唉.. 琴房分配烂琴还经常有人占着 小课分配两个人上一节钢琴小课 不公平..感觉开学到现在什么都没学到 贷款一万多上学没有必要了吧😢好想退学\n社交 学习 生活 娱乐一团烂😔怎么麻痹自己.. https://t.co/NWLuyQ9qDO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "好吃的..",
+        "height": 2048,
+        "media_key": "3_2000585915090227200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OCSkuaUAAei2R.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000585915090227200"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000585918781301172",
+        "created_at": "2025-12-15T15:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000585918781301172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWLuyQ9qDO",
+              "end": 167,
+              "expanded_url": "https://x.com/NL8526/status/2000585918781301172/photo/1",
+              "media_key": "3_2000585915090227200",
+              "start": 144,
+              "url": "https://t.co/NWLuyQ9qDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000585918781301172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从室友买了新电脑 宿舍里更吵了..\n琴谱背不下来 天天被老师压力 想破罐子破摔 期末考那就挂科吧唉.. 琴房分配烂琴还经常有人占着 小课分配两个人上一节钢琴小课 不公平..感觉开学到现在什么都没学到 贷款一万多上学没有必要了吧😢好想退学\n社交 学习 生活 娱乐一团烂😔怎么麻痹自己.. https://t.co/NWLuyQ9qDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️🇨🇳07MTF 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟 | 🥰音游 三角洲 性格友好 有洁癖焦虑缺爱自卑社恐🐱 长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 73,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 153
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

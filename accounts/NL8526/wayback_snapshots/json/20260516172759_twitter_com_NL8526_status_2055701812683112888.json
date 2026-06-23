@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2055701812683112888",
+    "created_at": "2026-05-16T17:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055701812683112888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1877473083063201792",
+          "start": 3,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055701812683112888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055354415541100708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dorothy1614926: 好想被别人挂在简介w喵……感觉自己每天回复或者发推，又不太敢和喜欢的推友私聊，和大家的关系建立的都不是很深呢……也没能形成自己的社交圈子……真的好想成为对别人来说重要的人呢……好想被大家了解，也好想了解大家，帮助大家……想要被喜欢喵……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2055701812683112888",
+        "created_at": "2026-05-16T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055701812683112888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1877473083063201792",
+              "start": 3,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055701812683112888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055354415541100708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dorothy1614926: 好想被别人挂在简介w喵……感觉自己每天回复或者发推，又不太敢和喜欢的推友私聊，和大家的关系建立的都不是很深呢……也没能形成自己的社交圈子……真的好想成为对别人来说重要的人呢……好想被大家了解，也好想了解大家，帮助大家……想要被喜欢喵……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2055354415541100708",
+        "created_at": "2026-05-15T18:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055354415541100708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055354415541100708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1165,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想被别人挂在简介w喵……感觉自己每天回复或者发推，又不太敢和喜欢的推友私聊，和大家的关系建立的都不是很深呢……也没能形成自己的社交圈子……真的好想成为对别人来说重要的人呢……好想被大家了解，也好想了解大家，帮助大家……想要被喜欢喵……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/为什么无人在意?为什么你们都讨厌我? 🩷扩列互关 拒接线下 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 853,
+          "like_count": 11862,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue｜可爱的小鲨鲨@TixItem4527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "wenhuamengyue"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "TixItem4527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 638,
+          "like_count": 6876,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

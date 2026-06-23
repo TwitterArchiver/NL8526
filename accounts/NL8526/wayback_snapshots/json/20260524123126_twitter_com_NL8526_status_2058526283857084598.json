@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058526277427212288"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058526283857084598",
+    "created_at": "2026-05-24T12:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058526283857084598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "Sky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqu1anYdjQ",
+          "end": 42,
+          "expanded_url": "https://x.com/NL8526/status/2058526283857084598/photo/1",
+          "media_key": "3_2058526277427212288",
+          "start": 19,
+          "url": "https://t.co/mqu1anYdjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058526283857084598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国服今天毕业了 不肝不肝😈\n#Sky https://t.co/mqu1anYdjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2058526277427212288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFavibbMAAc0ML.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058526277427212288"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058526283857084598",
+        "created_at": "2026-05-24T12:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058526283857084598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "Sky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqu1anYdjQ",
+              "end": 42,
+              "expanded_url": "https://x.com/NL8526/status/2058526283857084598/photo/1",
+              "media_key": "3_2058526277427212288",
+              "start": 19,
+              "url": "https://t.co/mqu1anYdjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058526283857084598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国服今天毕业了 不肝不肝😈\n#Sky https://t.co/mqu1anYdjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 907,
+          "like_count": 12748,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

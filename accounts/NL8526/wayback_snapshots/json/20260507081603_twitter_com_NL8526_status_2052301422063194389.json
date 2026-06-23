@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2052285592889938414",
+    "created_at": "2026-05-07T08:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052301422063194389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052301422063194389",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052285592889938414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2052285592889938414",
+        "created_at": "2026-05-07T08:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052301422063194389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301422063194389",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052285592889938414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2052285592889938414",
+        "created_at": "2026-05-07T07:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052285592889938414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hiime0/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Hiime0/status/2052283285108400373",
+              "start": 13,
+              "url": "https://t.co/N12XrNZxpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052285592889938414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052283285108400373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医生说，已经，没救了😭🖤 https://t.co/N12XrNZxpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹钢专/音游/MC 😖半家长党/缺爱b/讨好所有人 ➕扩列互关喵 和我做朋友好不好？ 😊做完那些想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 757,
+          "like_count": 10768,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】\n希望能交到好朋友喵！欢迎私信；🏳️‍⚧️Transbian；HRT26.03.26",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2051711268332134706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 232,
+          "like_count": 493,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2028548568081154118",
+    "created_at": "2026-03-02T19:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028548568081154118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926444025478778880",
+          "start": 3,
+          "username": "seiran3210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028548568081154118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028382013208903733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seiran3210: 看见有跨妹术了我就会gd😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2028548568081154118",
+        "created_at": "2026-03-02T19:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028548568081154118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926444025478778880",
+              "start": 3,
+              "username": "seiran3210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028548568081154118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028382013208903733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seiran3210: 看见有跨妹术了我就会gd😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926444025478778880",
+        "conversation_id": "2028382013208903733",
+        "created_at": "2026-03-02T08:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028382013208903733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028382013208903733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见有跨妹术了我就会gd😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍥无证含糖 🎹音游 💥炸柜/家长不管 🍀ISFP-T📍坐标江西",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2027381607787872390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 398,
+          "like_count": 5375,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 210
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:03:54.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️🍥🦊🐾 ASD | ADHD | BPD | MtF/MtX? | she/they | Transles/T4T | GAHT/HRT: 20250813 | 持证含糖 | Furry | 不od不割手不鉴证",
+        "id": "1926444025478778880",
+        "name": "青嵐Seiran🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1971946838522843288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998943525082378244/r2zQ0gge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 682,
+          "like_count": 4368,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 885
+        },
+        "username": "seiran3210",
+        "verified": false
+      }
+    ]
+  }
+}

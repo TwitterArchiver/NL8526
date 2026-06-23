@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1992240918968365227",
+    "created_at": "2025-11-23T04:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992443510084325576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836650207678992384",
+          "start": 0,
+          "username": "0x0000fe38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992443510084325576",
+    "in_reply_to_user_id": "1836650207678992384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992407491729412578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x0000fe38 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1992240918968365227",
+        "created_at": "2025-11-23T04:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992443510084325576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836650207678992384",
+              "start": 0,
+              "username": "0x0000fe38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992443510084325576",
+        "in_reply_to_user_id": "1836650207678992384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992407491729412578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x0000fe38 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836650207678992384",
+        "conversation_id": "1992240918968365227",
+        "created_at": "2025-11-23T01:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992407491729412578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992407491729412578",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992240918968365227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 6。不擦什么的还是小学生的时候才做过😒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 34,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 88
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T06:15:29.000Z",
+        "description": "幸福的活下去吧！",
+        "id": "1836650207678992384",
+        "location": "苏州",
+        "name": "撑得要吐了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836653782505263104/ZYwKGBzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 396,
+          "like_count": 918,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 350
+        },
+        "username": "0x0000fe38",
+        "verified": false
+      }
+    ]
+  }
+}

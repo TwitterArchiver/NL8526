@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1993287882640146872",
+    "created_at": "2025-11-28T03:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994246584935284888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994246584935284888",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993287882640146872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跑跑走走总算测完了一千米 煎熬的7分多钟\n操场上那一双双异样的目光盯得我直发毛 最后也是没有成绩了 给我记了六分半的成绩应该是全院最后一名\n跑完登记成绩我是正常排队的 有一个胖子看我不顺眼他朋友是那个名次 把我肘开说我不是这个名次 那个名次是谁谁\n可老师只登记时间啊?😅\n不知道哪惹到他了😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_1993287877074337796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mUw2gbwAQiHqI.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1993287882640146872",
+        "created_at": "2025-11-28T03:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994246584935284888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994246584935284888",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993287882640146872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跑跑走走总算测完了一千米 煎熬的7分多钟\n操场上那一双双异样的目光盯得我直发毛 最后也是没有成绩了 给我记了六分半的成绩应该是全院最后一名\n跑完登记成绩我是正常排队的 有一个胖子看我不顺眼他朋友是那个名次 把我肘开说我不是这个名次 那个名次是谁谁\n可老师只登记时间啊?😅\n不知道哪惹到他了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993287877074337796"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1993287882640146872",
+        "created_at": "2025-11-25T11:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993287882640146872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOkeq5wyde",
+              "end": 58,
+              "expanded_url": "https://x.com/NL8526/status/1993287882640146872/photo/1",
+              "media_key": "3_1993287877074337796",
+              "start": 35,
+              "url": "https://t.co/cOkeq5wyde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993287882640146872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最害怕的事：下楼梯、跑步\n周五要体测完蛋了喵（应该只有BMI能及格了 https://t.co/cOkeq5wyde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 43,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 106
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

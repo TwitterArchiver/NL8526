@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2056147861977641212",
+    "created_at": "2026-05-20T11:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057054009790525820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934844797598199808",
+          "start": 0,
+          "username": "zurill33206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057054009790525820",
+    "in_reply_to_user_id": "1934844797598199808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056147861977641212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zurill33206 qq还能回来吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2056147838556622848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjnkLLa0AAur1u.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2056147861977641212",
+        "created_at": "2026-05-20T11:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057054009790525820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934844797598199808",
+              "start": 0,
+              "username": "zurill33206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057054009790525820",
+        "in_reply_to_user_id": "1934844797598199808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056147861977641212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zurill33206 qq还能回来吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056147838556622848"
+          ]
+        },
+        "author_id": "1934844797598199808",
+        "conversation_id": "2056147861977641212",
+        "created_at": "2026-05-17T23:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056147861977641212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYw1pZzHqR",
+              "end": 103,
+              "expanded_url": "https://x.com/zurill33206/status/2056147861977641212/photo/1",
+              "media_key": "3_2056147838556622848",
+              "start": 80,
+              "url": "https://t.co/CYw1pZzHqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056147861977641212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上跟我妈爆了\n最后结果是带我去医院看看到底是不是跨\n如果真有易性症就同意我hrt\n但回到家后要没收我手机\n同意我养一个小宠物(我之前养的宠物被他们扔了） https://t.co/CYw1pZzHqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党 🩷扩列互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 869,
+          "like_count": 12125,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T05:25:40.000Z",
+        "description": "喜欢ACG的臭私宅，想要变成一位善良贴心的大姐姐",
+        "id": "1934844797598199808",
+        "name": "zurill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021120269985906688/NLLm09IE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 11,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "zurill33206",
+        "verified": false
+      }
+    ]
+  }
+}

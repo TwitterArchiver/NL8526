@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062607865039450405",
+    "created_at": "2026-06-05T00:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062697510100222263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062697510100222263",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062607865039450405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 一千米跑500秒的来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062607865039450405",
+        "created_at": "2026-06-05T00:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062697510100222263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062697510100222263",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062607865039450405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 一千米跑500秒的来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2062607865039450405",
+        "created_at": "2026-06-04T18:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062607865039450405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2062549389718257923",
+              "start": 51,
+              "url": "https://t.co/ctbUazlprd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062607865039450405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549389718257923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "比我快多了🥲，我甚至Hrt前1000米都得6分钟起步了🥺，现在肯定0更慢了🫪，现在估计我谁也跑不过🫠 https://t.co/ctbUazlprd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 707,
+          "like_count": 14467,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "永远怀念@Unkxyn|MtX?|Hrt🍥01.28.2026，无证含糖|家长反对党+年龄党|生产日期11.13.2011|oder💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 655,
+          "like_count": 807,
+          "listed_count": 14,
+          "media_count": 21,
+          "tweet_count": 139
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

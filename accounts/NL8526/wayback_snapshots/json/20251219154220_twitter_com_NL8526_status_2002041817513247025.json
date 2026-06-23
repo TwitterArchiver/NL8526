@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002041801289707520"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2002041817513247025",
+    "created_at": "2025-12-19T15:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002041817513247025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNB57xoVR0",
+          "end": 29,
+          "expanded_url": "https://x.com/NL8526/status/2002041817513247025/photo/1",
+          "media_key": "3_2002041801289707520",
+          "start": 6,
+          "url": "https://t.co/YNB57xoVR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002041817513247025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "负面警告😔 https://t.co/YNB57xoVR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002041801289707520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iuaTdbMAAFCzK.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002041801289707520"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2002041817513247025",
+        "created_at": "2025-12-19T15:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002041817513247025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNB57xoVR0",
+              "end": 29,
+              "expanded_url": "https://x.com/NL8526/status/2002041817513247025/photo/1",
+              "media_key": "3_2002041801289707520",
+              "start": 6,
+              "url": "https://t.co/YNB57xoVR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002041817513247025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "负面警告😔 https://t.co/YNB57xoVR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 174/60减脂中 | 无证含糖🍥HRT25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟 | 🥰音游/三角洲 性格友好 很好说话的🫶有洁癖焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 我的小树洞 负面内容致歉 没什么朋友 忘互fo私信摸摸喵🥺谢谢泥们…",
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 83,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 160
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

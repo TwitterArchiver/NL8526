@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048220435846987776"
+      ],
+      "media_source_tweet_id": [
+        "2048220437721825599"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2048332245560365335",
+    "created_at": "2026-04-26T09:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048332245560365335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032715306632884224",
+          "start": 3,
+          "username": "omgnowihave"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6PMTGVA6c",
+          "end": 51,
+          "expanded_url": "https://x.com/omgnowihave/status/2048220437721825599/photo/1",
+          "media_key": "3_2048220435846987776",
+          "start": 28,
+          "url": "https://t.co/S6PMTGVA6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048332245560365335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048220437721825599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omgnowihave: ADHD還是太權威了 https://t.co/S6PMTGVA6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2048220435846987776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGy9omxbAAAirmI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048220435846987776"
+          ],
+          "media_source_tweet_id": [
+            "2048220437721825599"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2048332245560365335",
+        "created_at": "2026-04-26T09:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048332245560365335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032715306632884224",
+              "start": 3,
+              "username": "omgnowihave"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6PMTGVA6c",
+              "end": 51,
+              "expanded_url": "https://x.com/omgnowihave/status/2048220437721825599/photo/1",
+              "media_key": "3_2048220435846987776",
+              "start": 28,
+              "url": "https://t.co/S6PMTGVA6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048332245560365335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048220437721825599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omgnowihave: ADHD還是太權威了 https://t.co/S6PMTGVA6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048220435846987776"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "conversation_id": "2048220437721825599",
+        "created_at": "2026-04-26T01:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048220437721825599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6PMTGVA6c",
+              "end": 34,
+              "expanded_url": "https://x.com/omgnowihave/status/2048220437721825599/photo/1",
+              "media_key": "3_2048220435846987776",
+              "start": 11,
+              "url": "https://t.co/S6PMTGVA6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048220437721825599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 527,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD還是太權威了 https://t.co/S6PMTGVA6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 651,
+          "like_count": 9760,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2044992333293490310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 712,
+          "like_count": 4940,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1268
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

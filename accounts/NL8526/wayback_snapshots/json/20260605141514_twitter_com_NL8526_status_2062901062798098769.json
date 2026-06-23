@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062877370865098753",
+    "created_at": "2026-06-05T14:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062901062798098769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062901062798098769",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877370865098753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 拍！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5901,
+        "height": 720,
+        "media_key": "13_2062877274962350080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062877274962350080/img/3SzBBzglAzPqkwSl.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062877274962350080/vid/avc1/480x270/vaaGX0GMBSfBzx_H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062877274962350080/vid/avc1/640x360/hdK9tDNzkkeHCRD8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062877274962350080/vid/avc1/1280x720/Z675y6tgdjBJknNo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062877274962350080/pl/OxGSwnhvOvZeVsNM.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062877370865098753",
+        "created_at": "2026-06-05T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062901062798098769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062901062798098769",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877370865098753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 拍！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062877274962350080"
+          ]
+        },
+        "author_id": "2015624869665456129",
+        "conversation_id": "2062877370865098753",
+        "created_at": "2026-06-05T12:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062877370865098753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjQ3llt1Cz",
+              "end": 32,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2062877370865098753/video/1",
+              "media_key": "13_2062877274962350080",
+              "start": 9,
+              "url": "https://t.co/EjQ3llt1Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877370865098753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫伸懒腰中…👿 https://t.co/EjQ3llt1Cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 711,
+          "like_count": 14579,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子💕| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality🌊\n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 486,
+          "like_count": 918,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

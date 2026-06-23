@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2031979322425372926",
+    "created_at": "2026-03-12T17:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032146080662765975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032146080662765975",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031979322425372926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 一加15 🥰  傻逼小米一边去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_2031979049225240576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMKLewbQAA-rAw.png",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2031979322425372926",
+        "created_at": "2026-03-12T17:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032146080662765975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032146080662765975",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031979322425372926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 一加15 🥰  傻逼小米一边去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031979049225240576"
+          ]
+        },
+        "author_id": "1383473182854684674",
+        "conversation_id": "2031979322425372926",
+        "created_at": "2026-03-12T06:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031979322425372926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s5eHJL8MR",
+              "end": 56,
+              "expanded_url": "https://x.com/yuanwangnan/status/2031979322425372926/photo/1",
+              "media_key": "3_2031979049225240576",
+              "start": 33,
+              "url": "https://t.co/2s5eHJL8MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031979322425372926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 360259,
+          "like_count": 762,
+          "quote_count": 7,
+          "reply_count": 128,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "小米我操你妈\n我现在不后悔我选择了一加15了，我祝你小米早日烂死 https://t.co/2s5eHJL8MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "MTF",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 432,
+          "like_count": 6489,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 219
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1996625486861185077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 164,
+          "like_count": 50654,
+          "listed_count": 18,
+          "media_count": 2177,
+          "tweet_count": 22777
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

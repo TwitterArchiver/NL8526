@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2066497798418428170",
+    "created_at": "2026-06-15T12:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066498368499769433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065018601451765760",
+          "start": 0,
+          "username": "8526nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066498368499769433",
+    "in_reply_to_user_id": "2065018601451765760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066497798418428170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8526nl 感觉剪头发和砍头没区别"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6826,
+        "height": 1280,
+        "media_key": "7_2066497785441169408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066497785441169408/pu/img/4BBc1qt--DY_96eF.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/320x568/fqXC1zWLSArs4Hjb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/480x852/CdW-dYwU3KvVsRaf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066497785441169408/pu/vid/avc1/720x1280/HHYpIbLQvj6MfFyM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066497785441169408/pu/pl/s4DZq_Uc2BFEdboe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2066497798418428170",
+        "created_at": "2026-06-15T12:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066498368499769433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065018601451765760",
+              "start": 0,
+              "username": "8526nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066498368499769433",
+        "in_reply_to_user_id": "2065018601451765760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497798418428170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8526nl 感觉剪头发和砍头没区别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066497785441169408"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066497798418428170",
+        "created_at": "2026-06-15T12:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066497798418428170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdwdWbxJYM",
+              "end": 28,
+              "expanded_url": "https://x.com/8526nl/status/2066497798418428170/video/1",
+              "media_key": "7_2066497785441169408",
+              "start": 5,
+              "url": "https://t.co/DdwdWbxJYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066497798418428170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "板寸好丑 https://t.co/DdwdWbxJYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 792,
+          "like_count": 16879,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 119,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2045836196107133114",
+    "created_at": "2026-04-19T12:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045845653230637349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainBuild_2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045845653230637349",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045836196107133114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2025 就听听👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2045836196107133114",
+        "created_at": "2026-04-19T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045845653230637349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainBuild_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045845653230637349",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045836196107133114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2025 就听听👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2045836196107133114",
+        "created_at": "2026-04-19T12:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045836196107133114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "高坂穗嘉图’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YxNr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YxNrZzaeLZxw",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 每周日晚上8点陪你聊数码",
+              "unwound_url": "https://twitter.com/i/spaces/1YxNrZzaeLZxw/peek",
+              "url": "https://t.co/pJQAt7gtLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045836196107133114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pJQAt7gtLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 598,
+          "like_count": 9140,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "China Xiaomi Promoter UTC+8｜专注次元联合创始人、产品经理、中国区市场部总经理｜TeamRain 团队产品 UI 体验官 | 真诚、热爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "The United Kingdom",
+        "name": "高坂穗嘉图",
+        "pinned_tweet_id": "2043020664203022783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042976983618048000/7nEs2W8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1295,
+          "like_count": 1967,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainBuild_2025",
+        "verified": true
+      }
+    ]
+  }
+}

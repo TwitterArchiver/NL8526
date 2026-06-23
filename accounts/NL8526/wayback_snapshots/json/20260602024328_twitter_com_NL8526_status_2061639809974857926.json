@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2061632108427444553",
+    "created_at": "2026-06-02T02:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061639809974857926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061639809974857926",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061632108427444553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 虎牙好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061630723900272640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxiOGwbcAAmhX0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061630723690475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxiOF-aMAA5Gmq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2061632099959164928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxjeM-b0AAfe-y.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2061632108427444553",
+        "created_at": "2026-06-02T02:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061639809974857926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061639809974857926",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061632108427444553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 虎牙好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061630723900272640",
+            "3_2061630723690475520",
+            "3_2061632099959164928"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2061632108427444553",
+        "created_at": "2026-06-02T02:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061632108427444553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxY64Ynr8G",
+              "end": 66,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2061632108427444553/photo/1",
+              "media_key": "3_2061630723900272640",
+              "start": 43,
+              "url": "https://t.co/BxY64Ynr8G"
+            },
+            {
+              "display_url": "pic.x.com/BxY64Ynr8G",
+              "end": 66,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2061632108427444553/photo/1",
+              "media_key": "3_2061630723690475520",
+              "start": 43,
+              "url": "https://t.co/BxY64Ynr8G"
+            },
+            {
+              "display_url": "pic.x.com/BxY64Ynr8G",
+              "end": 66,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2061632108427444553/photo/1",
+              "media_key": "3_2061632099959164928",
+              "start": 43,
+              "url": "https://t.co/BxY64Ynr8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061632108427444553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戴着个小雷达手串去拍照片，好像被摄影的马尾文艺大叔认出来了诶诶了两声然后盯着我笑了笑 https://t.co/BxY64Ynr8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 696,
+          "like_count": 13933,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 1449,
+          "like_count": 77693,
+          "listed_count": 10,
+          "media_count": 1119,
+          "tweet_count": 22405
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

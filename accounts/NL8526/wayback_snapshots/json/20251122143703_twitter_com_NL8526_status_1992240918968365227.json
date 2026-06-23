@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992240910860726272"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1992240918968365227",
+    "created_at": "2025-11-22T14:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992240918968365227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKGy3J9FuS",
+          "end": 136,
+          "expanded_url": "https://x.com/NL8526/status/1992240918968365227/photo/1",
+          "media_key": "3_1992240910860726272",
+          "start": 113,
+          "url": "https://t.co/wKGy3J9FuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992240918968365227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚出去散心 走到一半突然肚子疼想上厕所 还好附近是还没开发好的房地产 赶紧随便找个草丛拉 没有纸擦不了屁股呜呜呜 只能回去洗洗了 我是没素质的小野猫😭😭\n然后去新力有家(便利店)买了一瓶魔爪和一个茶叶蛋居然收了我八块钱😡😡 https://t.co/wKGy3J9FuS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992240910860726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XcjZbasAAdFOc.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992240910860726272"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1992240918968365227",
+        "created_at": "2025-11-22T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992240918968365227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKGy3J9FuS",
+              "end": 136,
+              "expanded_url": "https://x.com/NL8526/status/1992240918968365227/photo/1",
+              "media_key": "3_1992240910860726272",
+              "start": 113,
+              "url": "https://t.co/wKGy3J9FuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992240918968365227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚出去散心 走到一半突然肚子疼想上厕所 还好附近是还没开发好的房地产 赶紧随便找个草丛拉 没有纸擦不了屁股呜呜呜 只能回去洗洗了 我是没素质的小野猫😭😭\n然后去新力有家(便利店)买了一瓶魔爪和一个茶叶蛋居然收了我八块钱😡😡 https://t.co/wKGy3J9FuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 34,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 86
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

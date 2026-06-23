@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049879597928570880",
+        "3_2049879570934087680"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2049879600680059381",
+    "created_at": "2026-04-30T15:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049879600680059381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWnKyOyI0X",
+          "end": 43,
+          "expanded_url": "https://x.com/NL8526/status/2049879600680059381/photo/1",
+          "media_key": "3_2049879597928570880",
+          "start": 20,
+          "url": "https://t.co/IWnKyOyI0X"
+        },
+        {
+          "display_url": "pic.x.com/IWnKyOyI0X",
+          "end": 43,
+          "expanded_url": "https://x.com/NL8526/status/2049879600680059381/photo/1",
+          "media_key": "3_2049879570934087680",
+          "start": 20,
+          "url": "https://t.co/IWnKyOyI0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049879600680059381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类没救了😨但是我觉得不如生吃QQ😂😂 https://t.co/IWnKyOyI0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2049879597928570880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKiojLaYAAy3LP.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049879570934087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKim-nbQAAQCZu.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049879597928570880",
+            "3_2049879570934087680"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2049879600680059381",
+        "created_at": "2026-04-30T15:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049879600680059381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWnKyOyI0X",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2049879600680059381/photo/1",
+              "media_key": "3_2049879597928570880",
+              "start": 20,
+              "url": "https://t.co/IWnKyOyI0X"
+            },
+            {
+              "display_url": "pic.x.com/IWnKyOyI0X",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2049879600680059381/photo/1",
+              "media_key": "3_2049879570934087680",
+              "start": 20,
+              "url": "https://t.co/IWnKyOyI0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049879600680059381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类没救了😨但是我觉得不如生吃QQ😂😂 https://t.co/IWnKyOyI0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 696,
+          "like_count": 10156,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2026247719921316304",
+    "created_at": "2026-02-24T10:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026248438569156696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026248438569156696",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026247719921316304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2026247719921316304",
+        "created_at": "2026-02-24T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026248438569156696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026248438569156696",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026247719921316304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2026247719921316304",
+        "created_at": "2026-02-24T10:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026247719921316304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026247719921316304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚八点大概率要和男友的父母见面了\n好慌张\n现在在去他家的高铁上\n虽然平时rle的挺一帆风顺，但路人也不会盯着我看啊……如果是被当未来儿媳看待肯定会被仔细打量盯着每一个细节\n反向炸柜就完蛋了\n😨😭😭😭\n紧张的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥炸柜/家长不管党 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 344,
+          "like_count": 4661,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 189
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 1392,
+          "like_count": 67371,
+          "listed_count": 3,
+          "media_count": 941,
+          "tweet_count": 18764
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

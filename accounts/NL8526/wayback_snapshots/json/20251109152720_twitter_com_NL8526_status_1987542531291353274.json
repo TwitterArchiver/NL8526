@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987542528451866624"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1987542531291353274",
+    "created_at": "2025-11-09T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987542531291353274"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "音游"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "Arcaea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7r4B4rRDK",
+          "end": 61,
+          "expanded_url": "https://x.com/NL8526/status/1987542531291353274/photo/1",
+          "media_key": "3_1987542528451866624",
+          "start": 38,
+          "url": "https://t.co/T7r4B4rRDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987542531291353274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✌️十级第一个EX，话说十级都这么多创创创的谱面吗\n#音游 #Arcaea https://t.co/T7r4B4rRDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_1987542528451866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UrZjBa8AAcLtS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987542528451866624"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1987542531291353274",
+        "created_at": "2025-11-09T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987542531291353274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "音游"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "Arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7r4B4rRDK",
+              "end": 61,
+              "expanded_url": "https://x.com/NL8526/status/1987542531291353274/photo/1",
+              "media_key": "3_1987542528451866624",
+              "start": 38,
+              "url": "https://t.co/T7r4B4rRDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987542531291353274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌️十级第一个EX，话说十级都这么多创创创的谱面吗\n#音游 #Arcaea https://t.co/T7r4B4rRDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 26,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 54
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1990653765305741571",
+    "created_at": "2025-11-18T05:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990653765305741571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620947245431668736",
+          "start": 3,
+          "username": "liutian86"
+        },
+        {
+          "end": 24,
+          "id": "2886649711",
+          "start": 15,
+          "username": "Goku1683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990653765305741571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990512865388999133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liutian86: @Goku1683 因为这个时代比起做男生，做女生会更轻松一些，有人疼，有人关爱，有人包容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1990653765305741571",
+        "created_at": "2025-11-18T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990653765305741571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620947245431668736",
+              "start": 3,
+              "username": "liutian86"
+            },
+            {
+              "end": 24,
+              "id": "2886649711",
+              "start": 15,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990653765305741571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990512865388999133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liutian86: @Goku1683 因为这个时代比起做男生，做女生会更轻松一些，有人疼，有人关爱，有人包容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620947245431668736",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-17T20:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990512865388999133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2886649711",
+              "start": 0,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990512865388999133",
+        "in_reply_to_user_id": "2886649711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6565,
+          "like_count": 69,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990439187393503290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goku1683 因为这个时代比起做男生，做女生会更轻松一些，有人疼，有人关爱，有人包容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 30,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 77
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T00:48:45.000Z",
+        "description": "",
+        "id": "1620947245431668736",
+        "name": "癫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990329334104825856/s_T5j2b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 189
+        },
+        "username": "liutian86",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 657,
+          "like_count": 1086,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 144
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

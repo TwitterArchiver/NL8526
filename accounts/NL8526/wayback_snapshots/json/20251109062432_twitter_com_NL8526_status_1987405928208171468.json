@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1987405928208171468",
+    "created_at": "2025-11-09T06:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987405928208171468"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987405928208171468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该服输\n只是一个普通人\n妄想成为大佬\n应该抑制自己研究一切的欲望\n什么都做不到\n只能捡烂大街的东西玩 禁锢在信息茧房中\n不是表达自己多独特多装逼\n挣扎的在茧房撕开一条缝\n只想自己能做到像他们一样\n内心的那种不服输的心羡慕的心也该死了\n做不到它们的高度 任何事\n不再挣扎\n我应该服输"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1987405928208171468",
+        "created_at": "2025-11-09T06:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987405928208171468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987405928208171468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该服输\n只是一个普通人\n妄想成为大佬\n应该抑制自己研究一切的欲望\n什么都做不到\n只能捡烂大街的东西玩 禁锢在信息茧房中\n不是表达自己多独特多装逼\n挣扎的在茧房撕开一条缝\n只想自己能做到像他们一样\n内心的那种不服输的心羡慕的心也该死了\n做不到它们的高度 任何事\n不再挣扎\n我应该服输"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好但是超焦虑级缺爱自卑社恐悲观内耗无法和解自己🐱 害怕炸柜 | 谢谢关注，互fo私信摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 25,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 51
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

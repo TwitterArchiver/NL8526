@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067035584674304000",
+        "3_2067035584699457536"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2067035297158930754",
+    "created_at": "2026-06-17T00:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067035587216126268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpC5w3afkE",
+          "end": 23,
+          "expanded_url": "https://x.com/NL8526/status/2067035587216126268/photo/1",
+          "media_key": "3_2067035584674304000",
+          "start": 0,
+          "url": "https://t.co/HpC5w3afkE"
+        },
+        {
+          "display_url": "pic.x.com/HpC5w3afkE",
+          "end": 23,
+          "expanded_url": "https://x.com/NL8526/status/2067035587216126268/photo/1",
+          "media_key": "3_2067035584699457536",
+          "start": 0,
+          "url": "https://t.co/HpC5w3afkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067035587216126268",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067035297158930754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/HpC5w3afkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067035584674304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-V6aKakAAEhnU.jpg",
+        "width": 443
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067035584699457536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-V6aQaYAAP9WJ.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067035584674304000",
+            "3_2067035584699457536"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067035297158930754",
+        "created_at": "2026-06-17T00:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067035587216126268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpC5w3afkE",
+              "end": 23,
+              "expanded_url": "https://x.com/NL8526/status/2067035587216126268/photo/1",
+              "media_key": "3_2067035584674304000",
+              "start": 0,
+              "url": "https://t.co/HpC5w3afkE"
+            },
+            {
+              "display_url": "pic.x.com/HpC5w3afkE",
+              "end": 23,
+              "expanded_url": "https://x.com/NL8526/status/2067035587216126268/photo/1",
+              "media_key": "3_2067035584699457536",
+              "start": 0,
+              "url": "https://t.co/HpC5w3afkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067035587216126268",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067035297158930754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/HpC5w3afkE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067035297158930754",
+        "created_at": "2026-06-17T00:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:02:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067035003306103157",
+          "2067035297158930754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/djx00919/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/djx00919/status/2067025387801252051",
+              "start": 35,
+              "url": "https://t.co/d1krTiklvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067035297158930754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067025387801252051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "查完成分释怀了 居然还有跟他互关的 教唆别人去死很好玩呗 本质看黄楠 https://t.co/d1krTiklvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 804,
+          "like_count": 17120,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

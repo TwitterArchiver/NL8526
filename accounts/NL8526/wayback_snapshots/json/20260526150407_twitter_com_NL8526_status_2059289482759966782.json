@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2059289482759966782",
+    "created_at": "2026-05-26T15:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059289482759966782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanziiLove/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/LanziiLove/status/2059264088933581088",
+          "start": 63,
+          "url": "https://t.co/TE9qB3k9V4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059289482759966782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059264088933581088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "视频里面塞五六分钟广告 不言而喻\n案例少的可怜 甚至能扯到21年\"吃个桃桃\"一梗上面去，拿少数代表多数 依旧东亚去雄计划😈😈 https://t.co/TE9qB3k9V4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059264048479576064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP5vdxboAAA0Vd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2059289482759966782",
+        "created_at": "2026-05-26T15:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059289482759966782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2059264088933581088",
+              "start": 63,
+              "url": "https://t.co/TE9qB3k9V4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059289482759966782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264088933581088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "视频里面塞五六分钟广告 不言而喻\n案例少的可怜 甚至能扯到21年\"吃个桃桃\"一梗上面去，拿少数代表多数 依旧东亚去雄计划😈😈 https://t.co/TE9qB3k9V4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059264048479576064"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059264088933581088",
+        "created_at": "2026-05-26T13:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059264088933581088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3UIQqPZUx",
+              "end": 36,
+              "expanded_url": "https://x.com/LanziiLove/status/2059264088933581088/photo/1",
+              "media_key": "3_2059264048479576064",
+              "start": 13,
+              "url": "https://t.co/f3UIQqPZUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059264088933581088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2895,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "已用6.8w粉B站号跟团 https://t.co/f3UIQqPZUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 928,
+          "like_count": 13095,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24889,
+          "following_count": 1218,
+          "like_count": 2900,
+          "listed_count": 77,
+          "media_count": 444,
+          "tweet_count": 2611
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

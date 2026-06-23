@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2066395723659378779",
+    "created_at": "2026-06-15T05:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066395723659378779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8526nl/status/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/8526nl/status/2066244132818035041",
+          "start": 55,
+          "url": "https://t.co/Xoa4zVsfME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066395723659378779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066244132818035041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨不记得昨晚什么时候发过这个帖子了 今天早上自己刷到还以为被盗号了（乱入\n大概是头晕头痛吃片片之后无意识操作 https://t.co/Xoa4zVsfME"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2066395723659378779",
+        "created_at": "2026-06-15T05:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066395723659378779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8526nl/status/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/8526nl/status/2066244132818035041",
+              "start": 55,
+              "url": "https://t.co/Xoa4zVsfME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066395723659378779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066244132818035041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨不记得昨晚什么时候发过这个帖子了 今天早上自己刷到还以为被盗号了（乱入\n大概是头晕头痛吃片片之后无意识操作 https://t.co/Xoa4zVsfME"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065018601451765760",
+        "conversation_id": "2066244132818035041",
+        "created_at": "2026-06-14T19:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066244132818035041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066244132818035041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加班完准备回家发现车被堵在小区里面 左右都没空间了 我发④下次一定不再停车在小区地面上 被围得水泄不通😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 788,
+          "like_count": 16802,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜随意互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "NL8526"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "wngjil835743488"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 112,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

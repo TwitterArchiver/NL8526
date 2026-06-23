@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1992973446238920816",
+    "created_at": "2025-11-24T15:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992973446238920816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992973446238920816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992874978338111779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024: 每个人都会有经历人生低谷的时候，但是我相信终有一天会迎来属于自己的高光时刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1992973446238920816",
+        "created_at": "2025-11-24T15:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992973446238920816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992973446238920816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992874978338111779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024: 每个人都会有经历人生低谷的时候，但是我相信终有一天会迎来属于自己的高光时刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1992874978338111779",
+        "created_at": "2025-11-24T08:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992874978338111779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992874978338111779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每个人都会有经历人生低谷的时候，但是我相信终有一天会迎来属于自己的高光时刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 39,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 97
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1991434977301672122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991776429114290176/1qedHbna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 595,
+          "like_count": 29679,
+          "listed_count": 3,
+          "media_count": 700,
+          "tweet_count": 4582
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

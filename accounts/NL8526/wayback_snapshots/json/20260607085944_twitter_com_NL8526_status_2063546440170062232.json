@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063546436793610241",
+        "3_2063546436080615424"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2063546440170062232",
+    "created_at": "2026-06-07T08:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063546440170062232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFRBJpvxQK",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2063546440170062232/photo/1",
+          "media_key": "3_2063546436793610241",
+          "start": 18,
+          "url": "https://t.co/rFRBJpvxQK"
+        },
+        {
+          "display_url": "pic.x.com/rFRBJpvxQK",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2063546440170062232/photo/1",
+          "media_key": "3_2063546436080615424",
+          "start": 18,
+          "url": "https://t.co/rFRBJpvxQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063546440170062232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老大…我们这样色诱别人真的会来嘛？ https://t.co/rFRBJpvxQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063546436793610241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMwjRabMAEAiqI.jpg",
+        "width": 1152
+      },
+      {
+        "height": 540,
+        "media_key": "3_2063546436080615424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMwjOwbwAA1c5g.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063546436793610241",
+            "3_2063546436080615424"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2063546440170062232",
+        "created_at": "2026-06-07T08:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063546440170062232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFRBJpvxQK",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2063546440170062232/photo/1",
+              "media_key": "3_2063546436793610241",
+              "start": 18,
+              "url": "https://t.co/rFRBJpvxQK"
+            },
+            {
+              "display_url": "pic.x.com/rFRBJpvxQK",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2063546440170062232/photo/1",
+              "media_key": "3_2063546436080615424",
+              "start": 18,
+              "url": "https://t.co/rFRBJpvxQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063546440170062232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大…我们这样色诱别人真的会来嘛？ https://t.co/rFRBJpvxQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 725,
+          "like_count": 14875,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

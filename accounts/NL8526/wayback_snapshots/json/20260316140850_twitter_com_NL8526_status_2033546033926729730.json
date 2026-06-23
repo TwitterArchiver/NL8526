@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2033546033926729730",
+    "created_at": "2026-03-16T14:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033546033926729730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "822329886257790976",
+          "start": 3,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033546033926729730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033529516350705966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumidexNZ: 我的社会能力好差，还是跟比我强势的男人玩比较好，起码能好好照顾我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2033546033926729730",
+        "created_at": "2026-03-16T14:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033546033926729730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "822329886257790976",
+              "start": 3,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033546033926729730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033529516350705966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LumidexNZ: 我的社会能力好差，还是跟比我强势的男人玩比较好，起码能好好照顾我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822329886257790976",
+        "conversation_id": "2033529516350705966",
+        "created_at": "2026-03-16T13:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033529516350705966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033529516350705966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的社会能力好差，还是跟比我强势的男人玩比较好，起码能好好照顾我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 🎹音游📍坐标江西",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032160283016458383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 439,
+          "like_count": 6817,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 238
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病挂壁老鼠人｜168cm/51kg｜大猫咪🐈@morisase｜匿名提问https://t.co/MkVyELXohF 同类互fo🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "morisase"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 61,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 38,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 534,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

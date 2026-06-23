@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058482871988605102",
+    "created_at": "2026-05-24T09:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058482871988605102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Luoji3500/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Luoji3500/status/2058432863381618894",
+          "start": 8,
+          "url": "https://t.co/VMXXS7Dywd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058482871988605102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058432863381618894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扣1当头像1天 https://t.co/VMXXS7Dywd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2058432855928426496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEFxsObUAAN-CL.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058482871988605102",
+        "created_at": "2026-05-24T09:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058482871988605102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luoji3500/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Luoji3500/status/2058432863381618894",
+              "start": 8,
+              "url": "https://t.co/VMXXS7Dywd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058482871988605102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058432863381618894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扣1当头像1天 https://t.co/VMXXS7Dywd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058432855928426496"
+          ]
+        },
+        "author_id": "1972898838219513856",
+        "conversation_id": "2058432863381618894",
+        "created_at": "2026-05-24T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058432863381618894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDlyu4bcYt",
+              "end": 36,
+              "expanded_url": "https://x.com/Luoji3500/status/2058432863381618894/photo/1",
+              "media_key": "3_2058432855928426496",
+              "start": 13,
+              "url": "https://t.co/VDlyu4bcYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058432863381618894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈也有属于自己的牢大了 https://t.co/VDlyu4bcYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 905,
+          "like_count": 12699,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "MTF",
+        "id": "1972898838219513856",
+        "name": "高冷高松灯🏳️‍⚧",
+        "pinned_tweet_id": "2051337736075006122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028696823247097856/m77kK6t8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4141,
+          "following_count": 423,
+          "like_count": 824,
+          "listed_count": 7,
+          "media_count": 61,
+          "tweet_count": 234
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

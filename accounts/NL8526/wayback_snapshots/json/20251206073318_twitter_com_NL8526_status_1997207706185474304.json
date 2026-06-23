@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1997207706185474304",
+    "created_at": "2025-12-06T07:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997207706185474304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792933283040284673",
+          "start": 3,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997207706185474304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997005648601481290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuamitx0: 看见好看的女生，第一反应不是想办法加微信。而是焦虑，哇，我要是她这样这么好看就好了。我真的好神奇。\n女生看见帅哥，也会有想要成为刷哥的心情吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1997207706185474304",
+        "created_at": "2025-12-06T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997207706185474304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792933283040284673",
+              "start": 3,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997207706185474304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997005648601481290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuamitx0: 看见好看的女生，第一反应不是想办法加微信。而是焦虑，哇，我要是她这样这么好看就好了。我真的好神奇。\n女生看见帅哥，也会有想要成为刷哥的心情吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "1997005648601481290",
+        "created_at": "2025-12-05T18:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T19:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997005648601481290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997005648601481290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见好看的女生，第一反应不是想办法加微信。而是焦虑，哇，我要是她这样这么好看就好了。我真的好神奇。\n女生看见帅哥，也会有想要成为刷哥的心情吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 68,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 140
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️",
+        "id": "1792933283040284673",
+        "location": "臺灣 ",
+        "name": "catalyst",
+        "pinned_tweet_id": "1976573659189015037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988498253508399104/toazK1iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 667,
+          "like_count": 16965,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 11402
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

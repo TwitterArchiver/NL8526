@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010161993437810688",
+        "3_2010161993618206722",
+        "3_2010161993437851649"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2010162006096273467",
+    "created_at": "2026-01-11T01:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T02:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010162006096273467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Pvw343YSZ",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+          "media_key": "3_2010161993437810688",
+          "start": 18,
+          "url": "https://t.co/1Pvw343YSZ"
+        },
+        {
+          "display_url": "pic.x.com/1Pvw343YSZ",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+          "media_key": "3_2010161993618206722",
+          "start": 18,
+          "url": "https://t.co/1Pvw343YSZ"
+        },
+        {
+          "display_url": "pic.x.com/1Pvw343YSZ",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+          "media_key": "3_2010161993437851649",
+          "start": 18,
+          "url": "https://t.co/1Pvw343YSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010162006096273467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "游戏崩溃了，推u救救\n看看崩溃报告 https://t.co/1Pvw343YSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010161993437810688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WHrsfaEAAA8sH.jpg",
+        "width": 1469
+      },
+      {
+        "height": 486,
+        "media_key": "3_2010161993618206722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WHrtKasAI8_v4.jpg",
+        "width": 489
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010161993437851649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WHrsfasAEkus-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010161993437810688",
+            "3_2010161993618206722",
+            "3_2010161993437851649"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2010162006096273467",
+        "created_at": "2026-01-11T01:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010162006096273467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Pvw343YSZ",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+              "media_key": "3_2010161993437810688",
+              "start": 18,
+              "url": "https://t.co/1Pvw343YSZ"
+            },
+            {
+              "display_url": "pic.x.com/1Pvw343YSZ",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+              "media_key": "3_2010161993618206722",
+              "start": 18,
+              "url": "https://t.co/1Pvw343YSZ"
+            },
+            {
+              "display_url": "pic.x.com/1Pvw343YSZ",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2010162006096273467/photo/1",
+              "media_key": "3_2010161993437851649",
+              "start": 18,
+              "url": "https://t.co/1Pvw343YSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010162006096273467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游戏崩溃了，推u救救\n看看崩溃报告 https://t.co/1Pvw343YSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 想永远深柜 低气压ing 负面内容致歉…\n✈️即将开启成都流浪",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 167,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 140
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

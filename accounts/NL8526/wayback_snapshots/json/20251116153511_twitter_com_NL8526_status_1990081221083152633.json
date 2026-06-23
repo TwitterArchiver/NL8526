@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1990039267243163648",
+    "created_at": "2025-11-16T15:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990081221083152633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767835046600474624",
+          "start": 0,
+          "username": "haha44444qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990081221083152633",
+    "in_reply_to_user_id": "1767835046600474624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990039267243163648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haha44444qwq 🤤🤤😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1990039267243163648",
+        "created_at": "2025-11-16T15:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990081221083152633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767835046600474624",
+              "start": 0,
+              "username": "haha44444qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990081221083152633",
+        "in_reply_to_user_id": "1767835046600474624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990039267243163648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haha44444qwq 🤤🤤😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767835046600474624",
+        "conversation_id": "1990039267243163648",
+        "created_at": "2025-11-16T12:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990039267243163648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990039267243163648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有什么办法又有牛子又有b就好了，这样就可以：嘴一个，胸一个，牛子一个，b一个，皮燕子一个，手两个，脚一个，1v8再也是不是梦😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 29,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T08:48:30.000Z",
+        "description": "@haha44444awa 重生号|无证含糖|\n05年mtf|泛性恋|hrt:2022/9|2b2t玩家/minecraft玩家/服主|技术党|家里云万岁|音游|\n老公 @Nazuan086374173 |xyn都会写代码😎|\n还我2k粉丝QAQ\n我他妈成年了 别封我号😡😡😡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "haha44444awa"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "Nazuan086374173"
+              }
+            ]
+          }
+        },
+        "id": "1767835046600474624",
+        "location": "localhost",
+        "name": "haha44444🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775602322154102784/dViOiawi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 7451,
+          "like_count": 7751,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 472
+        },
+        "username": "haha44444qwq",
+        "verified": false
+      }
+    ]
+  }
+}

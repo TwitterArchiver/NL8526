@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2065818161438658859",
+    "created_at": "2026-06-13T15:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065818161438658859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "description": "KiraMyao Equal 是一个关注跨性别与性少数群体处境的公益信息网站，发布生存指南、研究报告、真实故事与倡导行动，整理安全、隐私友好的公共资料，帮助更多人被看见、被理解并获得支持。",
+          "display_url": "kiraequal.org/join",
+          "end": 76,
+          "expanded_url": "https://kiraequal.org/join",
+          "start": 53,
+          "status": 200,
+          "title": "KiraMyao Equal | 跨性别与性少数群体公益信息与倡导网站",
+          "unwound_url": "https://kiraequal.org/join",
+          "url": "https://t.co/IDzMGYGbWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065818161438658859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064283898289508369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 2026中国跨性别者生存处境调查\n\n本问卷由 KiraMyao Equal (https://t.co/IDzMGYGbWp) 发起\n骄傲月 2026 继MTF only转发\n\n本调查旨在记录中国跨性别群体的真实生存处境，让世界听到我们的声音。\n\n⏱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2064283796615335936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXPLQzaEAAVQ75.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065818161438658859",
+        "created_at": "2026-06-13T15:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818161438658859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "KiraMyao Equal 是一个关注跨性别与性少数群体处境的公益信息网站，发布生存指南、研究报告、真实故事与倡导行动，整理安全、隐私友好的公共资料，帮助更多人被看见、被理解并获得支持。",
+              "display_url": "kiraequal.org/join",
+              "end": 76,
+              "expanded_url": "https://kiraequal.org/join",
+              "start": 53,
+              "status": 200,
+              "title": "KiraMyao Equal | 跨性别与性少数群体公益信息与倡导网站",
+              "unwound_url": "https://kiraequal.org/join",
+              "url": "https://t.co/IDzMGYGbWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065818161438658859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064283898289508369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 2026中国跨性别者生存处境调查\n\n本问卷由 KiraMyao Equal (https://t.co/IDzMGYGbWp) 发起\n骄傲月 2026 继MTF only转发\n\n本调查旨在记录中国跨性别群体的真实生存处境，让世界听到我们的声音。\n\n⏱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064283796615335936"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2064283898289508369",
+        "created_at": "2026-06-09T09:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064283898289508369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "KiraMyao Equal 是一个关注跨性别与性少数群体处境的公益信息网站，发布生存指南、研究报告、真实故事与倡导行动，整理安全、隐私友好的公共资料，帮助更多人被看见、被理解并获得支持。",
+              "display_url": "kiraequal.org/join",
+              "end": 62,
+              "expanded_url": "https://kiraequal.org/join",
+              "start": 39,
+              "status": 200,
+              "title": "KiraMyao Equal | 跨性别与性少数群体公益信息与倡导网站",
+              "unwound_url": "https://kiraequal.org/join",
+              "url": "https://t.co/IDzMGYGbWp"
+            },
+            {
+              "display_url": "pic.x.com/KGMI4kUQYt",
+              "end": 181,
+              "expanded_url": "https://x.com/KiraMyao/status/2064283898289508369/photo/1",
+              "media_key": "3_2064283796615335936",
+              "start": 158,
+              "url": "https://t.co/KGMI4kUQYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064283898289508369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org/join",
+                "end": 62,
+                "expanded_url": "https://kiraequal.org/join",
+                "start": 39,
+                "url": "https://t.co/q6odxcAbvv"
+              }
+            ]
+          },
+          "text": "2026中国跨性别者生存处境调查\n\n本问卷由 KiraMyao Equal (https://t.co/q6odxcAbvv) 发起\n骄傲月 2026 继MTF only转发\n\n本调查旨在记录中国跨性别群体的真实生存处境，让世界听到我们的声音。\n\n⏱ 预计 15–20 分钟\n🔒 完全匿名，不收集邮箱或 IP\n⚠️ 涉及家庭、医疗、心理健康等话题，部分问题可能触及不愉快的经历。你可以跳过任何题目、跳过任何部分，或随时退出。\n\n🛡 数据与伦理说明：本问卷为 KiraMyao Equal 发起的社群倡议性质匿名调查，不是医疗建议，也不替代专业诊疗；目前未经过大学、医院等机构伦理委员会/IRB 审查。我们只会以汇总或匿名方式使用结果，不会公开可识别个人的信息。如你在作答过程中感到明显不适，请优先停止作答，并联系可信任的人、本地紧急服务、心理危机资源或社群支持资源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4739,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026中国跨性别者生存处境调查\n\n本问卷由 KiraMyao Equal (https://t.co/IDzMGYGbWp) 发起\n骄傲月 2026 继MTF only转发\n\n本调查旨在记录中国跨性别群体的真实生存处境，让世界听到我们的声音。\n\n⏱ 预计 15–20 分钟\n🔒 完全匿名，不收集邮箱或 IP\n⚠️ https://t.co/KGMI4kUQYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 767,
+          "like_count": 16457,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org",
+                "end": 23,
+                "expanded_url": "https://kiraequal.org/",
+                "start": 0,
+                "url": "https://t.co/LOqOOjLxuS"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 360,
+          "like_count": 9937,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/LOqOOjLxuS",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

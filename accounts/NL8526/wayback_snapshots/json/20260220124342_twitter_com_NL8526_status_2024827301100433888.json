@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2024827301100433888",
+    "created_at": "2026-02-20T12:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024827301100433888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024827301100433888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去亲戚家吃饭 没被压力 说咱艺术生就该留长头发 让咱上主桌吃饭喝酒（因为老人不在了）桌上清一色黑色衣服 只有我粉色衣服（）\n大部分亲戚都认不出我来 以为是女生 还让小孩哥叫我姐姐😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2024827301100433888",
+        "created_at": "2026-02-20T12:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024827301100433888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024827301100433888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去亲戚家吃饭 没被压力 说咱艺术生就该留长头发 让咱上主桌吃饭喝酒（因为老人不在了）桌上清一色黑色衣服 只有我粉色衣服（）\n大部分亲戚都认不出我来 以为是女生 还让小孩哥叫我姐姐😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥炸柜/家长不管党 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 326,
+          "like_count": 4449,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 181
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

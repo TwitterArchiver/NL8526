@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994241080725000193"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1994241086731018436",
+    "created_at": "2025-11-28T03:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994241086731018436"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "mtf"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "hrt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1845454917236031495",
+          "start": 15,
+          "username": "Dontbesadforit"
+        }
+      ],
+      "urls": [
+        {
+          "description": "😋HRT在线模拟记录是一个注重隐私的网页工具，用于🏳️‍⚧在HRT过程中模拟并追踪雌二醇(Estradiol)水平。",
+          "display_url": "hrt.pueh.cn",
+          "end": 64,
+          "expanded_url": "http://hrt.pueh.cn",
+          "start": 41,
+          "status": 200,
+          "title": "🏳️‍⚧HRT在线模拟记录🍥",
+          "unwound_url": "http://hrt.pueh.cn",
+          "url": "https://t.co/CN8wLc1g8i"
+        },
+        {
+          "display_url": "pic.x.com/kLPoGm1wg6",
+          "end": 98,
+          "expanded_url": "https://x.com/NL8526/status/1994241086731018436/photo/1",
+          "media_key": "3_1994241080725000193",
+          "start": 75,
+          "url": "https://t.co/kLPoGm1wg6"
+        },
+        {
+          "display_url": "x.com/Dontbesadforit…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/Dontbesadforit/status/1992560261904085031",
+          "start": 99,
+          "url": "https://t.co/fX1H2jJh0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994241086731018436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992560261904085031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "部署好了😋 xyn快来用\n感谢@Dontbesadforit姐姐和开发者们👍👍👍\nhttps://t.co/CN8wLc1g8i\n#mtf #hrt https://t.co/kLPoGm1wg6 https://t.co/fX1H2jJh0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994241080725000193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z3sm0a0AEak5l.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994241080725000193"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1994241086731018436",
+        "created_at": "2025-11-28T03:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994241086731018436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "mtf"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "hrt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1845454917236031495",
+              "start": 15,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "description": "😋HRT在线模拟记录是一个注重隐私的网页工具，用于🏳️‍⚧在HRT过程中模拟并追踪雌二醇(Estradiol)水平。",
+              "display_url": "hrt.pueh.cn",
+              "end": 64,
+              "expanded_url": "http://hrt.pueh.cn",
+              "start": 41,
+              "status": 200,
+              "title": "🏳️‍⚧HRT在线模拟记录🍥",
+              "unwound_url": "http://hrt.pueh.cn",
+              "url": "https://t.co/CN8wLc1g8i"
+            },
+            {
+              "display_url": "pic.x.com/kLPoGm1wg6",
+              "end": 98,
+              "expanded_url": "https://x.com/NL8526/status/1994241086731018436/photo/1",
+              "media_key": "3_1994241080725000193",
+              "start": 75,
+              "url": "https://t.co/kLPoGm1wg6"
+            },
+            {
+              "display_url": "x.com/Dontbesadforit…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Dontbesadforit/status/1992560261904085031",
+              "start": 99,
+              "url": "https://t.co/fX1H2jJh0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994241086731018436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992560261904085031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "部署好了😋 xyn快来用\n感谢@Dontbesadforit姐姐和开发者们👍👍👍\nhttps://t.co/CN8wLc1g8i\n#mtf #hrt https://t.co/kLPoGm1wg6 https://t.co/fX1H2jJh0M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1992560261904085031",
+        "created_at": "2025-11-23T11:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992560261904085031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Rewrote HRT-Recorder into a web app. Contribute to LaoZhong-Mihari/HRT-Recorder-online development by creating an account on GitHub.",
+              "display_url": "github.com/LaoZhong-Mihar…",
+              "end": 23,
+              "expanded_url": "https://github.com/LaoZhong-Mihari/HRT-Recorder-online",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1992560305306791937/aHF98njA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992560305306791937/aHF98njA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "GitHub - LaoZhong-Mihari/HRT-Recorder-online: Rewrote HRT-Recorder into a web app.",
+              "unwound_url": "https://github.com/LaoZhong-Mihari/HRT-Recorder-online",
+              "url": "https://t.co/DzrtshOyjo"
+            },
+            {
+              "display_url": "x.com/Dontbesadforit…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Dontbesadforit/status/1992532972545974547",
+              "start": 51,
+              "url": "https://t.co/nO5OBoVXna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992560261904085031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2068,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992532972545974547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/DzrtshOyjo\n生出来了 不过我真的是完全不懂（）\n交给你们了qwq https://t.co/nO5OBoVXna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 42,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 105
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "大白是我的主人，猫卷也是 MtF/brat/无证含糖/🏳️‍⚧️HRT 2025.11.26 猫卷你他妈别改我bio了大白你也别改了",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "不是中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 943,
+          "like_count": 57572,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 7649
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

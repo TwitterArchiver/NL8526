@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1984964862418809227",
+    "created_at": "2025-11-05T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986106802745041133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986106802745041133",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984964862418809227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱妈那天说不要想太多 想一些开心的事情 然后讲了一个笑话（现在已经忘记了 我只记得我没笑）\n开心的事情...\n可能只有那时不时被视频或者图片惹地会心一笑的那种吧\n快乐的自己 我早就找不见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1984964862418809227",
+        "created_at": "2025-11-05T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986106802745041133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986106802745041133",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984964862418809227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱妈那天说不要想太多 想一些开心的事情 然后讲了一个笑话（现在已经忘记了 我只记得我没笑）\n开心的事情...\n可能只有那时不时被视频或者图片惹地会心一笑的那种吧\n快乐的自己 我早就找不见了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1984964862418809227",
+        "created_at": "2025-11-02T12:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984964862418809227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984964862418809227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天打电话我爸说我脸上肉更多了 头发这么长 像个女孩子。用家乡话说的像妹子，还说了两遍🤔🤔 我敢肯定他绝对不懂跨，被这样说心底里也是很开心呢..\n真想说我就想当女孩子，但是我只说了“像就像呗！”🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo私信摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 42
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

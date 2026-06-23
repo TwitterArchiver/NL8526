@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1982611326443925662",
+    "created_at": "2025-10-27T00:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982611326443925662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982611326443925662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上周刚兼职被骗 去跟辅导员讲了也就带我去了一趟学校保卫处 什么用都没有 还要让我自己打报警 110说这算财产纠纷类不算诈骗\n他们(骗子)给我的支付宝绑了每月扣款 自己解不了. 我上午刚签合同 跑了两单冻死了中午回寝室看合同不对劲 就去想解掉 结果要给他们钱才能解约 损失-539😭😭\n猫猫好差劲..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1982611326443925662",
+        "created_at": "2025-10-27T00:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982611326443925662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982611326443925662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上周刚兼职被骗 去跟辅导员讲了也就带我去了一趟学校保卫处 什么用都没有 还要让我自己打报警 110说这算财产纠纷类不算诈骗\n他们(骗子)给我的支付宝绑了每月扣款 自己解不了. 我上午刚签合同 跑了两单冻死了中午回寝室看合同不对劲 就去想解掉 结果要给他们钱才能解约 损失-539😭😭\n猫猫好差劲..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 经常有躯体化症状未确诊(没看过医生) |📍IP洪城 大学在读 | 🥰音游 性格好但是超级缺爱自卑社恐喵🐱 害怕已读不回...",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

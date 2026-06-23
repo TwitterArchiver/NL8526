@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066003296079523840",
+        "3_2066003296050176000"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2066003299510464743",
+    "created_at": "2026-06-14T03:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066003299510464743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTJ4jeochc",
+          "end": 67,
+          "expanded_url": "https://x.com/NL8526/status/2066003299510464743/photo/1",
+          "media_key": "3_2066003296079523840",
+          "start": 44,
+          "url": "https://t.co/NTJ4jeochc"
+        },
+        {
+          "display_url": "pic.x.com/NTJ4jeochc",
+          "end": 67,
+          "expanded_url": "https://x.com/NL8526/status/2066003299510464743/photo/1",
+          "media_key": "3_2066003296050176000",
+          "start": 44,
+          "url": "https://t.co/NTJ4jeochc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066003299510464743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☺️新的一期自介 欢迎扩列互fo\n解锁群聊请私信我查成分准入（同类/友跨/同频优先）🤗 https://t.co/NTJ4jeochc"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "\n​😺请叫我柠凉 / 07生 / ♍ / IP江西📍\n🏳️‍⚧️ MTF / 🧠 ISFP-T / AuDHD / BPD / 双向情感障碍症 (尽力自疗) / 重度社恐 不善言辞\n🎓 大一休学中 / 🎹 钢琴专业 / 喜欢毛绒玩具🦈 ​线下查无此人，互联网重度依赖，努力让自己精神状态正常。\n​🎮 玩的一些游戏：\n​音游：maimaiDX / Arcaea / Phigros\n​杂项：Sky光·遇 / Minecraft / Undertale / Deltarune / to the moon系列\n🎵喜欢的音乐：\n治愈 / 术曲 / 日系 / 8bit\n❤️制作人：Tobyfox、Kan R. Gao、ツユ、かめりあ\n​🛠️🖥️非专业杂活多\n平面设计 | 建模剪辑 | 建站运维 | 刷机装维 | 编曲打谱扒带术力口\n日常逛 QQ / Twitter / Telegram / GitHub，🚗偶尔自驾兜风\n​🌟 碎碎念\n正常玩梗抽象，神人事不干，有社交分寸。\n不抽烟不酗酒、不od不鉴证。\n请互相尊重 (特别是性别认同)，如果你能接受我，可以来我的小团体玩呀～ 🫂\n​🚨 雷区\nMis/Disgender | Chaser | 单删单取",
+        "height": 1182,
+        "media_key": "3_2066003296079523840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvrDTebMAAOEKo.jpg",
+        "width": 1331
+      },
+      {
+        "alt_text": "群聊二维码（已隐藏）",
+        "height": 2048,
+        "media_key": "3_2066003296050176000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvrDTXbYAAwx7M.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066003296079523840",
+            "3_2066003296050176000"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2066003299510464743",
+        "created_at": "2026-06-14T03:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066003299510464743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTJ4jeochc",
+              "end": 67,
+              "expanded_url": "https://x.com/NL8526/status/2066003299510464743/photo/1",
+              "media_key": "3_2066003296079523840",
+              "start": 44,
+              "url": "https://t.co/NTJ4jeochc"
+            },
+            {
+              "display_url": "pic.x.com/NTJ4jeochc",
+              "end": 67,
+              "expanded_url": "https://x.com/NL8526/status/2066003299510464743/photo/1",
+              "media_key": "3_2066003296050176000",
+              "start": 44,
+              "url": "https://t.co/NTJ4jeochc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066003299510464743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☺️新的一期自介 欢迎扩列互fo\n解锁群聊请私信我查成分准入（同类/友跨/同频优先）🤗 https://t.co/NTJ4jeochc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066000405532926302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 772,
+          "like_count": 16535,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

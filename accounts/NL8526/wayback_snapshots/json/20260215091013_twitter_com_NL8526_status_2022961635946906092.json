@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022720863238578177"
+      ],
+      "media_source_tweet_id": [
+        "2022720875703959806"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022961635946906092",
+    "created_at": "2026-02-15T09:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022961635946906092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705018997673267200",
+          "start": 3,
+          "username": "huimanawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0SH9Oixrhq",
+          "end": 41,
+          "expanded_url": "https://x.com/huimanawa/status/2022720875703959806/photo/1",
+          "media_key": "3_2022720863238578177",
+          "start": 18,
+          "url": "https://t.co/0SH9Oixrhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022961635946906092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022720875703959806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huimanawa: 唔？ https://t.co/0SH9Oixrhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022720863238578177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIl6IUbYAEJBqm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022720863238578177"
+          ],
+          "media_source_tweet_id": [
+            "2022720875703959806"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022961635946906092",
+        "created_at": "2026-02-15T09:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022961635946906092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705018997673267200",
+              "start": 3,
+              "username": "huimanawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SH9Oixrhq",
+              "end": 41,
+              "expanded_url": "https://x.com/huimanawa/status/2022720875703959806/photo/1",
+              "media_key": "3_2022720863238578177",
+              "start": 18,
+              "url": "https://t.co/0SH9Oixrhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022961635946906092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022720875703959806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huimanawa: 唔？ https://t.co/0SH9Oixrhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022720863238578177"
+          ]
+        },
+        "author_id": "1705018997673267200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022720875703959806",
+        "created_at": "2026-02-14T17:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022720875703959806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SH9Oixrhq",
+              "end": 26,
+              "expanded_url": "https://x.com/huimanawa/status/2022720875703959806/photo/1",
+              "media_key": "3_2022720863238578177",
+              "start": 3,
+              "url": "https://t.co/0SH9Oixrhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022720875703959806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 232,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唔？ https://t.co/0SH9Oixrhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥出柜失败 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 311,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 172
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T00:39:53.000Z",
+        "description": "huimanQAQ/xyn/hrt2025.4.10/2007.10.3/高三已开学/infp/174cm/45kg/无证含糖/社恐/内向/minecraft/maimai/QQ65360885",
+        "id": "1705018997673267200",
+        "location": "灰灰de小窝QAQ",
+        "name": "灰灰awa🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995822937715474432/i-9DM6I5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 81,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 222
+        },
+        "username": "huimanawa",
+        "verified": false
+      }
+    ]
+  }
+}

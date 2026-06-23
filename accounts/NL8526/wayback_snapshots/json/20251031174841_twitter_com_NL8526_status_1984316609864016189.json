@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984316607989153792"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1984316609864016189",
+    "created_at": "2025-10-31T17:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984316609864016189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bu8Lm4WZOo",
+          "end": 61,
+          "expanded_url": "https://x.com/NL8526/status/1984316609864016189/photo/1",
+          "media_key": "3_1984316607989153792",
+          "start": 38,
+          "url": "https://t.co/bu8Lm4WZOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984316609864016189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天想尝试一下🦌（持续一个小时没反应）\n最终发现龟龟死了 🕯️永远不怀念。 https://t.co/bu8Lm4WZOo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1984316607989153792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4m1cQ0aAAAfN72.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984316607989153792"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1984316609864016189",
+        "created_at": "2025-10-31T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984316609864016189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bu8Lm4WZOo",
+              "end": 61,
+              "expanded_url": "https://x.com/NL8526/status/1984316609864016189/photo/1",
+              "media_key": "3_1984316607989153792",
+              "start": 38,
+              "url": "https://t.co/bu8Lm4WZOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984316609864016189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天想尝试一下🦌（持续一个小时没反应）\n最终发现龟龟死了 🕯️永远不怀念。 https://t.co/bu8Lm4WZOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo请摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

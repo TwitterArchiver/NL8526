@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2040572407174648168",
+    "created_at": "2026-04-04T23:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T00:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040578614769651861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040578614769651861",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040572407174648168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN 硬要把两个群体拉开来说 就像迷你世界和我的世界一样。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2040572407174648168",
+        "created_at": "2026-04-04T23:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040578614769651861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040578614769651861",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040572407174648168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN 硬要把两个群体拉开来说 就像迷你世界和我的世界一样。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2040572407174648168",
+        "created_at": "2026-04-04T23:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040572407174648168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040572407174648168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我个人并不歧视男娘，但是某些男娘有啥资格歧视药娘，男娘群体里的精神病患者数量很少吗？援交的也一大堆\n还有b站上那个“男娘锐评药娘”更是重量级，什么叫“因为吃糖导致抑郁”，那确实有，但是更多的不是因为原生家庭导致的？你一个男娘，凭什么，有什么资格来评价药娘，半斤八两的玩意还叫上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039311756120793481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 512,
+          "like_count": 7887,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 278
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2039028209812209704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040449338292457472/1fvUpDpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 175,
+          "like_count": 139,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 220
+        },
+        "username": "N2OXYN",
+        "verified": true
+      }
+    ]
+  }
+}

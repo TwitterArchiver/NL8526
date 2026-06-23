@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2053822682345750674",
+    "created_at": "2026-05-11T13:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053825888572309529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 28,
+          "id": "1907414826101669888",
+          "start": 12,
+          "username": "JamFarewellSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053825888572309529",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053822682345750674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x @JamFarewellSong xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2053807601843089409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICXIeDasAE8ezl.png",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2053822682345750674",
+        "created_at": "2026-05-11T13:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053825888572309529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 28,
+              "id": "1907414826101669888",
+              "start": 12,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053825888572309529",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053822682345750674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x @JamFarewellSong xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053807601843089409"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2053822682345750674",
+        "created_at": "2026-05-11T13:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053822682345750674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1907414826101669888",
+              "start": 17,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEkLS8rd02",
+              "end": 57,
+              "expanded_url": "https://x.com/amecandy_x/status/2053822682345750674/photo/1",
+              "media_key": "3_2053807601843089409",
+              "start": 34,
+              "url": "https://t.co/rEkLS8rd02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053822682345750674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜……又被对象宠爱了 我最爱你啦\n@JamFarewellSong https://t.co/rEkLS8rd02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/讨好所有人/为什么我无人在意为什么你们都讨厌我 ❤️扩列互关 和我做朋友好不好? 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 808,
+          "like_count": 11363,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药物咨询https://t.co/z6NWnM8mXv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 66,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 43,
+                "url": "https://t.co/z6NWnM8mXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2053359050512040106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 2127,
+          "like_count": 27090,
+          "listed_count": 16,
+          "media_count": 1445,
+          "tweet_count": 10207
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 951,
+          "like_count": 3395,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 818
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

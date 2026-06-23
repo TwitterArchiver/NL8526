@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2066153693188153508",
+    "created_at": "2026-06-15T12:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066501677226873027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066501677226873027",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066153693188153508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 我一直都意识到自己是江西人😭😭还是最南边的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2066153693188153508",
+        "created_at": "2026-06-15T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066501677226873027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066501677226873027",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066153693188153508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 我一直都意识到自己是江西人😭😭还是最南边的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2066153693188153508",
+        "created_at": "2026-06-14T13:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066153693188153508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/patchouli608/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/patchouli608/status/2065831314524180780",
+              "start": 99,
+              "url": "https://t.co/eHjGPUzpih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066153693188153508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我今天才真正意识到自己是一个江西人。\n中国人总是对别人的苦难不闻不问，而当苦难压在自己身上，方知号哭无用。\n我常常欺骗着自己，感觉自己身边的人，都是充满了良知道德，有着仁爱之心，是能够共同进步的。\n多数人绝对世俗保守，绝对愚蠢，又蠢又坏。他们只会说出“苍蝇不叮无缝的蛋，想想自己的问题”“你难受就是闲的”“你要好好读书成为人上人”这类的话。\n您知道我对这些话了解的源头吗？不是自己的所处环境，而是见证他者的苦难。可只要诸众生有一品仍然认为这些东西没有价值，只要还有一人发嗔恨心，一人处于愚昧之中，痛苦就无法结束。\n虚妄的希望总会破灭，不论它是须臾的存在，还是所谓“几年的缓冲”。人总会走向天性的对立面。\n未来不会更好，它本就不存在。总有一天，会有人开始嫌弃我“一无是处”，说我“自私自利”，“没有集体荣誉感”，贴上“变态”，“精神病”，的标签，谴责我是社会的“异类”，发出“清算”“屠杀”的正义命令。\n人绝对要否定自我本不存在的天性，来融入伟大的社会进步进程中，这是我们这个社会最伟大的宿命。叹息和思考，焦虑和痛苦，只是唯心的过程。我们只配走向结果。\n因为，愚昧无明之人从不会思考作茧自缚的含义。\n\n丙午夏 复 以虚 于信江"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065831314524180780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我今天才真正意识到自己是一个江西人。\n中国人总是对别人的苦难不闻不问，而当苦难压在自己身上，方知号哭无用。\n我常常欺骗着自己，感觉自己身边的人，都是充满了良知道德，有着仁爱之心，是能够共同进步的。 https://t.co/eHjGPUzpih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 792,
+          "like_count": 16888,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "对不起对不起对不起对不起对不起\n对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起\n小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1200,
+          "like_count": 18391,
+          "listed_count": 1,
+          "media_count": 869,
+          "tweet_count": 6103
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

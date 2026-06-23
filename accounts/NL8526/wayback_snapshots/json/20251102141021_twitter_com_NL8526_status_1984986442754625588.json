@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1984986442754625588",
+    "created_at": "2025-11-02T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984986442754625588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FxxkApexLegend…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/FxxkApexLegend/status/1984954263756558638",
+          "start": 6,
+          "url": "https://t.co/HrNg8NKiyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984986442754625588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984954263756558638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真的👍👍 https://t.co/HrNg8NKiyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1984954252591349760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4v5YEEbwAA_EV1.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1984986442754625588",
+        "created_at": "2025-11-02T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984986442754625588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FxxkApexLegend…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/FxxkApexLegend/status/1984954263756558638",
+              "start": 6,
+              "url": "https://t.co/HrNg8NKiyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984986442754625588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984954263756558638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的👍👍 https://t.co/HrNg8NKiyS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984954252591349760"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1984954263756558638",
+        "created_at": "2025-11-02T12:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984954263756558638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/buhd16teLs",
+              "end": 54,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1984954263756558638/photo/1",
+              "media_key": "3_1984954252591349760",
+              "start": 31,
+              "url": "https://t.co/buhd16teLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984954263756558638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 20847,
+          "like_count": 133,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "把这个人拉黑b站就没有开屏广告了\n\n@9772b388-e7 https://t.co/buhd16teLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo请摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834861589573632/M2WZxoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 330,
+          "like_count": 2275,
+          "listed_count": 9,
+          "media_count": 287,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

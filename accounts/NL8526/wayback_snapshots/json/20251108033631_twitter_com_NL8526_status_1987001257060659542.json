@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987001254309171201"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1987001257060659542",
+    "created_at": "2025-11-08T03:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T04:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987001257060659542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0SxgdJ4IZ",
+          "end": 168,
+          "expanded_url": "https://x.com/NL8526/status/1987001257060659542/photo/1",
+          "media_key": "3_1987001254309171201",
+          "start": 145,
+          "url": "https://t.co/v0SxgdJ4IZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987001257060659542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过年不想回家... 妈说十八岁了我不能领压岁钱了。\n虽然以前小时候爷爷在的时候过年压岁钱也只有几百块。\n但是对我来说 对父母平时每个月一分零花钱都不给的我来说，那就是一年的零花钱，就是巨款，能存一整年都花不完。每次都期待过年拿压岁钱，\n现在 压岁钱没有了 烟花爆竹没有了 只剩下失望和失落 https://t.co/v0SxgdJ4IZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_1987001254309171201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5M_HPtakAEeMA-.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987001254309171201"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1987001257060659542",
+        "created_at": "2025-11-08T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987001257060659542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0SxgdJ4IZ",
+              "end": 168,
+              "expanded_url": "https://x.com/NL8526/status/1987001257060659542/photo/1",
+              "media_key": "3_1987001254309171201",
+              "start": 145,
+              "url": "https://t.co/v0SxgdJ4IZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987001257060659542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年不想回家... 妈说十八岁了我不能领压岁钱了。\n虽然以前小时候爷爷在的时候过年压岁钱也只有几百块。\n但是对我来说 对父母平时每个月一分零花钱都不给的我来说，那就是一年的零花钱，就是巨款，能存一整年都花不完。每次都期待过年拿压岁钱，\n现在 压岁钱没有了 烟花爆竹没有了 只剩下失望和失落 https://t.co/v0SxgdJ4IZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好但是超焦虑级缺爱自卑社恐悲观内耗无法和解自己🐱 害怕炸柜 | 谢谢关注，互fo私信摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 25,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 49
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

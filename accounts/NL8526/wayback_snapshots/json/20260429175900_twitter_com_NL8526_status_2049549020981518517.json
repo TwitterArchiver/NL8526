@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049549003025760256"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2049549020981518517",
+    "created_at": "2026-04-29T17:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049549020981518517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhYD8f8dTC",
+          "end": 36,
+          "expanded_url": "https://x.com/NL8526/status/2049549020981518517/video/1",
+          "media_key": "7_2049549003025760256",
+          "start": 13,
+          "url": "https://t.co/uhYD8f8dTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049549020981518517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概是在肘击安全员？🥹🥹 https://t.co/uhYD8f8dTC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4597,
+        "height": 1280,
+        "media_key": "7_2049549003025760256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049549003025760256/pu/img/fdkBdFLUdw3oAEtX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049549003025760256/pu/vid/avc1/320x568/Vf87RS1iNFZyO8PR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049549003025760256/pu/vid/avc1/480x852/aIl4og_3XWxtoAVr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049549003025760256/pu/vid/avc1/720x1280/Cq06DfdStUGATonU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049549003025760256/pu/pl/rVCsCF95pISDW191.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049549003025760256"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2049549020981518517",
+        "created_at": "2026-04-29T17:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049549020981518517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhYD8f8dTC",
+              "end": 36,
+              "expanded_url": "https://x.com/NL8526/status/2049549020981518517/video/1",
+              "media_key": "7_2049549003025760256",
+              "start": 13,
+              "url": "https://t.co/uhYD8f8dTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049549020981518517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是在肘击安全员？🥹🥹 https://t.co/uhYD8f8dTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 684,
+          "like_count": 10058,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1996269241209909397",
+    "created_at": "2025-12-03T17:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996269241209909397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996269241209909397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996201280382161078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkqlbxc: 爱\n性不是爱，约会不是爱，拥抱不是爱\n24小时全天聊天不是爱，爱是目睹你最糟糕的一面时依旧爱你\n爱是在你崩溃大哭时，会温柔地告诉你别怕我一直在\n爱是在你有负面情绪时，夸赞你身上所有美好的品质\n爱是在你安静难过时，能听见你的心声，让你笑 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_1996201278255607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PufHqbMAARXsN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1996269241209909397",
+        "created_at": "2025-12-03T17:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996269241209909397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996269241209909397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996201280382161078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkqlbxc: 爱\n性不是爱，约会不是爱，拥抱不是爱\n24小时全天聊天不是爱，爱是目睹你最糟糕的一面时依旧爱你\n爱是在你崩溃大哭时，会温柔地告诉你别怕我一直在\n爱是在你有负面情绪时，夸赞你身上所有美好的品质\n爱是在你安静难过时，能听见你的心声，让你笑 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996201278255607808"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1996201280382161078",
+        "created_at": "2025-12-03T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996201280382161078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZI1eaFF1c7",
+              "end": 141,
+              "expanded_url": "https://x.com/nkqlbxc/status/1996201280382161078/photo/1",
+              "media_key": "3_1996201278255607808",
+              "start": 118,
+              "url": "https://t.co/ZI1eaFF1c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996201280382161078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12853,
+          "like_count": 215,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "爱\n性不是爱，约会不是爱，拥抱不是爱\n24小时全天聊天不是爱，爱是目睹你最糟糕的一面时依旧爱你\n爱是在你崩溃大哭时，会温柔地告诉你别怕我一直在\n爱是在你有负面情绪时，夸赞你身上所有美好的品质\n爱是在你安静难过时，能听见你的心声，让你笑 https://t.co/ZI1eaFF1c7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 61,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 127
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1988884013432402139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83540,
+          "following_count": 88,
+          "like_count": 506,
+          "listed_count": 88,
+          "media_count": 1597,
+          "tweet_count": 2263
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

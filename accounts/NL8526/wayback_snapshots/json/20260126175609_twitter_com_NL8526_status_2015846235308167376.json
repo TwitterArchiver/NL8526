@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2015791347513610352",
+    "created_at": "2026-01-26T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015846235308167376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015846235308167376",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015791347513610352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 3h前也窝在（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1833,
+        "height": 3840,
+        "media_key": "13_2015790588889604097",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015790588889604097/img/RMD6HPEBlb7qZHO3.jpg",
+        "public_metrics": {
+          "view_count": 139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/vid/avc1/1080x1920/gOzzG4NwOD2EvItU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/pl/dYUx1YlTDYA683ET.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/vid/avc1/320x568/CIJPl6MyEOU19Qwd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/vid/avc1/720x1280/aDvI4rHcptNwUH-_.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/vid/avc1/2160x3840/dw8kousn-VPRiIwT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015790588889604097/vid/avc1/480x852/Co3oTcNpAUUVcqra.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2015790807559938048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mHDzIboAAgUR7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2015791210829598720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mHbRbaUAAa-GG.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2015791347513610352",
+        "created_at": "2026-01-26T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015846235308167376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015846235308167376",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015791347513610352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 3h前也窝在（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015790588889604097",
+            "3_2015790807559938048",
+            "3_2015791210829598720"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2015791347513610352",
+        "created_at": "2026-01-26T14:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015791347513610352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAixt6EqwI",
+              "end": 25,
+              "expanded_url": "https://x.com/CldGeo/status/2015791347513610352/video/1",
+              "media_key": "13_2015790588889604097",
+              "start": 2,
+              "url": "https://t.co/HAixt6EqwI"
+            },
+            {
+              "display_url": "pic.x.com/HAixt6EqwI",
+              "end": 25,
+              "expanded_url": "https://x.com/CldGeo/status/2015791347513610352/video/1",
+              "media_key": "3_2015790807559938048",
+              "start": 2,
+              "url": "https://t.co/HAixt6EqwI"
+            },
+            {
+              "display_url": "pic.x.com/HAixt6EqwI",
+              "end": 25,
+              "expanded_url": "https://x.com/CldGeo/status/2015791347513610352/video/1",
+              "media_key": "3_2015791210829598720",
+              "start": 2,
+              "url": "https://t.co/HAixt6EqwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015791347513610352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐼 https://t.co/HAixt6EqwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 深柜 低气压ing 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 241,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 131
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@_SAIGONOHOSHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "_SAIGONOHOSHI_"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2013314034817474942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 294,
+          "like_count": 2476,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 1091
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

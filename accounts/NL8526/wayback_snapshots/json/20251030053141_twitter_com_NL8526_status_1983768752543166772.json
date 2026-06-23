@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983720229806194688"
+      ],
+      "media_source_tweet_id": [
+        "1983720243311866079"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1983768752543166772",
+    "created_at": "2025-10-30T05:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T06:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983768752543166772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6zMpDCx53",
+          "end": 48,
+          "expanded_url": "https://x.com/Cldeop/status/1983720243311866079/photo/1",
+          "media_key": "3_1983720229806194688",
+          "start": 25,
+          "url": "https://t.co/x6zMpDCx53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983768752543166772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983720243311866079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 666占用率跑出理论值了 https://t.co/x6zMpDCx53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 553,
+        "media_key": "3_1983720229806194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eXCe9awAAvYPU.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983720229806194688"
+          ],
+          "media_source_tweet_id": [
+            "1983720243311866079"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1983768752543166772",
+        "created_at": "2025-10-30T05:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983768752543166772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6zMpDCx53",
+              "end": 48,
+              "expanded_url": "https://x.com/Cldeop/status/1983720243311866079/photo/1",
+              "media_key": "3_1983720229806194688",
+              "start": 25,
+              "url": "https://t.co/x6zMpDCx53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983768752543166772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983720243311866079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 666占用率跑出理论值了 https://t.co/x6zMpDCx53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983720229806194688"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1983720243311866079",
+        "created_at": "2025-10-30T02:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983720243311866079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6zMpDCx53",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/1983720243311866079/photo/1",
+              "media_key": "3_1983720229806194688",
+              "start": 13,
+              "url": "https://t.co/x6zMpDCx53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983720243311866079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9532,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "666占用率跑出理论值了 https://t.co/x6zMpDCx53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) | 🥰音游 性格好但是超级缺爱自卑社恐悲观内耗喵🐱 害怕炸柜已读不回 | 家境困难",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85843,
+          "following_count": 645,
+          "like_count": 31253,
+          "listed_count": 263,
+          "media_count": 13057,
+          "tweet_count": 18519
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

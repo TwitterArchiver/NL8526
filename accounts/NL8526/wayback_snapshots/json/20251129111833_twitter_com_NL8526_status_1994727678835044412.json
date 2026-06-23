@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994727665161687040",
+        "3_1994727665274966017",
+        "3_1994727665610493954"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1994727678835044412",
+    "created_at": "2025-11-29T11:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T12:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994727678835044412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830281513004601344",
+          "start": 4,
+          "username": "mumu_mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZnfYdW1DEj",
+          "end": 44,
+          "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+          "media_key": "3_1994727665161687040",
+          "start": 21,
+          "url": "https://t.co/ZnfYdW1DEj"
+        },
+        {
+          "display_url": "pic.x.com/ZnfYdW1DEj",
+          "end": 44,
+          "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+          "media_key": "3_1994727665274966017",
+          "start": 21,
+          "url": "https://t.co/ZnfYdW1DEj"
+        },
+        {
+          "display_url": "pic.x.com/ZnfYdW1DEj",
+          "end": 44,
+          "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+          "media_key": "3_1994727665610493954",
+          "start": 21,
+          "url": "https://t.co/ZnfYdW1DEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994727678835044412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨省贴贴@mumu_mtf\n还有雌雌爆🥰 https://t.co/ZnfYdW1DEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994727665161687040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66yPjGbUAA4iYk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1994727665274966017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66yPjhb0AEN8a8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994727665610493954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66yPkxbkAIxOyA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994727665161687040",
+            "3_1994727665274966017",
+            "3_1994727665610493954"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1994727678835044412",
+        "created_at": "2025-11-29T11:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994727678835044412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830281513004601344",
+              "start": 4,
+              "username": "mumu_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnfYdW1DEj",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+              "media_key": "3_1994727665161687040",
+              "start": 21,
+              "url": "https://t.co/ZnfYdW1DEj"
+            },
+            {
+              "display_url": "pic.x.com/ZnfYdW1DEj",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+              "media_key": "3_1994727665274966017",
+              "start": 21,
+              "url": "https://t.co/ZnfYdW1DEj"
+            },
+            {
+              "display_url": "pic.x.com/ZnfYdW1DEj",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/1994727678835044412/photo/1",
+              "media_key": "3_1994727665610493954",
+              "start": 21,
+              "url": "https://t.co/ZnfYdW1DEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994727678835044412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨省贴贴@mumu_mtf\n还有雌雌爆🥰 https://t.co/ZnfYdW1DEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 43,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 110
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T16:28:21.000Z",
+        "description": "纯冒泡，同类可加，体育健身男靠边，顺直男🚪30，四爱🚪50",
+        "id": "1830281513004601344",
+        "name": "沐沐🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830281813509672961/vWojIpoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "mumu_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

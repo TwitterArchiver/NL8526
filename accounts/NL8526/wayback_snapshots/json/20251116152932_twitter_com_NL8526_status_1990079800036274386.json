@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990079789814910976"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1990079800036274386",
+    "created_at": "2025-11-16T15:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990079800036274386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGXl9cM9Qe",
+          "end": 31,
+          "expanded_url": "https://x.com/NL8526/status/1990079800036274386/photo/1",
+          "media_key": "3_1990079789814910976",
+          "start": 8,
+          "url": "https://t.co/BGXl9cM9Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990079800036274386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耶耶 紫色卡面 https://t.co/BGXl9cM9Qe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_1990079789814910976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54vBmKaEAAOEYS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990079789814910976"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1990079800036274386",
+        "created_at": "2025-11-16T15:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990079800036274386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGXl9cM9Qe",
+              "end": 31,
+              "expanded_url": "https://x.com/NL8526/status/1990079800036274386/photo/1",
+              "media_key": "3_1990079789814910976",
+              "start": 8,
+              "url": "https://t.co/BGXl9cM9Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990079800036274386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶耶 紫色卡面 https://t.co/BGXl9cM9Qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 29,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 72
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

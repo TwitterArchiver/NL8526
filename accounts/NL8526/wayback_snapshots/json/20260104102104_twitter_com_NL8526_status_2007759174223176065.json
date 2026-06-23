@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007759166539173888"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2007688789423276071",
+    "created_at": "2026-01-04T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007759174223176065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGrLVa4CLv",
+          "end": 60,
+          "expanded_url": "https://x.com/NL8526/status/2007759174223176065/photo/1",
+          "media_key": "3_2007759166539173888",
+          "start": 37,
+          "url": "https://t.co/nGrLVa4CLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007759174223176065",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007688789423276071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 唉舞萌痴…\n最后还配一个tatanako的照片 https://t.co/nGrLVa4CLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2007759166539173888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z-UwwaEAAAtq9.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007759166539173888"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2007688789423276071",
+        "created_at": "2026-01-04T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007759174223176065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGrLVa4CLv",
+              "end": 60,
+              "expanded_url": "https://x.com/NL8526/status/2007759174223176065/photo/1",
+              "media_key": "3_2007759166539173888",
+              "start": 37,
+              "url": "https://t.co/nGrLVa4CLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007759174223176065",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007688789423276071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 唉舞萌痴…\n最后还配一个tatanako的照片 https://t.co/nGrLVa4CLv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2007688789423276071",
+        "created_at": "2026-01-04T05:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007688789423276071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/komacyan_zz/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/komacyan_zz/status/2007406106403057789",
+              "start": 30,
+              "url": "https://t.co/1QtQSqkwG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007688789423276071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7892,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007406106403057789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又不是吸毒扰乱治安，不许别人任意场所用药就是一种傲慢的霸凌 https://t.co/1QtQSqkwG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游 \n本科在读 贷款上学中 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 97,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 115
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "收集毛绒娃娃🐰🍊/#すこ部 推し /恋人玖玖@GiveProofToLove 好诡秘@mukdengise ALL YOU NEED IS LOVE🌷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Vorkuta-5, USSR ",
+        "name": "小学桔🎄",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003151995713310720/nNr9Pub7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 476,
+          "like_count": 39906,
+          "listed_count": 18,
+          "media_count": 2954,
+          "tweet_count": 41193
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

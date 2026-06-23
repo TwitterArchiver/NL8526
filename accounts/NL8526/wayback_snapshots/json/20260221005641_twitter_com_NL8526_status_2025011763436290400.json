@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2025011763436290400",
+    "created_at": "2026-02-21T00:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025011763436290400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1936075265752641536",
+          "start": 3,
+          "username": "maxC47884317783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025011763436290400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024914416811298835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maxC47884317783: 讣告：haruka于2026.2.21凌晨0:00—0:20期间服用20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n希望在另一个世界里，她可以开心幸福地做一个女孩子吧。\nR.I.P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2025011763436290400",
+        "created_at": "2026-02-21T00:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025011763436290400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1936075265752641536",
+              "start": 3,
+              "username": "maxC47884317783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025011763436290400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024914416811298835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maxC47884317783: 讣告：haruka于2026.2.21凌晨0:00—0:20期间服用20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n希望在另一个世界里，她可以开心幸福地做一个女孩子吧。\nR.I.P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936075265752641536",
+        "conversation_id": "2024914416811298835",
+        "created_at": "2026-02-20T18:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024914416811298835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sinhrkP/status…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/sinhrkP/status/2024880470237045085",
+              "start": 98,
+              "url": "https://t.co/VgPIGuqM1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024914416811298835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024880470237045085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讣告：haruka于2026.2.21凌晨0:00—0:20期间服用20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n希望在另一个世界里，她可以开心幸福地做一个女孩子吧。\nR.I.P https://t.co/VgPIGuqM1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥炸柜/家长不管党 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 329,
+          "like_count": 4476,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 183
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T14:54:57.000Z",
+        "description": "医学牲｜持证含🍥｜帅姐姐@MadelineMTF｜最可爱的妹妹@phenol_haruka｜\n想以温柔待人喵，梦想是成为最友跨的医生。（努力中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "MadelineMTF"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "phenol_haruka"
+              }
+            ]
+          }
+        },
+        "id": "1936075265752641536",
+        "location": "喵星医科大学",
+        "name": "古明地　こいし🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936080177286533120/lkxbr3zV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 252,
+          "like_count": 4725,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 412
+        },
+        "username": "maxC47884317783",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984845613960478722"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1984845616737108455",
+    "created_at": "2025-11-02T04:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984845616737108455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7BYQBPPAR",
+          "end": 43,
+          "expanded_url": "https://x.com/NL8526/status/1984845616737108455/photo/1",
+          "media_key": "3_1984845613960478722",
+          "start": 20,
+          "url": "https://t.co/e7BYQBPPAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984845616737108455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于头像是怎么来的 当然是 一键生成😊 https://t.co/e7BYQBPPAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1984845613960478722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uWkdobQAIqrkJ.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984845613960478722"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1984845616737108455",
+        "created_at": "2025-11-02T04:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984845616737108455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7BYQBPPAR",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/1984845616737108455/photo/1",
+              "media_key": "3_1984845613960478722",
+              "start": 20,
+              "url": "https://t.co/e7BYQBPPAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984845616737108455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于头像是怎么来的 当然是 一键生成😊 https://t.co/e7BYQBPPAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo请摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

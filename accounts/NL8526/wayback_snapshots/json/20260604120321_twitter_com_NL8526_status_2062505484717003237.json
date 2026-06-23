@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062505187768705024"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062505484717003237",
+    "created_at": "2026-06-04T12:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062505484717003237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJP8p3xNro",
+          "end": 146,
+          "expanded_url": "https://x.com/NL8526/status/2062505484717003237/video/1",
+          "media_key": "7_2062505187768705024",
+          "start": 123,
+          "url": "https://t.co/yJP8p3xNro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062505484717003237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你看这些孩子音游打的多好🥰这小手灵活的🙌😜瞧这反应估计没少练啊🥴这可比钢琴十级难多了吧😱😱❗️❗️而且玩的人还不少😩都说现在的孩子放弃学琴😤👊是因为没时间练琴🎹👐都在写作业📝🤫我好像有点不太信😬👎要是他们把时间用在钢琴上一个个都是钢琴家了🙌🎹😱 https://t.co/yJP8p3xNro"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13792,
+        "height": 1280,
+        "media_key": "7_2062505187768705024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062505187768705024/pu/img/kt0QC6BjDNB5MpWB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062505187768705024/pu/vid/avc1/320x568/3yyCVYsPWJnQ56j0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062505187768705024/pu/vid/avc1/480x852/QFMGJIjO6yCfYLWh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062505187768705024/pu/vid/avc1/720x1280/T3QWQShHOd2NLT-2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062505187768705024/pu/pl/6Fm1zYgpFNny-l5K.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062505187768705024"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062505484717003237",
+        "created_at": "2026-06-04T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062505484717003237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJP8p3xNro",
+              "end": 146,
+              "expanded_url": "https://x.com/NL8526/status/2062505484717003237/video/1",
+              "media_key": "7_2062505187768705024",
+              "start": 123,
+              "url": "https://t.co/yJP8p3xNro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062505484717003237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看这些孩子音游打的多好🥰这小手灵活的🙌😜瞧这反应估计没少练啊🥴这可比钢琴十级难多了吧😱😱❗️❗️而且玩的人还不少😩都说现在的孩子放弃学琴😤👊是因为没时间练琴🎹👐都在写作业📝🤫我好像有点不太信😬👎要是他们把时间用在钢琴上一个个都是钢琴家了🙌🎹😱 https://t.co/yJP8p3xNro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 705,
+          "like_count": 14380,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

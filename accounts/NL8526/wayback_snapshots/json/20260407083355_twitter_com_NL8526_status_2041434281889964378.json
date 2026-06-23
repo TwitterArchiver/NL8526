@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2041434281889964378",
+    "created_at": "2026-04-07T08:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041434281889964378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041434281889964378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4月7日16时25分许 腾讯再一次批量封锁跨群\n不限于小群大群 聊天内容如何 而是有关于跨性别的群 且活跃度较高的群无一幸免 上一次批量封群在3月31左右\n自重啊大家……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2041434281889964378",
+        "created_at": "2026-04-07T08:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041434281889964378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041434281889964378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4月7日16时25分许 腾讯再一次批量封锁跨群\n不限于小群大群 聊天内容如何 而是有关于跨性别的群 且活跃度较高的群无一幸免 上一次批量封群在3月31左右\n自重啊大家……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 528,
+          "like_count": 8079,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 282
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

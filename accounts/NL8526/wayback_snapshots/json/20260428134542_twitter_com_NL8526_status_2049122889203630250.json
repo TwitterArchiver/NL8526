@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049122885835653120"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2049122889203630250",
+    "created_at": "2026-04-28T13:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049122889203630250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7S3Musxkcw",
+          "end": 43,
+          "expanded_url": "https://x.com/NL8526/status/2049122889203630250/photo/1",
+          "media_key": "3_2049122885835653120",
+          "start": 20,
+          "url": "https://t.co/7S3Musxkcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049122889203630250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群u没人理我 应该是不好看不喜欢吧😭😭 https://t.co/7S3Musxkcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049122885835653120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_yaG9bgAAjzj-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049122885835653120"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2049122889203630250",
+        "created_at": "2026-04-28T13:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049122889203630250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S3Musxkcw",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2049122889203630250/photo/1",
+              "media_key": "3_2049122885835653120",
+              "start": 20,
+              "url": "https://t.co/7S3Musxkcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049122889203630250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群u没人理我 应该是不好看不喜欢吧😭😭 https://t.co/7S3Musxkcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 671,
+          "like_count": 9951,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

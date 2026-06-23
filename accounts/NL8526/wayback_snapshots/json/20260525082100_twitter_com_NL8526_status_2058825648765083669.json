@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058825645921296384"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058825648765083669",
+    "created_at": "2026-05-25T08:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058825648765083669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YE2ri9EjAT",
+          "end": 109,
+          "expanded_url": "https://x.com/NL8526/status/2058825648765083669/photo/1",
+          "media_key": "3_2058825645921296384",
+          "start": 86,
+          "url": "https://t.co/YE2ri9EjAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058825648765083669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "环境温度34度 手机用120瓦功率充电 用散热器也完全压不住手机发烫 甚至超频之后的散热器😫 充电头也发烫限制功率\n到现在还没开过空调（老一辈的省钱节能 救命吧烫烫烫烫烫 https://t.co/YE2ri9EjAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2006,
+        "media_key": "3_2058825645921296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJrBE-aYAAA7mw.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058825645921296384"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058825648765083669",
+        "created_at": "2026-05-25T08:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058825648765083669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YE2ri9EjAT",
+              "end": 109,
+              "expanded_url": "https://x.com/NL8526/status/2058825648765083669/photo/1",
+              "media_key": "3_2058825645921296384",
+              "start": 86,
+              "url": "https://t.co/YE2ri9EjAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058825648765083669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "环境温度34度 手机用120瓦功率充电 用散热器也完全压不住手机发烫 甚至超频之后的散热器😫 充电头也发烫限制功率\n到现在还没开过空调（老一辈的省钱节能 救命吧烫烫烫烫烫 https://t.co/YE2ri9EjAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 916,
+          "like_count": 12890,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

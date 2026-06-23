@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987902312413904896"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1987902316314513465",
+    "created_at": "2025-11-10T15:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T16:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987902316314513465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gl7MLcj9x3",
+          "end": 67,
+          "expanded_url": "https://x.com/NL8526/status/1987902316314513465/photo/1",
+          "media_key": "3_1987902312413904896",
+          "start": 44,
+          "url": "https://t.co/gl7MLcj9x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987902316314513465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "街头 虽然寒冷但是比寝室舒服 手感非常好ptt加了0.02\n（寝室里回去就在放鞭炮😔😔 https://t.co/gl7MLcj9x3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987902312413904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZynuubwAAoeC2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987902312413904896"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1987902316314513465",
+        "created_at": "2025-11-10T15:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987902316314513465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gl7MLcj9x3",
+              "end": 67,
+              "expanded_url": "https://x.com/NL8526/status/1987902316314513465/photo/1",
+              "media_key": "3_1987902312413904896",
+              "start": 44,
+              "url": "https://t.co/gl7MLcj9x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987902316314513465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "街头 虽然寒冷但是比寝室舒服 手感非常好ptt加了0.02\n（寝室里回去就在放鞭炮😔😔 https://t.co/gl7MLcj9x3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 26,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 58
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

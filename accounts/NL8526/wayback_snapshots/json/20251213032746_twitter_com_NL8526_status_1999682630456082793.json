@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1999682630456082793",
+    "created_at": "2025-12-13T03:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T04:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999682630456082793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801382796436639745",
+          "start": 3,
+          "username": "_Sennya0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999682630456082793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999620155354263818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Sennya0717: 千夜你就继续刷推吧，刷着刷着gd就更严重了，刷着刷着抑郁就又要犯了，刷着刷着你等一下就从月台跳下去了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1999682630456082793",
+        "created_at": "2025-12-13T03:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999682630456082793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801382796436639745",
+              "start": 3,
+              "username": "_Sennya0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999682630456082793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999620155354263818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Sennya0717: 千夜你就继续刷推吧，刷着刷着gd就更严重了，刷着刷着抑郁就又要犯了，刷着刷着你等一下就从月台跳下去了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "1999620155354263818",
+        "created_at": "2025-12-12T23:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999620155354263818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999620155354263818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千夜你就继续刷推吧，刷着刷着gd就更严重了，刷着刷着抑郁就又要犯了，刷着刷着你等一下就从月台跳下去了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️🇨🇳07MTF 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟喝酒 | 🥰音游 三角洲 性格友好 有洁癖焦虑缺爱自卑社恐🐱 长不大的小孩 害怕炸柜(大概明年夏天炸) | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 68,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 151
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学 ║INFP / 猫 ║MtF / 家长党 / 持证含糖 2025.02.11 ║重郁 /双相二型 / ADHD / BPD / 阿斯伯格 / PTSD ║家里蹲 / 音游人 / 渴望温暖 ║最爱的人@kinaiyuru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "kinaiyuru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4KtfdRCG"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997766700775985152/DUjQnfIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 1648,
+          "like_count": 7659,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/3L4KtfdRCG",
+        "username": "_Sennya0717",
+        "verified": false
+      }
+    ]
+  }
+}

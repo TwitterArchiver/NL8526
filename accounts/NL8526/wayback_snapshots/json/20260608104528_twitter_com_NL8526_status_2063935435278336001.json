@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063935432669421568"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2063935435278336001",
+    "created_at": "2026-06-08T10:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063935435278336001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fx8YJM0GE5",
+          "end": 46,
+          "expanded_url": "https://x.com/NL8526/status/2063935435278336001/photo/1",
+          "media_key": "3_2063935432669421568",
+          "start": 23,
+          "url": "https://t.co/Fx8YJM0GE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063935435278336001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当段子变成现实\n护送考生到美团站点办理入职😂 https://t.co/Fx8YJM0GE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063935432669421568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSSVz-aYAAMdLq.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063935432669421568"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2063935435278336001",
+        "created_at": "2026-06-08T10:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063935435278336001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fx8YJM0GE5",
+              "end": 46,
+              "expanded_url": "https://x.com/NL8526/status/2063935435278336001/photo/1",
+              "media_key": "3_2063935432669421568",
+              "start": 23,
+              "url": "https://t.co/Fx8YJM0GE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063935435278336001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当段子变成现实\n护送考生到美团站点办理入职😂 https://t.co/Fx8YJM0GE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 728,
+          "like_count": 15071,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

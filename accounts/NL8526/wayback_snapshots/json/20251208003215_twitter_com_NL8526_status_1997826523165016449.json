@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997826516282191872"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1997826523165016449",
+    "created_at": "2025-12-08T00:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T01:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997826523165016449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyfsYRnOul",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/1997826523165016449/photo/1",
+          "media_key": "3_1997826516282191872",
+          "start": 16,
+          "url": "https://t.co/iyfsYRnOul"
+        },
+        {
+          "display_url": "x.com/miantiao_me/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/miantiao_me/status/1997595753011888264",
+          "start": 40,
+          "url": "https://t.co/kASpswf6RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997826523165016449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997595753011888264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三个绿勾三个红勾也太好笑了😂😂 https://t.co/iyfsYRnOul https://t.co/kASpswf6RE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2158,
+        "media_key": "3_1997826516282191872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7m0obHbMAAASgH.jpg",
+        "width": 1219
+      },
+      {
+        "height": 1712,
+        "media_key": "3_1997595508878282752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7jiiBebEAACcFT.jpg",
+        "width": 3670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997826516282191872"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1997826523165016449",
+        "created_at": "2025-12-08T00:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997826523165016449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyfsYRnOul",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/1997826523165016449/photo/1",
+              "media_key": "3_1997826516282191872",
+              "start": 16,
+              "url": "https://t.co/iyfsYRnOul"
+            },
+            {
+              "display_url": "x.com/miantiao_me/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/miantiao_me/status/1997595753011888264",
+              "start": 40,
+              "url": "https://t.co/kASpswf6RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997826523165016449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997595753011888264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三个绿勾三个红勾也太好笑了😂😂 https://t.co/iyfsYRnOul https://t.co/kASpswf6RE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997595508878282752"
+          ]
+        },
+        "author_id": "126880447",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1997595753011888264",
+        "created_at": "2025-12-07T09:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T10:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997595753011888264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hn3wTWkfmL",
+              "end": 75,
+              "expanded_url": "https://x.com/miantiao_me/status/1997595753011888264/photo/1",
+              "media_key": "3_1997595508878282752",
+              "start": 52,
+              "url": "https://t.co/Hn3wTWkfmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997595753011888264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 14652,
+          "like_count": 207,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个有趣的 GitHub 项目，可以为你生成一个 Cloudflare Error 风格的错误页面 https://t.co/Hn3wTWkfmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟 小酌酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 67,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 141
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-27T08:25:00.000Z",
+        "description": "前端切图仔🧑🏻‍💻，后端三脚猫🤷🏻‍♂️，运维挖坑人🤦🏻‍♂️，AI 门外汉🧐。\n\n开源: ⚡ https://t.co/wk0K4h9gd5\n\n玩具: \n📮 https://t.co/VTi1aFKE2y\n🧰 https://t.co/cRxrFndEFH\n\n我在使用的工具：\n🛠：https://t.co/47QLYWyxJA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Sink.Cool",
+                "end": 71,
+                "expanded_url": "http://Sink.Cool",
+                "start": 48,
+                "url": "https://t.co/wk0K4h9gd5"
+              },
+              {
+                "display_url": "TempMail.Best",
+                "end": 103,
+                "expanded_url": "http://TempMail.Best",
+                "start": 80,
+                "url": "https://t.co/VTi1aFKE2y"
+              },
+              {
+                "display_url": "HTML.ZONE",
+                "end": 129,
+                "expanded_url": "http://HTML.ZONE",
+                "start": 106,
+                "url": "https://t.co/cRxrFndEFH"
+              },
+              {
+                "display_url": "index.html.zone",
+                "end": 165,
+                "expanded_url": "http://index.html.zone",
+                "start": 142,
+                "url": "https://t.co/47QLYWyxJA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.mt.a.coffee",
+                "end": 23,
+                "expanded_url": "https://buy.mt.a.coffee",
+                "start": 0,
+                "url": "https://t.co/E2EMh580LC"
+              }
+            ]
+          }
+        },
+        "id": "126880447",
+        "location": "451",
+        "name": "面条",
+        "pinned_tweet_id": "1874098773745688843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648180024464539648/L6Na78It_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9339,
+          "following_count": 828,
+          "like_count": 7117,
+          "listed_count": 109,
+          "media_count": 873,
+          "tweet_count": 6187
+        },
+        "url": "https://t.co/E2EMh580LC",
+        "username": "miantiao_me",
+        "verified": true
+      }
+    ]
+  }
+}

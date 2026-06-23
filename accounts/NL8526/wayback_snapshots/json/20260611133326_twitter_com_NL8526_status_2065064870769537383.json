@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2065047692905230843",
+    "created_at": "2026-06-11T13:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065064870769537383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065064870769537383",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065047692905230843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 还有气味控"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065047683916812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiF7Wwa0AAc3ay.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065047692905230843",
+        "created_at": "2026-06-11T13:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065064870769537383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065064870769537383",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065047692905230843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 还有气味控"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065047683916812288"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2065047692905230843",
+        "created_at": "2026-06-11T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065047692905230843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "chudai"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "wataa"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "nsfw"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "原味"
+            },
+            {
+              "end": 103,
+              "start": 97,
+              "tag": "直男农民工"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男大"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "熏脑"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "毁脑"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "压榨"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "黑心"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "恋足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZVQrHmYja",
+              "end": 151,
+              "expanded_url": "https://x.com/ashasw114514/status/2065047692905230843/photo/1",
+              "media_key": "3_2065047683916812288",
+              "start": 128,
+              "url": "https://t.co/AZVQrHmYja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065047692905230843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天睡的死快上课了才醒，随便套了双鞋就去上课，结果发现居然不透气，于是脚就在南方湿热的夏天里闷了一天，回来脱掉的时候感觉袜子都在挥发汗的蒸汽\n\n#chudai #wataa #nsfw #原味 #直男农民工 #男大 #熏脑 #毁脑 #压榨 #黑心 #恋足 https://t.co/AZVQrHmYja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 747,
+          "like_count": 15826,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 3175,
+          "like_count": 7116,
+          "listed_count": 10,
+          "media_count": 591,
+          "tweet_count": 4898
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

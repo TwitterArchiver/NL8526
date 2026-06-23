@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996707075670659073"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1996707085061595617",
+    "created_at": "2025-12-04T22:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T23:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996707085061595617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LXBRmgbpNK",
+          "end": 26,
+          "expanded_url": "https://x.com/NL8526/status/1996707085061595617/photo/1",
+          "media_key": "3_1996707075670659073",
+          "start": 3,
+          "url": "https://t.co/LXBRmgbpNK"
+        },
+        {
+          "display_url": "x.com/ALtay_juan/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/ALtay_juan/status/1996491663288443285",
+          "start": 27,
+          "url": "https://t.co/xQqeewGQDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996707085061595617",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996491663288443285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭 https://t.co/LXBRmgbpNK https://t.co/xQqeewGQDu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1996707075670659073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7W6gZ3b0AEljTF.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1996358485311651840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7R9dxlWgAAPMKj.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996707075670659073"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1996707085061595617",
+        "created_at": "2025-12-04T22:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996707085061595617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXBRmgbpNK",
+              "end": 26,
+              "expanded_url": "https://x.com/NL8526/status/1996707085061595617/photo/1",
+              "media_key": "3_1996707075670659073",
+              "start": 3,
+              "url": "https://t.co/LXBRmgbpNK"
+            },
+            {
+              "display_url": "x.com/ALtay_juan/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ALtay_juan/status/1996491663288443285",
+              "start": 27,
+              "url": "https://t.co/xQqeewGQDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996707085061595617",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996491663288443285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭 https://t.co/LXBRmgbpNK https://t.co/xQqeewGQDu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996358485311651840"
+          ]
+        },
+        "author_id": "1831550851191816192",
+        "conversation_id": "1996491663288443285",
+        "created_at": "2025-12-04T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996491663288443285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqOfhMMDUt",
+              "end": 40,
+              "expanded_url": "https://x.com/ALtay_juan/status/1996491663288443285/photo/1",
+              "media_key": "3_1996358485311651840",
+              "start": 17,
+              "url": "https://t.co/RqOfhMMDUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996491663288443285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 163984,
+          "like_count": 297,
+          "quote_count": 36,
+          "reply_count": 712,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "这20个城市，去过8个算你牛❗️ https://t.co/RqOfhMMDUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 65,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 135
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T04:32:25.000Z",
+        "description": "Thanks for your following\n❤️逐步回关 🙅私信不回",
+        "id": "1831550851191816192",
+        "name": "李阡陌",
+        "pinned_tweet_id": "1994038498752647420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849758836317736960/u0gy_2ze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15580,
+          "following_count": 7140,
+          "like_count": 12507,
+          "listed_count": 55,
+          "media_count": 2285,
+          "tweet_count": 5849
+        },
+        "username": "ALtay_juan",
+        "verified": false
+      }
+    ]
+  }
+}

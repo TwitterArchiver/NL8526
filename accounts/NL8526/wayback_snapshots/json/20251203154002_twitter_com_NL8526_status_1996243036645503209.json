@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996243015564939264",
+        "3_1996243027459993600",
+        "3_1996243033512407040"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1996243036645503209",
+    "created_at": "2025-12-03T15:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996243036645503209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Record, analyze, and visualize voice-driven biometrics powered by the Windows MindChart engine.",
+          "display_url": "voicemind.net",
+          "end": 28,
+          "expanded_url": "https://voicemind.net/",
+          "start": 5,
+          "status": 200,
+          "title": "VoiceMind Studio",
+          "unwound_url": "https://voicemind.net/",
+          "url": "https://t.co/P0j4zYW1fd"
+        },
+        {
+          "display_url": "pic.x.com/OhOTPwRGlj",
+          "end": 52,
+          "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+          "media_key": "3_1996243015564939264",
+          "start": 29,
+          "url": "https://t.co/OhOTPwRGlj"
+        },
+        {
+          "display_url": "pic.x.com/OhOTPwRGlj",
+          "end": 52,
+          "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+          "media_key": "3_1996243027459993600",
+          "start": 29,
+          "url": "https://t.co/OhOTPwRGlj"
+        },
+        {
+          "display_url": "pic.x.com/OhOTPwRGlj",
+          "end": 52,
+          "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+          "media_key": "3_1996243033512407040",
+          "start": 29,
+          "url": "https://t.co/OhOTPwRGlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996243036645503209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准吗……\nhttps://t.co/P0j4zYW1fd https://t.co/OhOTPwRGlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996243015564939264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QUcjQaUAA0WlF.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1907,
+        "media_key": "3_1996243027459993600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QUdPkacAAmTcE.jpg",
+        "width": 1220
+      },
+      {
+        "height": 714,
+        "media_key": "3_1996243033512407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QUdmHa8AAJmJc.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996243015564939264",
+            "3_1996243027459993600",
+            "3_1996243033512407040"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1996243036645503209",
+        "created_at": "2025-12-03T15:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996243036645503209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Record, analyze, and visualize voice-driven biometrics powered by the Windows MindChart engine.",
+              "display_url": "voicemind.net",
+              "end": 28,
+              "expanded_url": "https://voicemind.net/",
+              "start": 5,
+              "status": 200,
+              "title": "VoiceMind Studio",
+              "unwound_url": "https://voicemind.net/",
+              "url": "https://t.co/P0j4zYW1fd"
+            },
+            {
+              "display_url": "pic.x.com/OhOTPwRGlj",
+              "end": 52,
+              "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+              "media_key": "3_1996243015564939264",
+              "start": 29,
+              "url": "https://t.co/OhOTPwRGlj"
+            },
+            {
+              "display_url": "pic.x.com/OhOTPwRGlj",
+              "end": 52,
+              "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+              "media_key": "3_1996243027459993600",
+              "start": 29,
+              "url": "https://t.co/OhOTPwRGlj"
+            },
+            {
+              "display_url": "pic.x.com/OhOTPwRGlj",
+              "end": 52,
+              "expanded_url": "https://x.com/NL8526/status/1996243036645503209/photo/1",
+              "media_key": "3_1996243033512407040",
+              "start": 29,
+              "url": "https://t.co/OhOTPwRGlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996243036645503209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准吗……\nhttps://t.co/P0j4zYW1fd https://t.co/OhOTPwRGlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 61,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 125
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

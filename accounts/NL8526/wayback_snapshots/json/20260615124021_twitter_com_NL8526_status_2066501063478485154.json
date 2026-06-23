@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066501061175816192"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066501063478485154",
+    "created_at": "2026-06-15T12:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066501063478485154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QnNE0BILHW",
+          "end": 102,
+          "expanded_url": "https://x.com/NL8526/status/2066501063478485154/photo/1",
+          "media_key": "3_2066501061175816192",
+          "start": 79,
+          "url": "https://t.co/QnNE0BILHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066501063478485154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "校长信箱：\n我是本校初二学生，请问可以设一个吸烟室吗? 有同学在厕所里抽烟，我怀孕了闻不了烟味这事整的孩子爸爸都没心情备课了，这可是要影响学校教学质量的。😱 https://t.co/QnNE0BILHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2066501061175816192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2vxC9aMAAvbHe.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066501061175816192"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066501063478485154",
+        "created_at": "2026-06-15T12:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066501063478485154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnNE0BILHW",
+              "end": 102,
+              "expanded_url": "https://x.com/NL8526/status/2066501063478485154/photo/1",
+              "media_key": "3_2066501061175816192",
+              "start": 79,
+              "url": "https://t.co/QnNE0BILHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066501063478485154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "校长信箱：\n我是本校初二学生，请问可以设一个吸烟室吗? 有同学在厕所里抽烟，我怀孕了闻不了烟味这事整的孩子爸爸都没心情备课了，这可是要影响学校教学质量的。😱 https://t.co/QnNE0BILHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 792,
+          "like_count": 16886,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

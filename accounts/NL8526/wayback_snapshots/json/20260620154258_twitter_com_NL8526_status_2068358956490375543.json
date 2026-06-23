@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2068111408198201502",
+    "created_at": "2026-06-20T15:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068358956490375543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1617263736",
+          "start": 0,
+          "username": "artik_yorulduk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068358956490375543",
+    "in_reply_to_user_id": "1617263736",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068111408198201502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artik_yorulduk ."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068111408198201502",
+        "created_at": "2026-06-20T15:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068358956490375543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1617263736",
+              "start": 0,
+              "username": "artik_yorulduk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068358956490375543",
+        "in_reply_to_user_id": "1617263736",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068111408198201502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artik_yorulduk ."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617263736",
+        "conversation_id": "2068111408198201502",
+        "created_at": "2026-06-19T23:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068111408198201502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068111408198201502",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 37262,
+          "like_count": 164,
+          "quote_count": 4,
+          "reply_count": 408,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Hesabınızın 50.000'den az takipçisi varsa, bir nokta bırakın ve gelen takipçileri görün. 💸💸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 837,
+          "like_count": 17649,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-24T09:05:05.000Z",
+        "description": "Reklam ve İş Birliği için Dm 📩",
+        "id": "1617263736",
+        "location": "Earth",
+        "name": "Lara",
+        "pinned_tweet_id": "1954102673722011871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932762873471578112/UPjn0I30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99773,
+          "following_count": 69288,
+          "like_count": 19897,
+          "listed_count": 16,
+          "media_count": 174,
+          "tweet_count": 70965
+        },
+        "url": "",
+        "username": "artik_yorulduk",
+        "verified": true
+      }
+    ]
+  }
+}

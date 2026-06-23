@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062432096501772469",
+    "created_at": "2026-06-04T07:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062432096501772469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763034943599607808",
+          "start": 3,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062432096501772469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062409453870387681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moonlight_ruri: 在我被shadowban期间，我掉了几十个fo，还看到一个4万fo的人掉了几百个。\n给大伙算是攻略吧，不要频繁关注取关。\n关注就关注了，没必要取关，系统判定你是不真实bot，就会影子封禁你，结果就是你的账号是个废号，发帖没流量 ，你的评论…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_2062409443321819136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8mdiqbsAAFZL4.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062432096501772469",
+        "created_at": "2026-06-04T07:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062432096501772469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763034943599607808",
+              "start": 3,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062432096501772469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062409453870387681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moonlight_ruri: 在我被shadowban期间，我掉了几十个fo，还看到一个4万fo的人掉了几百个。\n给大伙算是攻略吧，不要频繁关注取关。\n关注就关注了，没必要取关，系统判定你是不真实bot，就会影子封禁你，结果就是你的账号是个废号，发帖没流量 ，你的评论…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062409443321819136"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2062409453870387681",
+        "created_at": "2026-06-04T05:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062409453870387681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJ9JIcaIsb",
+              "end": 149,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2062409453870387681/photo/1",
+              "media_key": "3_2062409443321819136",
+              "start": 126,
+              "url": "https://t.co/sJ9JIcaIsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062409453870387681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x-shadowban-checker.fia-s.com",
+                "end": 236,
+                "expanded_url": "https://x-shadowban-checker.fia-s.com/",
+                "start": 213,
+                "url": "https://t.co/TgOn1a7rnR"
+              }
+            ]
+          },
+          "text": "在我被shadowban期间，我掉了几十个fo，还看到一个4万fo的人掉了几百个。\n给大伙算是攻略吧，不要频繁关注取关。\n关注就关注了，没必要取关，系统判定你是不真实bot，就会影子封禁你，结果就是你的账号是个废号，发帖没流量 ，你的评论别人看不到。\n我是吃了一次亏的。尤其是那些搞蓝v互关的骗取别人的关注然后取关，系统给你限流了，得不偿失，何必呢？\n用这个网站自检，一旦有异常，请立刻停止一切操作，我等了一周才给我恢复正常。https://t.co/TgOn1a7rnR"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在我被shadowban期间，我掉了几十个fo，还看到一个4万fo的人掉了几百个。\n给大伙算是攻略吧，不要频繁关注取关。\n关注就关注了，没必要取关，系统判定你是不真实bot，就会影子封禁你，结果就是你的账号是个废号，发帖没流量 ，你的评论别人看不到。 https://t.co/sJ9JIcaIsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 705,
+          "like_count": 14294,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2058418322090373297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 392,
+          "like_count": 1091,
+          "listed_count": 21,
+          "media_count": 173,
+          "tweet_count": 2067
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

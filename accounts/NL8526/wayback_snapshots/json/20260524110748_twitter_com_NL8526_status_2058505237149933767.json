@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058505231424733184"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058498902253576610",
+    "created_at": "2026-05-24T11:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058505237149933767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XyGjx1k8NW",
+          "end": 38,
+          "expanded_url": "https://x.com/NL8526/status/2058505237149933767/photo/1",
+          "media_key": "3_2058505231424733184",
+          "start": 15,
+          "url": "https://t.co/XyGjx1k8NW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058505237149933767",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058498902253576610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi https://t.co/XyGjx1k8NW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058505231424733184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFHmf9awAANd9b.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058505231424733184"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058498902253576610",
+        "created_at": "2026-05-24T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058505237149933767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyGjx1k8NW",
+              "end": 38,
+              "expanded_url": "https://x.com/NL8526/status/2058505237149933767/photo/1",
+              "media_key": "3_2058505231424733184",
+              "start": 15,
+              "url": "https://t.co/XyGjx1k8NW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058505237149933767",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058498902253576610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi https://t.co/XyGjx1k8NW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2058498902253576610",
+        "created_at": "2026-05-24T10:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058498902253576610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058498902253576610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何才能设置那个，就是我关注的人关注的人才能评论我，营销号太多了我杀不过来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 907,
+          "like_count": 12743,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1392,
+          "like_count": 35386,
+          "listed_count": 4,
+          "media_count": 760,
+          "tweet_count": 9985
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

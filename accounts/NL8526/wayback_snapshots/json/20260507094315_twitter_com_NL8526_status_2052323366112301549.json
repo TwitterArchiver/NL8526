@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2052323366112301549",
+    "created_at": "2026-05-07T09:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052323366112301549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KiraMyao/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/KiraMyao/status/2051422730864783740",
+          "start": 14,
+          "url": "https://t.co/hXuueZblhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052323366112301549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051422730864783740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会是列表里走的最早的一批吗 https://t.co/hXuueZblhd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2051421761317879809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgdORfbwAEPABY.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2052323366112301549",
+        "created_at": "2026-05-07T09:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052323366112301549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2051422730864783740",
+              "start": 14,
+              "url": "https://t.co/hXuueZblhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052323366112301549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051422730864783740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会是列表里走的最早的一批吗 https://t.co/hXuueZblhd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051421761317879809"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051422730864783740",
+        "created_at": "2026-05-04T22:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051422730864783740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n85SCWtJJs",
+              "end": 86,
+              "expanded_url": "https://x.com/KiraMyao/status/2051422730864783740/photo/1",
+              "media_key": "3_2051421761317879809",
+              "start": 63,
+              "url": "https://t.co/n85SCWtJJs"
+            },
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2051319272539078661",
+              "start": 87,
+              "url": "https://t.co/a9OW0OzVWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051422730864783740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 24897,
+          "like_count": 185,
+          "quote_count": 14,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051319272539078661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新日志：\n1.连夜移除知式和老唐的同窗😱\n2.尝试对齐各位的亲密关系🥰\n3.熬了个通宵，猫要回猫窝睡觉惹，祝你们开心~❤️ https://t.co/n85SCWtJJs https://t.co/a9OW0OzVWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹钢专/音游/MC 😖缺爱b/讨好所有人/为什么我无人在意为什么你们都讨厌我 ➕扩列互关 和我做朋友好不好？ 😊做完剩下这些想做的事情 就离开这世界(快死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 758,
+          "like_count": 10792,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 355,
+          "like_count": 9541,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

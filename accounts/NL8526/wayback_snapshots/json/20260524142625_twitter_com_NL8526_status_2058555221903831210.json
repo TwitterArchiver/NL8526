@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058535604577571070",
+    "created_at": "2026-05-24T14:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058555221903831210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601549039287566336",
+          "start": 0,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058555221903831210",
+    "in_reply_to_user_id": "1601549039287566336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058535604577571070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmammm_a 好厉害好棒🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28010,
+        "height": 726,
+        "media_key": "13_2058535460209565696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058535460209565696/img/bx_3SSJxflLO65Or.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058535460209565696/vid/avc1/408x270/fc2RWgok0N_pQXxq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058535460209565696/vid/avc1/546x360/C-TlRFO8oRNVO4Cx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058535460209565696/vid/avc1/1092x720/GGetnP8wdFK5hEu8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058535460209565696/pl/u6OqAYBeFtzCL49-.m3u8?tag=14"
+          }
+        ],
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058535604577571070",
+        "created_at": "2026-05-24T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058555221903831210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058555221903831210",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058535604577571070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a 好厉害好棒🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058535460209565696"
+          ]
+        },
+        "author_id": "1601549039287566336",
+        "conversation_id": "2058535604577571070",
+        "created_at": "2026-05-24T13:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058535604577571070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzsltzYZbc",
+              "end": 58,
+              "expanded_url": "https://x.com/mmmammm_a/status/2058535604577571070/video/1",
+              "media_key": "13_2058535460209565696",
+              "start": 35,
+              "url": "https://t.co/vzsltzYZbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058535604577571070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了一个嗓音训练前的录音，所以录了一个视频对比一下现在和以前的嗓音 https://t.co/vzsltzYZbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 912,
+          "like_count": 12781,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Queer-feminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2057217556277010698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718974847135760384/lV4ZzeQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 168,
+          "like_count": 7138,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1143
+        },
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

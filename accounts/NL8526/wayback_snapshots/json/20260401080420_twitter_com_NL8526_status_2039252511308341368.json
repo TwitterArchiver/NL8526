@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2039252511308341368",
+    "created_at": "2026-04-01T08:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039252511308341368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/NL8526/status/2032160283016458383",
+          "start": 57,
+          "url": "https://t.co/DeO2B1VSkV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039252511308341368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032160283016458383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱的群死了 没能逃过一劫 小群的二周目30天以来见证了许多小情侣的诞生 今天正式光荣退休 不会再有群了 我也累了 https://t.co/DeO2B1VSkV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032160280592216064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOvAiNbcAA1Jlr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2039252511308341368",
+        "created_at": "2026-04-01T08:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039252511308341368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/NL8526/status/2032160283016458383",
+              "start": 57,
+              "url": "https://t.co/DeO2B1VSkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039252511308341368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032160283016458383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱的群死了 没能逃过一劫 小群的二周目30天以来见证了许多小情侣的诞生 今天正式光荣退休 不会再有群了 我也累了 https://t.co/DeO2B1VSkV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032160280592216064"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2032160283016458383",
+        "created_at": "2026-03-12T18:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032160283016458383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3onb93rCJW",
+              "end": 36,
+              "expanded_url": "https://x.com/NL8526/status/2032160283016458383/photo/1",
+              "media_key": "3_2032160280592216064",
+              "start": 13,
+              "url": "https://t.co/3onb93rCJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032160283016458383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1340,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宣群！同类友跨来玩~😊😊 https://t.co/3onb93rCJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 496,
+          "like_count": 7633,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 265
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

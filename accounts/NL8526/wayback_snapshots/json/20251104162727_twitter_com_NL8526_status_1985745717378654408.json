@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985745715264700417"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1985745717378654408",
+    "created_at": "2025-11-04T16:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985745717378654408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/diPa5aEX20",
+          "end": 64,
+          "expanded_url": "https://x.com/NL8526/status/1985745717378654408/photo/1",
+          "media_key": "3_1985745715264700417",
+          "start": 41,
+          "url": "https://t.co/diPa5aEX20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985745717378654408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "室友依然很吵呢...猫猫喜欢安静的环境 好难...吵得快疯掉\n今天 一份巧克力🍫 https://t.co/diPa5aEX20"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1985745715264700417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47JNQSbQAEVT69.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985745715264700417"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1985745717378654408",
+        "created_at": "2025-11-04T16:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985745717378654408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diPa5aEX20",
+              "end": 64,
+              "expanded_url": "https://x.com/NL8526/status/1985745717378654408/photo/1",
+              "media_key": "3_1985745715264700417",
+              "start": 41,
+              "url": "https://t.co/diPa5aEX20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985745717378654408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "室友依然很吵呢...猫猫喜欢安静的环境 好难...吵得快疯掉\n今天 一份巧克力🍫 https://t.co/diPa5aEX20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo私信摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 38
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

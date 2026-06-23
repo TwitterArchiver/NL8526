@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2005470649079517442",
+    "created_at": "2025-12-29T02:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T03:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005470649079517442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005470649079517442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天点开x看见新消息会很开心 但是并没有 只有一堆傻逼广告机器人在我推下面发垃圾广告 b了不下于十个了。。唉。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2005470649079517442",
+        "created_at": "2025-12-29T02:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005470649079517442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005470649079517442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天点开x看见新消息会很开心 但是并没有 只有一堆傻逼广告机器人在我推下面发垃圾广告 b了不下于十个了。。唉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游 \n本科在读 不od改刀抽烟 贷款上学中 负面内容致歉…\n永远羡慕年龄党😔",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 89,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 106
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

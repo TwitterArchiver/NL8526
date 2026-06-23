@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2067114333180772723",
+    "created_at": "2026-06-17T06:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067136358385320130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/djx00919/statu…",
+          "end": 74,
+          "expanded_url": "https://x.com/djx00919/status/2067025387801252051",
+          "start": 51,
+          "url": "https://t.co/MocscVoOGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067136358385320130",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067025387801252051",
+        "type": "quoted"
+      },
+      {
+        "id": "2067114333180772723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 主页看黄男真的不奇怪了 严惩😊😊\n已经举办掉了他一条骂别人去s的帖子\nhttps://t.co/MocscVoOGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067025377386745857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-MoRDa0AEgMDz.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067114333180772723",
+        "created_at": "2026-06-17T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067136358385320130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/djx00919/statu…",
+              "end": 74,
+              "expanded_url": "https://x.com/djx00919/status/2067025387801252051",
+              "start": 51,
+              "url": "https://t.co/MocscVoOGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067136358385320130",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067025387801252051",
+            "type": "quoted"
+          },
+          {
+            "id": "2067114333180772723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 主页看黄男真的不奇怪了 严惩😊😊\n已经举办掉了他一条骂别人去s的帖子\nhttps://t.co/MocscVoOGC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067025377386745857"
+          ]
+        },
+        "author_id": "1605245047590780928",
+        "conversation_id": "2067025387801252051",
+        "created_at": "2026-06-16T23:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067025387801252051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RguY3aEWC",
+              "end": 25,
+              "expanded_url": "https://x.com/djx00919/status/2067025387801252051/photo/1",
+              "media_key": "3_2067025377386745857",
+              "start": 2,
+              "url": "https://t.co/7RguY3aEWC"
+            },
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/NL8526/status/2066836446909174090",
+              "start": 26,
+              "url": "https://t.co/AQe1v4HJ41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067025387801252051",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066836446909174090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣 https://t.co/7RguY3aEWC https://t.co/AQe1v4HJ41"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2067114333180772723",
+        "created_at": "2026-06-17T05:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067114333180772723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067114333180772723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前骂我的那几个\n我也找到你们差不多的住址和院校了\n除了一个职业喷子对象都没有\n笑死了\n就当你们也是为了17好 不计较了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 806,
+          "like_count": 17156,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2066409919868481612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 498,
+          "like_count": 3480,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 3705
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男 超级丑逼  记性很差很差什么都记不住喵。\n想聊天的话可以私信喵 多和我互fo~\n＿＿＿＿＿＿＿＿以下人远离我＜烟鬼 od 给恶性肥猪卖屁股的 有主＞",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2063989689951133801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 3426,
+          "like_count": 176797,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 14444
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

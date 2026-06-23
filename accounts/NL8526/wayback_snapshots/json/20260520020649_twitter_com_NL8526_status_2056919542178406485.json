@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2056919542178406485",
+    "created_at": "2026-05-20T02:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056919542178406485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1370412553977827330",
+          "start": 3,
+          "username": "Ethan_Crux"
+        },
+        {
+          "end": 29,
+          "id": "2041159531657416704",
+          "start": 16,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056919542178406485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056754755918291023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ethan_Crux: @amber_digit2 这并非文件，只是一份冠冕堂皇的回复而已。如果有人去咨询公民游行集会的问题，他们也会回复说法院对于中国公民的游行集会的合法权益予以保护。真不明白为啥评论里面这么多人会很容易就会陷入自我感动。大家不能只是听其言，更重要的是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2056919542178406485",
+        "created_at": "2026-05-20T02:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056919542178406485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1370412553977827330",
+              "start": 3,
+              "username": "Ethan_Crux"
+            },
+            {
+              "end": 29,
+              "id": "2041159531657416704",
+              "start": 16,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056919542178406485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056754755918291023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ethan_Crux: @amber_digit2 这并非文件，只是一份冠冕堂皇的回复而已。如果有人去咨询公民游行集会的问题，他们也会回复说法院对于中国公民的游行集会的合法权益予以保护。真不明白为啥评论里面这么多人会很容易就会陷入自我感动。大家不能只是听其言，更重要的是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370412553977827330",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T15:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754755918291023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754755918291023",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9241,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 这并非文件，只是一份冠冕堂皇的回复而已。如果有人去咨询公民游行集会的问题，他们也会回复说法院对于中国公民的游行集会的合法权益予以保护。真不明白为啥评论里面这么多人会很容易就会陷入自我感动。大家不能只是听其言，更重要的是观其行！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/为什么无人在意?为什么你们都讨厌我? 🩷扩列互关 拒接线下 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 865,
+          "like_count": 12083,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T16:33:35.000Z",
+        "description": "",
+        "id": "1370412553977827330",
+        "location": "Gold Coast, Australia",
+        "name": "Crux南十字星🇦🇺🦘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579851403681583104/d2TqoG39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 54,
+          "like_count": 18007,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 3206
+        },
+        "username": "Ethan_Crux",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 379,
+          "like_count": 489,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

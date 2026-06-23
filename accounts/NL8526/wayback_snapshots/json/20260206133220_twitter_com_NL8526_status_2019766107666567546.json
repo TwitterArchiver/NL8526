@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2019766107666567546",
+    "created_at": "2026-02-06T13:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T14:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019766107666567546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenT233/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/YuwenT233/status/2019765253790454187",
+          "start": 4,
+          "url": "https://t.co/6zbOlTmjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019766107666567546",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019765253790454187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤯🤯🤯 https://t.co/6zbOlTmjkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2019766107666567546",
+        "created_at": "2026-02-06T13:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019766107666567546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenT233/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/YuwenT233/status/2019765253790454187",
+              "start": 4,
+              "url": "https://t.co/6zbOlTmjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019766107666567546",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019765253790454187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤯🤯🤯 https://t.co/6zbOlTmjkk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019100298808291333",
+        "conversation_id": "2019765253790454187",
+        "created_at": "2026-02-06T13:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019765253790454187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本存档库包含各类跨性别、多元性别、酷儿相关的文档，包括学术文献、社群报告、文学作品、杂志与报纸、政府文件等。",
+              "display_url": "digital.transchinese.org",
+              "end": 35,
+              "expanded_url": "https://digital.transchinese.org/",
+              "start": 12,
+              "status": 200,
+              "title": "跨与多元性别档案",
+              "unwound_url": "https://digital.transchinese.org/",
+              "url": "https://t.co/sRCxdBw33k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019765253790454187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自切教程（唐毓文版）\n https://t.co/sRCxdBw33k社群及NGO文件/手册指南/自切教程（唐毓文版）_page/\n\n唐毓文出品 必属精品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科大一在读 贷款上学 深柜中  积极回fo🌹",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 288,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 161
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T17:27:46.000Z",
+        "description": "MTF｜Hrt：2025.6.30｜已净身｜对象@shaoxiancao1314 ｜观点过激｜NSFW｜墨尔本阻止自杀援助｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          }
+        },
+        "id": "2019100298808291333",
+        "name": "唐毓文🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019102145350713415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019100686353620992/mWizXHmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 41,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 131
+        },
+        "username": "YuwenT233",
+        "verified": false
+      }
+    ]
+  }
+}

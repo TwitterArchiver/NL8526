@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2042252665774813641",
+    "created_at": "2026-04-09T16:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042275800620372396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955503492145283072",
+          "start": 0,
+          "username": "QWQ73416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042275800620372396",
+    "in_reply_to_user_id": "1955503492145283072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042252665774813641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWQ73416 xm all🟩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2042252665774813641",
+        "created_at": "2026-04-09T16:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042275800620372396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042275800620372396",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042252665774813641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 xm all🟩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2042252665774813641",
+        "created_at": "2026-04-09T14:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042252665774813641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/bghtnya/status/2042246440131743880",
+              "start": 102,
+              "url": "https://t.co/NwlT7OFBKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042252665774813641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042246440131743880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看你的 mtf 程度\n🟩 跟家长出柜\n🟩 家长支持\n🟩 女装过\n🟩 进过女厕\n🟩 被当成女生\n🟩 去医院拿过证\n🟩已经 SRS/排期\n🟩 开始吃药年龄在 16 岁以下\n才怪啦，其实根本一个都没有😭😭😭 https://t.co/NwlT7OFBKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 535,
+          "like_count": 8140,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 285
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 320,
+          "like_count": 6429,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1649
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

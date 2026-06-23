@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058526080454287853",
+    "created_at": "2026-05-24T12:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058526770190823794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058526770190823794",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058526080454287853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2058525700542611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFaN9XawAAeLij.png",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058526080454287853",
+        "created_at": "2026-05-24T12:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058526770190823794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058526770190823794",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058526080454287853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058525700542611456"
+          ]
+        },
+        "author_id": "1969310423322411010",
+        "conversation_id": "2058526080454287853",
+        "created_at": "2026-05-24T12:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058526080454287853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPGXxd1eaR",
+              "end": 102,
+              "expanded_url": "https://x.com/XiaoTian258/status/2058526080454287853/photo/1",
+              "media_key": "3_2058525700542611456",
+              "start": 79,
+              "url": "https://t.co/pPGXxd1eaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058526080454287853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜Aione突破 1k fo! \n19号开通蓝v, 从 0f 一路努力上来的,  感谢各位的支持陪伴!\n后续会继续努力更新内容的! \n祝大家生活工作顺利! https://t.co/pPGXxd1eaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 908,
+          "like_count": 12753,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "大四计算机系在读,  探索AI/金融/Web3. \n之余简单分享一下生活~~\n我们都有美好的明天~",
+        "id": "1969310423322411010",
+        "name": "Aione",
+        "pinned_tweet_id": "2056677748421390846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032045985778843649/b-9yv0gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 300,
+          "like_count": 2653,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1778
+        },
+        "username": "XiaoTian258",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048363289756016640"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2048363301881758206",
+    "created_at": "2026-04-26T11:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048363301881758206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZVBRPT8Ik",
+          "end": 32,
+          "expanded_url": "https://x.com/NL8526/status/2048363301881758206/video/1",
+          "media_key": "7_2048363289756016640",
+          "start": 9,
+          "url": "https://t.co/8ZVBRPT8Ik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048363301881758206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的马尾好炸💥💥 https://t.co/8ZVBRPT8Ik"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5061,
+        "height": 1280,
+        "media_key": "7_2048363289756016640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048363289756016640/pu/img/NPh36aJ5wHYG9ZhG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048363289756016640/pu/vid/avc1/320x568/nvqsr435zHI4YWkU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048363289756016640/pu/vid/avc1/480x852/CeTuwjgu-djmnw9A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048363289756016640/pu/vid/avc1/720x1280/Ht3zH0ieEf3dwPCP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048363289756016640/pu/pl/eBIqMvWxp3gJqXq-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048363289756016640"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2048363301881758206",
+        "created_at": "2026-04-26T11:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048363301881758206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZVBRPT8Ik",
+              "end": 32,
+              "expanded_url": "https://x.com/NL8526/status/2048363301881758206/video/1",
+              "media_key": "7_2048363289756016640",
+              "start": 9,
+              "url": "https://t.co/8ZVBRPT8Ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048363301881758206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的马尾好炸💥💥 https://t.co/8ZVBRPT8Ik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 653,
+          "like_count": 9779,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

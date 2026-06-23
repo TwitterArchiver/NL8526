@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062069738893947379",
+    "created_at": "2026-06-03T11:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062129305161961518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062129305161961518",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062069738893947379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio 摸摸 羡慕开明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1956,
+        "media_key": "3_2062069733395156992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3xf0kaUAAfMg-.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062069738893947379",
+        "created_at": "2026-06-03T11:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062129305161961518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062129305161961518",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062069738893947379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio 摸摸 羡慕开明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062069733395156992"
+          ]
+        },
+        "author_id": "2486372011",
+        "conversation_id": "2062069738893947379",
+        "created_at": "2026-06-03T07:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062069738893947379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oa6JarsSSY",
+              "end": 53,
+              "expanded_url": "https://x.com/Meowneko_Mio/status/2062069738893947379/photo/1",
+              "media_key": "3_2062069733395156992",
+              "start": 30,
+              "url": "https://t.co/Oa6JarsSSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062069738893947379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2145,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸櫃了😭😭\n\n下週去廣腦找趙素華還要去北醫三院找潘柏林😨😨 https://t.co/Oa6JarsSSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 700,
+          "like_count": 14173,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰 | contact@amiya.eu.org ｜Best Linux @debian｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "debian"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "RenkoUsagi1155"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mio.mtf.im",
+                "end": 23,
+                "expanded_url": "https://mio.mtf.im/",
+                "start": 0,
+                "url": "https://t.co/pXwKl7p7Cy"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000262071259377664/pPzK0Ja7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 896,
+          "like_count": 79542,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 4686
+        },
+        "url": "https://t.co/pXwKl7p7Cy",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

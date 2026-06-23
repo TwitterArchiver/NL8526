@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1977234717826334883",
+    "created_at": "2025-10-30T10:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983851109241516102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435172366330388481",
+          "start": 0,
+          "username": "OTUTOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983851109241516102",
+    "in_reply_to_user_id": "1435172366330388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977234717826334883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTUTOX 仿制版怎么买❔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977234708322041859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CMfcsbwAMhSLt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1977234717826334883",
+        "created_at": "2025-10-30T10:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983851109241516102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435172366330388481",
+              "start": 0,
+              "username": "OTUTOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983851109241516102",
+        "in_reply_to_user_id": "1435172366330388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977234717826334883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTUTOX 仿制版怎么买❔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977234708322041859"
+          ]
+        },
+        "author_id": "1435172366330388481",
+        "conversation_id": "1977234717826334883",
+        "created_at": "2025-10-12T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977234717826334883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9uvYipBuU",
+              "end": 28,
+              "expanded_url": "https://x.com/OTUTOX/status/1977234717826334883/photo/1",
+              "media_key": "3_1977234708322041859",
+              "start": 5,
+              "url": "https://t.co/z9uvYipBuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977234717826334883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真·国补 https://t.co/z9uvYipBuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) 家境困难 | 不od 不改刀? 不抽烟 不喝酒 | 🥰音游 性格友好但是超级缺爱自卑社恐悲观内耗无法和解自己喵🐱 害怕炸柜 已读不回 | 谢谢关注，互fo请摸摸🫶",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T09:25:37.000Z",
+        "description": "冒个泡，嘻嘻嘻。\n\n😞可能永远也等不到我的爱人了。\n希望有人能帮我照顾好猫猫，就是阿比小猫啦。\n爱你😘",
+        "id": "1435172366330388481",
+        "location": "IP属地：死心塌地",
+        "name": "夏日#恰噗恰噗😗😗😗",
+        "pinned_tweet_id": "1688045502888329216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712233486504108032/IekOAAFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 515,
+          "like_count": 11095,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1346
+        },
+        "username": "OTUTOX",
+        "verified": false
+      }
+    ]
+  }
+}

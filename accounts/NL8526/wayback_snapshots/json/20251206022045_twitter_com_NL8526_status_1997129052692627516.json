@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1997129052692627516",
+    "created_at": "2025-12-06T02:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997129052692627516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aizhenxunjiang…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/aizhenxunjiang/status/1996978876896235917",
+          "start": 99,
+          "url": "https://t.co/XtVw2kvqfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997129052692627516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996978876896235917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起了初中时候买过好几次三角篓子和小背心都被我妈发现 被发现的时候心里也是挺难受的😣 家里的态度和帖子上的差不多\n从那时候不敢放家里了 东西在包里随身带着 只敢冬天拿出来穿小背心 最喜欢的是冬天。 https://t.co/XtVw2kvqfq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996978861058478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7axsZVa0AAHjOo.jpg",
+        "width": 1182
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996978872945201155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7axtFnb0AM9UQs.jpg",
+        "width": 1171
+      },
+      {
+        "height": 2116,
+        "media_key": "3_1996978867865833473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7axsysa0AER4oA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1997129052692627516",
+        "created_at": "2025-12-06T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997129052692627516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aizhenxunjiang…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/aizhenxunjiang/status/1996978876896235917",
+              "start": 99,
+              "url": "https://t.co/XtVw2kvqfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997129052692627516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996978876896235917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起了初中时候买过好几次三角篓子和小背心都被我妈发现 被发现的时候心里也是挺难受的😣 家里的态度和帖子上的差不多\n从那时候不敢放家里了 东西在包里随身带着 只敢冬天拿出来穿小背心 最喜欢的是冬天。 https://t.co/XtVw2kvqfq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996978861058478080",
+            "3_1996978872945201155",
+            "3_1996978867865833473"
+          ]
+        },
+        "author_id": "1827293756661571584",
+        "conversation_id": "1996978876896235917",
+        "created_at": "2025-12-05T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996978876896235917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R98tWuXLaI",
+              "end": 52,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1996978876896235917/photo/1",
+              "media_key": "3_1996978861058478080",
+              "start": 29,
+              "url": "https://t.co/R98tWuXLaI"
+            },
+            {
+              "display_url": "pic.x.com/R98tWuXLaI",
+              "end": 52,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1996978876896235917/photo/1",
+              "media_key": "3_1996978872945201155",
+              "start": 29,
+              "url": "https://t.co/R98tWuXLaI"
+            },
+            {
+              "display_url": "pic.x.com/R98tWuXLaI",
+              "end": 52,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1996978876896235917/photo/1",
+              "media_key": "3_1996978867865833473",
+              "start": 29,
+              "url": "https://t.co/R98tWuXLaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996978876896235917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个帖子触感好深🥺，我去年也曾经历过，挥之不去的记忆 https://t.co/R98tWuXLaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 68,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 139
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜无证含糖🍥｜07｜istp｜欢迎同类🍥🏳️‍⚧️｜同类互fo｜158cm/100斤｜匿名提问https://t.co/x4658dNtP4｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchi78643",
+                "end": 87,
+                "expanded_url": "https://ngl.link/yuchi78643",
+                "start": 64,
+                "url": "https://t.co/x4658dNtP4"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "location": "乌鲁木齐",
+        "name": "雨池🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 415,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 199
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

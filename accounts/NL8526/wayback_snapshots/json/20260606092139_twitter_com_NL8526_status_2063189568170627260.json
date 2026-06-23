@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2063188277180747889",
+    "created_at": "2026-06-06T09:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063189568170627260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "与纽约专业音乐家一起学习 - 一对一在线课程、精品录播课、线上大师班",
+          "display_url": "soundlinkonline.com/#quiz/pitch-di…",
+          "end": 28,
+          "expanded_url": "https://soundlinkonline.com/#quiz/pitch-discrimination",
+          "start": 5,
+          "status": 200,
+          "title": "Sound Link - 全球在线音乐教育平台｜与纽约专业音乐家们一起学习",
+          "unwound_url": "https://soundlinkonline.com/#quiz/pitch-discrimination",
+          "url": "https://t.co/YPpmHgfwDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063189568170627260",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063188277180747889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "测试地址：https://t.co/YPpmHgfwDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063188274676678656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHqzfjawAAqElP.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2063188277180747889",
+        "created_at": "2026-06-06T09:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063189568170627260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "与纽约专业音乐家一起学习 - 一对一在线课程、精品录播课、线上大师班",
+              "display_url": "soundlinkonline.com/#quiz/pitch-di…",
+              "end": 28,
+              "expanded_url": "https://soundlinkonline.com/#quiz/pitch-discrimination",
+              "start": 5,
+              "status": 200,
+              "title": "Sound Link - 全球在线音乐教育平台｜与纽约专业音乐家们一起学习",
+              "unwound_url": "https://soundlinkonline.com/#quiz/pitch-discrimination",
+              "url": "https://t.co/YPpmHgfwDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063189568170627260",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063188277180747889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "测试地址：https://t.co/YPpmHgfwDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063188274676678656"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2063188277180747889",
+        "created_at": "2026-06-06T09:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063188277180747889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TNwtjseAV",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2063188277180747889/photo/1",
+              "media_key": "3_2063188274676678656",
+              "start": 18,
+              "url": "https://t.co/7TNwtjseAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063188277180747889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.5音分到底是谁在听？\n👽：收到 https://t.co/7TNwtjseAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 724,
+          "like_count": 14702,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

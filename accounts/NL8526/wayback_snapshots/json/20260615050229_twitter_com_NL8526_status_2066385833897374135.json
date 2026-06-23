@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066385831556993024"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2066385833897374135",
+    "created_at": "2026-06-15T05:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066385833897374135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dAXEhnVSRW",
+          "end": 29,
+          "expanded_url": "https://x.com/NL8526/status/2066385833897374135/photo/1",
+          "media_key": "3_2066385831556993024",
+          "start": 6,
+          "url": "https://t.co/dAXEhnVSRW"
+        },
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2066142107929026877",
+          "start": 30,
+          "url": "https://t.co/amJATatlYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066385833897374135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142107929026877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "粉毛猫娘😺 https://t.co/dAXEhnVSRW https://t.co/amJATatlYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2066385831556993024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1G9zLa0AAPoRA.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2066116770260504576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxSQXva0AAGRKn.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066385831556993024"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2066385833897374135",
+        "created_at": "2026-06-15T05:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066385833897374135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAXEhnVSRW",
+              "end": 29,
+              "expanded_url": "https://x.com/NL8526/status/2066385833897374135/photo/1",
+              "media_key": "3_2066385831556993024",
+              "start": 6,
+              "url": "https://t.co/dAXEhnVSRW"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2066142107929026877",
+              "start": 30,
+              "url": "https://t.co/amJATatlYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066385833897374135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142107929026877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粉毛猫娘😺 https://t.co/dAXEhnVSRW https://t.co/amJATatlYD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066116770260504576"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066142107929026877",
+        "created_at": "2026-06-14T12:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142107929026877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kbr4EnpT4x",
+              "end": 157,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2066142107929026877/photo/1",
+              "media_key": "3_2066116770260504576",
+              "start": 134,
+              "url": "https://t.co/Kbr4EnpT4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142107929026877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 15037,
+          "like_count": 224,
+          "quote_count": 27,
+          "reply_count": 69,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "参考这张二次元少女图，将其转换为手机摄影风格，画面略微模糊失焦，低饱和度，拍摄一个漂亮少女的低角度仰视特写自拍，她眉眼清晰，带着些许慵懒犯困的眼神，头发有些凌乱，背景露出部分天花板和一些灯光，她自然地用一只手撑着下巴，少女的发丝更显凌乱，灯光氛围更柔和朦胧。原比例。 https://t.co/Kbr4EnpT4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 b我必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 784,
+          "like_count": 16781,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 871,
+          "like_count": 26167,
+          "listed_count": 11,
+          "media_count": 1495,
+          "tweet_count": 8078
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

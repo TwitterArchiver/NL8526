@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2065703442077868257",
+    "created_at": "2026-06-13T11:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065764165143388414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkSU_Official"
+        },
+        {
+          "end": 24,
+          "id": "1613079089879076864",
+          "start": 17,
+          "username": "YunJiu"
+        },
+        {
+          "end": 35,
+          "id": "1919296206381170688",
+          "start": 25,
+          "username": "juhao0721"
+        },
+        {
+          "end": 47,
+          "id": "1756909109788753920",
+          "start": 36,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065764165143388414",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065703442077868257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkSU_Official @YunJiu @juhao0721 @__fanqie__ xm🥛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065703431290109952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKraU4FaQAA8QF-.jpg",
+        "width": 348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065703442077868257",
+        "created_at": "2026-06-13T11:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065764165143388414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "YunJiu"
+            },
+            {
+              "end": 35,
+              "id": "1919296206381170688",
+              "start": 25,
+              "username": "juhao0721"
+            },
+            {
+              "end": 47,
+              "id": "1756909109788753920",
+              "start": 36,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065764165143388414",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703442077868257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official @YunJiu @juhao0721 @__fanqie__ xm🥛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065703431290109952"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065703442077868257",
+        "created_at": "2026-06-13T07:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065703442077868257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1613079089879076864",
+              "start": 2,
+              "username": "YunJiu"
+            },
+            {
+              "end": 20,
+              "id": "1919296206381170688",
+              "start": 10,
+              "username": "juhao0721"
+            },
+            {
+              "end": 32,
+              "id": "1756909109788753920",
+              "start": 21,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4mCrURo53",
+              "end": 56,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2065703442077868257/photo/1",
+              "media_key": "3_2065703431290109952",
+              "start": 33,
+              "url": "https://t.co/R4mCrURo53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065703442077868257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1270,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "笑\n@YunJiu @juhao0721 @__fanqie__ https://t.co/R4mCrURo53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 759,
+          "like_count": 16371,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 2624,
+          "like_count": 41025,
+          "listed_count": 19,
+          "media_count": 1533,
+          "tweet_count": 13307
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105420,
+          "following_count": 806,
+          "like_count": 37248,
+          "listed_count": 295,
+          "media_count": 19345,
+          "tweet_count": 27699
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "有舞萌DX附近的吗\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "不知道",
+        "name": "猪基蛤",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058489943731965952/1TZ696_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 108,
+          "like_count": 2823,
+          "listed_count": 7,
+          "media_count": 355,
+          "tweet_count": 1418
+        },
+        "username": "juhao0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 2772,
+          "like_count": 1587,
+          "listed_count": 17,
+          "media_count": 1734,
+          "tweet_count": 10122
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068774959892377600",
+        "7_2068774959917502464"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2068774986140254345",
+    "created_at": "2026-06-21T19:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068774986140254345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPwPTkGHF1",
+          "end": 119,
+          "expanded_url": "https://x.com/NL8526/status/2068774986140254345/video/1",
+          "media_key": "3_2068774959892377600",
+          "start": 96,
+          "url": "https://t.co/EPwPTkGHF1"
+        },
+        {
+          "display_url": "pic.x.com/EPwPTkGHF1",
+          "end": 119,
+          "expanded_url": "https://x.com/NL8526/status/2068774986140254345/video/1",
+          "media_key": "7_2068774959917502464",
+          "start": 96,
+          "url": "https://t.co/EPwPTkGHF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068774986140254345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来自黑龙江一网友：\n“最神经病的一集 6月2日回到家买了两斤苍蝇蛹，路上全孵化成苍蝇了。然后买了一堆森林蟑螂，想放缸里养，全跑了。”\n等一下 黑龙江？夏天？森林蟑螂？跑了？什么叫全跑了？？？ https://t.co/EPwPTkGHF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "3_2068774959892377600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXD3XybsAAhdNZ.jpg",
+        "width": 300
+      },
+      {
+        "duration_ms": 15487,
+        "height": 1024,
+        "media_key": "7_2068774959917502464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068774959917502464/pu/img/c_zSidlrRJrwDq55.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068774959917502464/pu/vid/avc1/320x568/-4TipjC6JZokZ6cv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068774959917502464/pu/vid/avc1/480x852/o-qYIS974M_0Hv-J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068774959917502464/pu/vid/avc1/576x1024/2lUtWDjHQdupTjXD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068774959917502464/pu/pl/t4O1oVvsMFO3GT1S.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068774959892377600",
+            "7_2068774959917502464"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068774986140254345",
+        "created_at": "2026-06-21T19:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068774986140254345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPwPTkGHF1",
+              "end": 119,
+              "expanded_url": "https://x.com/NL8526/status/2068774986140254345/video/1",
+              "media_key": "3_2068774959892377600",
+              "start": 96,
+              "url": "https://t.co/EPwPTkGHF1"
+            },
+            {
+              "display_url": "pic.x.com/EPwPTkGHF1",
+              "end": 119,
+              "expanded_url": "https://x.com/NL8526/status/2068774986140254345/video/1",
+              "media_key": "7_2068774959917502464",
+              "start": 96,
+              "url": "https://t.co/EPwPTkGHF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068774986140254345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自黑龙江一网友：\n“最神经病的一集 6月2日回到家买了两斤苍蝇蛹，路上全孵化成苍蝇了。然后买了一堆森林蟑螂，想放缸里养，全跑了。”\n等一下 黑龙江？夏天？森林蟑螂？跑了？什么叫全跑了？？？ https://t.co/EPwPTkGHF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3054,
+          "following_count": 839,
+          "like_count": 17817,
+          "listed_count": 5,
+          "media_count": 193,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

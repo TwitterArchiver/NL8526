@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2017648404449620434",
+    "created_at": "2026-02-01T07:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017861693439967672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017861693439967672",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017648404449620434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2017648404449620434",
+        "created_at": "2026-02-01T07:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017861693439967672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017861693439967672",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017648404449620434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2017648404449620434",
+        "created_at": "2026-01-31T17:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017648404449620434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017648404449620434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2298,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天大概是做梦了一天，亲妈帮我打日雌是……???扎的股外侧肌\n她以为我扎针完事了进屋看见我握着注射器还在心理建设深呼吸，说了什么忘了我打趣说要不你帮我扎，然后就真的了\n我觉得我大概是做了一天梦\n啊?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 深柜 低气压ing 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 259,
+          "like_count": 3039,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 141
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 1345,
+          "like_count": 64684,
+          "listed_count": 2,
+          "media_count": 903,
+          "tweet_count": 17971
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

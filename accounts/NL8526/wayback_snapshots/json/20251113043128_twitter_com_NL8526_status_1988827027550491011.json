@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1988827027550491011",
+    "created_at": "2025-11-13T04:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988827027550491011"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988827027550491011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那条凌晨被吵醒的文案被导员看到了\n叫我去找她\n问我有没有要好的朋友 去食堂都是一个人吗\n好扎心 差点在她面前哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1988827027550491011",
+        "created_at": "2025-11-13T04:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988827027550491011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988827027550491011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那条凌晨被吵醒的文案被导员看到了\n叫我去找她\n问我有没有要好的朋友 去食堂都是一个人吗\n好扎心 差点在她面前哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 26,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 65
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

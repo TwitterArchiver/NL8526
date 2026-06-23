@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2048333510612804021",
+    "created_at": "2026-04-26T09:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048333510612804021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2048288763357651301",
+          "start": 2,
+          "url": "https://t.co/SnBbfXN9DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048333510612804021",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048288763357651301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "❓ https://t.co/SnBbfXN9DJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2048333510612804021",
+        "created_at": "2026-04-26T09:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048333510612804021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2048288763357651301",
+              "start": 2,
+              "url": "https://t.co/SnBbfXN9DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048333510612804021",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048288763357651301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❓ https://t.co/SnBbfXN9DJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2048288763357651301",
+        "created_at": "2026-04-26T06:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048288763357651301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048288763357651301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1370,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我关注了很多ft男娘。每次他们不发荤段子，油腻推文了，就是忘打睾酮了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 652,
+          "like_count": 9770,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22153,
+          "following_count": 198,
+          "like_count": 710,
+          "listed_count": 69,
+          "media_count": 103,
+          "tweet_count": 23202
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

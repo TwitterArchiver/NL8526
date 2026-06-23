@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052302597932175360"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2052302600759136303",
+    "created_at": "2026-05-07T08:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052302600759136303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/acMlfwSBIs",
+          "end": 48,
+          "expanded_url": "https://x.com/NL8526/status/2052302600759136303/photo/1",
+          "media_key": "3_2052302597932175360",
+          "start": 25,
+          "url": "https://t.co/acMlfwSBIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052302600759136303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有正式交往过的人喵\n（这个应该不是机器人发的吧 https://t.co/acMlfwSBIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052302597932175360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs-Vtlb0AAuuTe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052302597932175360"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2052302600759136303",
+        "created_at": "2026-05-07T08:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052302600759136303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acMlfwSBIs",
+              "end": 48,
+              "expanded_url": "https://x.com/NL8526/status/2052302600759136303/photo/1",
+              "media_key": "3_2052302597932175360",
+              "start": 25,
+              "url": "https://t.co/acMlfwSBIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052302600759136303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有正式交往过的人喵\n（这个应该不是机器人发的吧 https://t.co/acMlfwSBIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹钢专/音游/MC 😖半家长党/缺爱b/讨好所有人 ➕扩列互关喵 和我做朋友好不好？ 😊做完那些想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 757,
+          "like_count": 10769,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

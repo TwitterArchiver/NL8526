@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988927988529012736"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988927995852255514",
+    "created_at": "2025-11-13T11:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T12:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988927995852255514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRatH83axj",
+          "end": 97,
+          "expanded_url": "https://x.com/NL8526/status/1988927995852255514/photo/1",
+          "media_key": "3_1988927988529012736",
+          "start": 74,
+          "url": "https://t.co/hRatH83axj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988927995852255514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "行呗 11.9 ptt掉掉0.16\n永远和摘星无缘了\n打得躯体化了一直在抖\n我不知道为什么一开始掉了0.02就一直想打然后掉了这么多 后悔也没用了 https://t.co/hRatH83axj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_1988927988529012736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oXd8AaoAAc_2b.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988927988529012736"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988927995852255514",
+        "created_at": "2025-11-13T11:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988927995852255514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRatH83axj",
+              "end": 97,
+              "expanded_url": "https://x.com/NL8526/status/1988927995852255514/photo/1",
+              "media_key": "3_1988927988529012736",
+              "start": 74,
+              "url": "https://t.co/hRatH83axj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988927995852255514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "行呗 11.9 ptt掉掉0.16\n永远和摘星无缘了\n打得躯体化了一直在抖\n我不知道为什么一开始掉了0.02就一直想打然后掉了这么多 后悔也没用了 https://t.co/hRatH83axj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 26,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 67
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

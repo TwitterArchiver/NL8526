@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2053402623974547909",
+    "created_at": "2026-05-10T11:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053435999225786857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        },
+        {
+          "end": 16,
+          "id": "1532663208393117696",
+          "start": 8,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 29,
+          "id": "1560533329912311808",
+          "start": 17,
+          "username": "BdZzbw6goo2"
+        },
+        {
+          "end": 40,
+          "id": "1940234347464073216",
+          "start": 30,
+          "username": "KamiHzhai"
+        },
+        {
+          "end": 57,
+          "id": "2050890063010258944",
+          "start": 41,
+          "username": "xynAsabaShizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053435999225786857",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053402623974547909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 @Ziverk2 @BdZzbw6goo2 @KamiHzhai @xynAsabaShizuku 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2053402615409704960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8mzKBagAAZ3XI.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2053402623974547909",
+        "created_at": "2026-05-10T11:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053435999225786857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            },
+            {
+              "end": 16,
+              "id": "1532663208393117696",
+              "start": 8,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 29,
+              "id": "1560533329912311808",
+              "start": 17,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 40,
+              "id": "1940234347464073216",
+              "start": 30,
+              "username": "KamiHzhai"
+            },
+            {
+              "end": 57,
+              "id": "2050890063010258944",
+              "start": 41,
+              "username": "xynAsabaShizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053435999225786857",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053402623974547909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 @Ziverk2 @BdZzbw6goo2 @KamiHzhai @xynAsabaShizuku 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053402615409704960"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "conversation_id": "2053402623974547909",
+        "created_at": "2026-05-10T09:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053402623974547909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1532663208393117696",
+              "start": 22,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 43,
+              "id": "1560533329912311808",
+              "start": 31,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 60,
+              "id": "1940234347464073216",
+              "start": 50,
+              "username": "KamiHzhai"
+            },
+            {
+              "end": 83,
+              "id": "2050890063010258944",
+              "start": 67,
+              "username": "xynAsabaShizuku"
+            },
+            {
+              "end": 91,
+              "id": "1546431985086009344",
+              "start": 84,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 119,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/9g3kQBhEzv"
+            },
+            {
+              "display_url": "pic.x.com/3BhuKH2G8Q",
+              "end": 143,
+              "expanded_url": "https://x.com/Hiime0/status/2053402623974547909/photo/1",
+              "media_key": "3_2053402615409704960",
+              "start": 120,
+              "url": "https://t.co/3BhuKH2G8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053402623974547909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Ziverk2 @BdZzbw6goo2\n👰 配偶: @KamiHzhai\n👶 孩子: @xynAsabaShizuku @NL8526\n\n➡️ https://t.co/9g3kQBhEzv https://t.co/3BhuKH2G8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/讨好所有人/为什么我无人在意为什么你们都讨厌我 ❤️扩列互关 和我做朋友好不好? 🧂做完剩下想做的事情 就离开这世界 (快了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 800,
+          "like_count": 11284,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】\n已有恋人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "上海",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2052350272685654188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 236,
+          "like_count": 526,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵🐱\n|2008-\n|MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|国内全平台原创音乐人\n|负面碎碎念☹️\n|小群 1020709329 过熟人\n|烤批\n|Deb\n|内有涩涩内容🫣\n|负面逃生仓⚠血图 @TakeNitrite\n|♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050222327573717186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3562,
+          "following_count": 5799,
+          "like_count": 182043,
+          "listed_count": 14,
+          "media_count": 301,
+          "tweet_count": 16352
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1065,
+          "like_count": 64941,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 596
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T02:22:17.000Z",
+        "description": "私は神谷紅葉です~/MTF 🏳️‍⚧️ DIY HRT 2025.9.5/无证含糖🍥/同类互fo喵/狐狐猫猫/偶尔出现 綾瀬花影 乃另一个我/饿了要喝奶/什么也不会的阴角宅宅",
+        "id": "1940234347464073216",
+        "location": "幻想鄉",
+        "name": "神宅椛🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017799624116109312/Nj63J7Zh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 63,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 164
+        },
+        "username": "KamiHzhai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:49:14.000Z",
+        "description": "cn 浅羽雫 05.07.2010\nMtF🏳️‍⚧️ 无证含糖🍥 同类互fo\nIXFP 喜欢小猫 高敏感 低精力 不登校初三牲\n想成为术力口P 踏切少女贝斯手 请去163音乐关注咱",
+        "id": "2050890063010258944",
+        "location": "成都",
+        "name": "浅羽雫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051148934576582656/CUyocTlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 136
+        },
+        "username": "xynAsabaShizuku",
+        "verified": false
+      }
+    ]
+  }
+}

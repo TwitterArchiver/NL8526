@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2007494106516459573",
+    "created_at": "2026-01-03T17:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007508934400324093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007508934400324093",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007494106516459573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找了一家青旅 但是给的床位号那里已经有人了 没有前台 是自助入住的 怎么办……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6372,
+        "height": 1280,
+        "media_key": "7_2007494079412940800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007494079412940800/pu/img/3KkdDYFy6_4RVtoV.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007494079412940800/pu/vid/avc1/320x568/OcSxAmrLxrMTcdPe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007494079412940800/pu/vid/avc1/480x852/t-78xBUyWyAFcrZ2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007494079412940800/pu/vid/avc1/720x1280/V2a1T7eWZk8hV7L4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007494079412940800/pu/pl/jV9UrElCeOZDvu9w.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2007494106516459573",
+        "created_at": "2026-01-03T17:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007508934400324093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007508934400324093",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007494106516459573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找了一家青旅 但是给的床位号那里已经有人了 没有前台 是自助入住的 怎么办……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007494079412940800"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2007494106516459573",
+        "created_at": "2026-01-03T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007494106516459573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFII0YCma7",
+              "end": 42,
+              "expanded_url": "https://x.com/NL8526/status/2007494106516459573/video/1",
+              "media_key": "7_2007494079412940800",
+              "start": 19,
+              "url": "https://t.co/CFII0YCma7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007494106516459573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次被赶出住的地方\n手被冻紫了一块 https://t.co/CFII0YCma7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游 \n本科在读 贷款上学中 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 97,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 114
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

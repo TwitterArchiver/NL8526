@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2055255870993502393",
+    "created_at": "2026-05-15T15:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055310088504750447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788279577531523075",
+          "start": 0,
+          "username": "fushishanxia88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055310088504750447",
+    "in_reply_to_user_id": "1788279577531523075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055300986005242337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushishanxia88 ..人家跳楼自杀.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2055255870993502393",
+        "created_at": "2026-05-15T15:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055310088504750447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788279577531523075",
+              "start": 0,
+              "username": "fushishanxia88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055310088504750447",
+        "in_reply_to_user_id": "1788279577531523075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055300986005242337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushishanxia88 ..人家跳楼自杀.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788279577531523075",
+        "conversation_id": "2055255870993502393",
+        "created_at": "2026-05-15T14:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055300986005242337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055300986005242337",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055255870993502393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 好奇什么手术啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/为什么无人在意?为什么你们都讨厌我? 🩷扩列互关 拒接线下 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 842,
+          "like_count": 11791,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T18:47:50.000Z",
+        "description": "06mtf，infj,hrt2025.5.5，取向是一切可爱的事物",
+        "id": "1788279577531523075",
+        "name": "苏苏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010413092296114177/EPONhVFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 147,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 236
+        },
+        "username": "fushishanxia88",
+        "verified": false
+      }
+    ]
+  }
+}

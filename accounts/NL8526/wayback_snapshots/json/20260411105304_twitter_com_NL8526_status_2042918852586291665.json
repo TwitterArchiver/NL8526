@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2042918852586291665",
+    "created_at": "2026-04-11T10:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042918852586291665"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "情侣"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "日常"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "男娘"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "药娘"
+        },
+        {
+          "end": 114,
+          "start": 107,
+          "tag": "femboy"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "男の娘"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "项圈"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "神官"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "后入"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852679674738143232",
+          "start": 3,
+          "username": "miao_cha_QvQ"
+        },
+        {
+          "end": 83,
+          "id": "1402172281669898244",
+          "start": 69,
+          "username": "SugerbreadQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042918852586291665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042901463261941999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miao_cha_QvQ: 啊发点糖🍬嘻嘻 和对象同床竞技（目前没有赢过）喜欢就关注下我们吧喵！❤️\n我：猫耳（下等神官）\n对象：@SugerbreadQAQ （上等神官）\n#情侣 #日常 #男娘 #药娘 #femboy #男の娘 #项圈 #神官 #后入 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 299946,
+        "height": 720,
+        "media_key": "13_2042901198286852096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042901198286852096/img/IpePecBVCqaSWzdK.jpg",
+        "public_metrics": {
+          "view_count": 146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042901198286852096/vid/avc1/360x270/u6xykN21d-XOma9t.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042901198286852096/vid/avc1/480x360/30hIIFZW29qUEscc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042901198286852096/vid/avc1/960x720/G4Fo8M6Uq_HOpX5E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042901198286852096/pl/NMLz_MsOTJzxv9Dp.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2042918852586291665",
+        "created_at": "2026-04-11T10:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042918852586291665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "情侣"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "日常"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "男娘"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "药娘"
+            },
+            {
+              "end": 114,
+              "start": 107,
+              "tag": "femboy"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "男の娘"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "项圈"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "神官"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "后入"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852679674738143232",
+              "start": 3,
+              "username": "miao_cha_QvQ"
+            },
+            {
+              "end": 83,
+              "id": "1402172281669898244",
+              "start": 69,
+              "username": "SugerbreadQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042918852586291665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042901463261941999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miao_cha_QvQ: 啊发点糖🍬嘻嘻 和对象同床竞技（目前没有赢过）喜欢就关注下我们吧喵！❤️\n我：猫耳（下等神官）\n对象：@SugerbreadQAQ （上等神官）\n#情侣 #日常 #男娘 #药娘 #femboy #男の娘 #项圈 #神官 #后入 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042901198286852096"
+          ]
+        },
+        "author_id": "1852679674738143232",
+        "conversation_id": "2042901463261941999",
+        "created_at": "2026-04-11T09:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042901463261941999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "情侣"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "日常"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "男娘"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "药娘"
+            },
+            {
+              "end": 96,
+              "start": 89,
+              "tag": "femboy"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "男の娘"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "项圈"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "神官"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "后入"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1402172281669898244",
+              "start": 51,
+              "username": "SugerbreadQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysSSW4r69Y",
+              "end": 137,
+              "expanded_url": "https://x.com/miao_cha_QvQ/status/2042901463261941999/video/1",
+              "media_key": "13_2042901198286852096",
+              "start": 114,
+              "url": "https://t.co/ysSSW4r69Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042901463261941999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 565,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "啊发点糖🍬嘻嘻 和对象同床竞技（目前没有赢过）喜欢就关注下我们吧喵！❤️\n我：猫耳（下等神官）\n对象：@SugerbreadQAQ （上等神官）\n#情侣 #日常 #男娘 #药娘 #femboy #男の娘 #项圈 #神官 #后入 https://t.co/ysSSW4r69Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 544,
+          "like_count": 8305,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 290
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T11:50:37.000Z",
+        "description": "🍥 含糖🍬168 56kg的一只，🚪6吧（可以给对象和我买可乐）欢迎骚扰我，扩列我喵，互fo互推私聊我或者留言喵私聊都会看都会回哒（找我找我）注1：已经有爱的人和爱我的人了哦被天使青睐了呢嘿嘿 注2：照片多多少少都有p…",
+        "id": "1852679674738143232",
+        "location": "福建",
+        "name": "沫茶QvQ（互推互fo版）",
+        "pinned_tweet_id": "2042901463261941999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040703463282376704/vMVUuXA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 609,
+          "like_count": 8766,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 1674
+        },
+        "username": "miao_cha_QvQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T07:55:09.000Z",
+        "description": "成年高p小男娘/无🍬/喜欢白丝雪糕/命中之人： @miao_cha_QVQ\n\n奇奇怪怪的小号：@MatchaBreadawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "miao_cha_QVQ"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "MatchaBreadawa"
+              }
+            ]
+          }
+        },
+        "id": "1402172281669898244",
+        "name": "面包🍞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999143946598178816/H2XV8KYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 160,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 843
+        },
+        "username": "SugerbreadQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

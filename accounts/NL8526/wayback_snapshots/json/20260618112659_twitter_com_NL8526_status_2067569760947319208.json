@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2067528945743155215",
+    "created_at": "2026-06-18T11:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067569760947319208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1502633782826143744",
+          "start": 0,
+          "username": "shisihuoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067569760947319208",
+    "in_reply_to_user_id": "1502633782826143744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067564126239601039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shisihuoya 是毕业了 这是以前的照片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067528945743155215",
+        "created_at": "2026-06-18T11:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067569760947319208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1502633782826143744",
+              "start": 0,
+              "username": "shisihuoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067569760947319208",
+        "in_reply_to_user_id": "1502633782826143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067564126239601039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shisihuoya 是毕业了 这是以前的照片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502633782826143744",
+        "conversation_id": "2067528945743155215",
+        "created_at": "2026-06-18T11:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067564126239601039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067564126239601039",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067528945743155215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 我还以为你已经毕业了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2913,
+          "following_count": 814,
+          "like_count": 17350,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-12T13:13:25.000Z",
+        "description": "喜欢看好的",
+        "id": "1502633782826143744",
+        "location": "江西",
+        "name": "四火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992366013116211200/2SxqP4lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 144,
+          "like_count": 3799,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "shisihuoya",
+        "verified": false
+      }
+    ]
+  }
+}

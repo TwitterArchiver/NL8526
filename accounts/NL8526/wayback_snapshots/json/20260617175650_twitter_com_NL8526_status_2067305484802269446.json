@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2067159766867300376",
+    "created_at": "2026-06-17T17:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067305484802269446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1010322251269300224",
+          "start": 0,
+          "username": "tkcmta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067305484802269446",
+    "in_reply_to_user_id": "1010322251269300224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067159766867300376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkcmta 我也是之前吃豆 自己骗自己🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067159766867300376",
+        "created_at": "2026-06-17T17:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067305484802269446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1010322251269300224",
+              "start": 0,
+              "username": "tkcmta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067305484802269446",
+        "in_reply_to_user_id": "1010322251269300224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067159766867300376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkcmta 我也是之前吃豆 自己骗自己🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1010322251269300224",
+        "conversation_id": "2067159766867300376",
+        "created_at": "2026-06-17T08:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067159766867300376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067159766867300376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1871,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来, 我其实可以在2021年暑假就开始HRT的, 但是当时以为网上开处方真的会打电话来问, 就一直不敢买, 于是我当时就在tb上买了几瓶大豆异黄酮, 每天吃3t还是4t来着, 现在想想好可惜.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 808,
+          "like_count": 17225,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-23T00:42:50.000Z",
+        "description": "05MtF / INFJ-T / 持证HRT22.01.27 / 同类互fo喵(忘了请私信提醒喵) / Wolfx Project / #防災 / #EEW / #地震観測 / #プロセカ / ZH、EN、JA / 平时主要玩PJSK喵 / 😈🥰 @realcodestudio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "防災"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "EEW"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "地震観測"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "realcodestudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolfx.jp",
+                "end": 23,
+                "expanded_url": "https://wolfx.jp",
+                "start": 0,
+                "url": "https://t.co/Etun1cXcZX"
+              }
+            ]
+          }
+        },
+        "id": "1010322251269300224",
+        "location": "Inazuma",
+        "name": "TenkyuChimata🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617528974112083969/kjfqMLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 909,
+          "like_count": 49534,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/Etun1cXcZX",
+        "username": "tkcmta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989353488204382208"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989353491530404003",
+    "created_at": "2025-11-14T15:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989353491530404003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/achsFfzcpg",
+          "end": 71,
+          "expanded_url": "https://x.com/NL8526/status/1989353491530404003/photo/1",
+          "media_key": "3_1989353488204382208",
+          "start": 48,
+          "url": "https://t.co/achsFfzcpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989353491530404003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一天没吃饭 刚刚起床(对 起床）点一个外卖吃一半就饱了 闻着想吃也吃不下\n看看待会能不能吃完吧 https://t.co/achsFfzcpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1989353488204382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uadR0bQAArlwW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989353488204382208"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989353491530404003",
+        "created_at": "2025-11-14T15:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989353491530404003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/achsFfzcpg",
+              "end": 71,
+              "expanded_url": "https://x.com/NL8526/status/1989353491530404003/photo/1",
+              "media_key": "3_1989353488204382208",
+              "start": 48,
+              "url": "https://t.co/achsFfzcpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989353491530404003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天没吃饭 刚刚起床(对 起床）点一个外卖吃一半就饱了 闻着想吃也吃不下\n看看待会能不能吃完吧 https://t.co/achsFfzcpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 29,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 71
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

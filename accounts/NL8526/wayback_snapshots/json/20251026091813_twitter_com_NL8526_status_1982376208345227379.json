@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982376204112932864"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1982376208345227379",
+    "created_at": "2025-10-26T09:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982376208345227379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmFZHjQrNC",
+          "end": 81,
+          "expanded_url": "https://x.com/NL8526/status/1982376208345227379/photo/1",
+          "media_key": "3_1982376204112932864",
+          "start": 58,
+          "url": "https://t.co/hmFZHjQrNC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982376208345227379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发一份雪糕\n随缘发推呢。每天都是焦虑和抑郁...\n今天吃泡面还剩三分之一就饱了\n胃口变差了 昨天没吃东西的缘故吗🤔 https://t.co/hmFZHjQrNC"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "美味雪糕😋",
+        "height": 922,
+        "media_key": "3_1982376204112932864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LQp5FWsAAIYfA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982376204112932864"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1982376208345227379",
+        "created_at": "2025-10-26T09:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982376208345227379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmFZHjQrNC",
+              "end": 81,
+              "expanded_url": "https://x.com/NL8526/status/1982376208345227379/photo/1",
+              "media_key": "3_1982376204112932864",
+              "start": 58,
+              "url": "https://t.co/hmFZHjQrNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982376208345227379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一份雪糕\n随缘发推呢。每天都是焦虑和抑郁...\n今天吃泡面还剩三分之一就饱了\n胃口变差了 昨天没吃东西的缘故吗🤔 https://t.co/hmFZHjQrNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/09 | 📍IP洪城 大学在读 | 🥰音游 超级自卑社恐喵🐱",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 13,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

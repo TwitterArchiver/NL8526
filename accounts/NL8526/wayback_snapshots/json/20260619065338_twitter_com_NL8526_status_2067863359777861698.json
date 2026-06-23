@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067857961666727936"
+      ],
+      "media_source_tweet_id": [
+        "2067857965265330444"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2067863359777861698",
+    "created_at": "2026-06-19T06:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067863359777861698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065018601451765760",
+          "start": 3,
+          "username": "8526nl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NJL11MvoJr",
+          "end": 56,
+          "expanded_url": "https://x.com/8526nl/status/2067857965265330444/photo/1",
+          "media_key": "3_2067857961666727936",
+          "start": 33,
+          "url": "https://t.co/NJL11MvoJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067863359777861698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067857965265330444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8526nl: 家里也用上软路由了😋\n一直放着没拿出来用 https://t.co/NJL11MvoJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067857961666727936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKB3DMb0AAQdQL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067857961666727936"
+          ],
+          "media_source_tweet_id": [
+            "2067857965265330444"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067863359777861698",
+        "created_at": "2026-06-19T06:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067863359777861698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065018601451765760",
+              "start": 3,
+              "username": "8526nl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJL11MvoJr",
+              "end": 56,
+              "expanded_url": "https://x.com/8526nl/status/2067857965265330444/photo/1",
+              "media_key": "3_2067857961666727936",
+              "start": 33,
+              "url": "https://t.co/NJL11MvoJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067863359777861698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067857965265330444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8526nl: 家里也用上软路由了😋\n一直放着没拿出来用 https://t.co/NJL11MvoJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067857961666727936"
+          ]
+        },
+        "author_id": "2065018601451765760",
+        "conversation_id": "2067857965265330444",
+        "created_at": "2026-06-19T06:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067857965265330444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJL11MvoJr",
+              "end": 44,
+              "expanded_url": "https://x.com/8526nl/status/2067857965265330444/photo/1",
+              "media_key": "3_2067857961666727936",
+              "start": 21,
+              "url": "https://t.co/NJL11MvoJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067857965265330444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家里也用上软路由了😋\n一直放着没拿出来用 https://t.co/NJL11MvoJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 820,
+          "like_count": 17451,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の宽体逃生舱｜🏳️‍⚧️🍥MTF｜ISFP-T AuDHD｜大一休学中｜钢专/音游/数码｜家长不管党｜互fo｜大猫猫@NL8526 🥰对象@wngjil835743488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 61,
+                "username": "NL8526"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "wngjil835743488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NL8526",
+                "end": 23,
+                "expanded_url": "https://t.me/NL8526",
+                "start": 0,
+                "url": "https://t.co/p933FeKwJ1"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "location": "江西",
+        "name": "木宁冫京🍋🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 174,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/p933FeKwJ1",
+        "username": "8526nl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1995086043188809867",
+    "created_at": "2025-12-01T04:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995352760028627450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692572228788072448",
+          "start": 0,
+          "username": "coladuli41508"
+        },
+        {
+          "end": 26,
+          "id": "1509391402484080646",
+          "start": 15,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995352760028627450",
+    "in_reply_to_user_id": "1692572228788072448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995180073448862189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coladuli41508 @moran_neko 教我😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995180065651601408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BNsuQasAAw_Nf.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1995086043188809867",
+        "created_at": "2025-12-01T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995352760028627450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692572228788072448",
+              "start": 0,
+              "username": "coladuli41508"
+            },
+            {
+              "end": 26,
+              "id": "1509391402484080646",
+              "start": 15,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995352760028627450",
+        "in_reply_to_user_id": "1692572228788072448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995180073448862189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coladuli41508 @moran_neko 教我😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995180065651601408"
+          ]
+        },
+        "author_id": "1692572228788072448",
+        "conversation_id": "1995086043188809867",
+        "created_at": "2025-11-30T17:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995180073448862189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMnCZs9iOg",
+              "end": 42,
+              "expanded_url": "https://x.com/coladuli41508/status/1995180073448862189/photo/1",
+              "media_key": "3_1995180065651601408",
+              "start": 19,
+              "url": "https://t.co/rMnCZs9iOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995180073448862189",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995086043188809867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 闪动校园纯史 https://t.co/rMnCZs9iOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 52,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 116
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T16:20:48.000Z",
+        "description": "😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+        "id": "1692572228788072448",
+        "location": "天堂",
+        "name": "coladuli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727855728155832320/ICXkztTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 317,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 273
+        },
+        "username": "coladuli41508",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "𝑷𝑳𝑼𝑽𝑰𝑶𝑷𝑯𝑰𝑳𝑬 (n.)嗜雨生物┋挂一个走失的孩子@mokuneko_21┋成分在置顶帖~┋个人博客↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "mokuneko_21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然🐱𝑀𝑜𝑅𝑎𝑛²¹",
+        "pinned_tweet_id": "1974093214048305419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918685355508932608/QeN0qub6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 1615,
+          "like_count": 31616,
+          "listed_count": 6,
+          "media_count": 1480,
+          "tweet_count": 6437
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

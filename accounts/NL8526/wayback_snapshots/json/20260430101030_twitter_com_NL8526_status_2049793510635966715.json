@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2049735532385833467",
+    "created_at": "2026-04-30T10:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049793510635966715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908653241489121286",
+          "start": 0,
+          "username": "chnkixn1034469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049793510635966715",
+    "in_reply_to_user_id": "1908653241489121286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049735532385833467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnkixn1034469 好多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2049735528556457984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIfmm8a8AAPyWH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2049735532385833467",
+        "created_at": "2026-04-30T10:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049793510635966715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908653241489121286",
+              "start": 0,
+              "username": "chnkixn1034469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049793510635966715",
+        "in_reply_to_user_id": "1908653241489121286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049735532385833467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnkixn1034469 好多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049735528556457984"
+          ]
+        },
+        "author_id": "1908653241489121286",
+        "conversation_id": "2049735532385833467",
+        "created_at": "2026-04-30T06:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049735532385833467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fb8uqagK51",
+              "end": 27,
+              "expanded_url": "https://x.com/chnkixn1034469/status/2049735532385833467/photo/1",
+              "media_key": "3_2049735528556457984",
+              "start": 4,
+              "url": "https://t.co/fb8uqagK51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049735532385833467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没招了 https://t.co/fb8uqagK51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🫪音游",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 689,
+          "like_count": 10078,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T22:50:09.000Z",
+        "description": "2009.7.9出产喵\\mtf:26年3月14日\\重抑+重焦（待后续诊断可能是双相）\\已经炸柜了，我不o但是割🩸（已经在戒了喵），目前住院中_4月17日断糖。。。快来和我互fo吧！",
+        "id": "1908653241489121286",
+        "location": "地球🌏",
+        "name": "Dzero🍥凋零",
+        "pinned_tweet_id": "2049487283007734148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049481091707502592/KCGnrj8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 282,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 51
+        },
+        "username": "chnkixn1034469",
+        "verified": false
+      }
+    ]
+  }
+}

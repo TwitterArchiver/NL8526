@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1994222248786530767",
+    "created_at": "2025-11-28T05:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994276938933063890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 28,
+          "id": "1867207378774753280",
+          "start": 16,
+          "username": "Olive718390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994276938933063890",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994257829340041224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @Olive718390 我也七分钟😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1994222248786530767",
+        "created_at": "2025-11-28T05:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994276938933063890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 28,
+              "id": "1867207378774753280",
+              "start": 16,
+              "username": "Olive718390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994276938933063890",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994257829340041224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @Olive718390 我也七分钟😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "1994222248786530767",
+        "created_at": "2025-11-28T04:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994257829340041224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867207378774753280",
+              "start": 0,
+              "username": "Olive718390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994257829340041224",
+        "in_reply_to_user_id": "1867207378774753280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994222248786530767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olive718390 1km7min是不是没救了（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 43,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 107
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1992434189019611427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991776429114290176/1qedHbna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3496,
+          "following_count": 603,
+          "like_count": 30929,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 4706
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T13:58:35.000Z",
+        "description": "这里是记录吃糖身体变化的号 ；06年mtx2024.11.17🍥；183/120；可以叫我小榄；匿名邮箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/olive15743",
+                "end": 23,
+                "expanded_url": "https://ngl.link/olive15743",
+                "start": 0,
+                "url": "https://t.co/7Rh2feRkrZ"
+              }
+            ]
+          }
+        },
+        "id": "1867207378774753280",
+        "name": "Olive",
+        "pinned_tweet_id": "1877546970006319107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 1044,
+          "like_count": 32089,
+          "listed_count": 8,
+          "media_count": 291,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/7Rh2feRkrZ",
+        "username": "Olive718390",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988642062812770304"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1988642109621260341",
+    "created_at": "2025-11-12T16:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988642109621260341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WymYojTERb",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/1988642109621260341/video/1",
+          "media_key": "7_1988642062812770304",
+          "start": 18,
+          "url": "https://t.co/WymYojTERb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988642109621260341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "离经叛道总会还的\n做的梦也总要醒的 https://t.co/WymYojTERb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35271,
+        "height": 1086,
+        "media_key": "7_1988642062812770304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988642062812770304/pu/img/WJxmLoaOrV2-8uMs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988642062812770304/pu/vid/avc1/320x482/U1egbXpbu3lLGasn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988642062812770304/pu/vid/avc1/480x724/kYN29q82nuCl3a-9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988642062812770304/pu/vid/avc1/720x1086/K7n9zLMlqhNjHfXC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988642062812770304/pu/pl/eY-97E3Ty35JII77.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988642062812770304"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1988642109621260341",
+        "created_at": "2025-11-12T16:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988642109621260341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WymYojTERb",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/1988642109621260341/video/1",
+              "media_key": "7_1988642062812770304",
+              "start": 18,
+              "url": "https://t.co/WymYojTERb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988642109621260341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离经叛道总会还的\n做的梦也总要醒的 https://t.co/WymYojTERb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 | 无任何医疗诊断 大学在读 家境困难 贷款上学中 | 不od 不改刀 不抽烟 不喝酒 | 🥰音游 性格友好 Sub/M属性 洁癖 强迫症 但是超焦虑缺爱自卑社恐内耗无法和解自己🐱 害怕炸柜 | 谢谢关注 负面内容致歉 互fo请私信摸摸",
+        "id": "1546431985086009344",
+        "location": "洪城",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 26,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 62
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

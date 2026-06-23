@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983735190393647108"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1983735196848624091",
+    "created_at": "2025-10-30T03:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983735196848624091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bNb8WXfw7E",
+          "end": 83,
+          "expanded_url": "https://x.com/NL8526/status/1983735196848624091/photo/1",
+          "media_key": "3_1983735190393647108",
+          "start": 60,
+          "url": "https://t.co/bNb8WXfw7E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983735196848624091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乐理课叫我们用西贝柳斯打谱 下次交作业 但是没有教怎么用👍 下了一个手机版感觉真难用😡 还是musescore适合我✋ https://t.co/bNb8WXfw7E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983735190393647108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ekpTfa8AQKa-q.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983735190393647108"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1983735196848624091",
+        "created_at": "2025-10-30T03:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983735196848624091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNb8WXfw7E",
+              "end": 83,
+              "expanded_url": "https://x.com/NL8526/status/1983735196848624091/photo/1",
+              "media_key": "3_1983735190393647108",
+              "start": 60,
+              "url": "https://t.co/bNb8WXfw7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983735196848624091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乐理课叫我们用西贝柳斯打谱 下次交作业 但是没有教怎么用👍 下了一个手机版感觉真难用😡 还是musescore适合我✋ https://t.co/bNb8WXfw7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) | 🥰音游 性格好但是超级缺爱自卑社恐悲观内耗喵🐱 害怕炸柜已读不回 | 家境困难",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

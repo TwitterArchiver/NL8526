@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2064679406547968054",
+    "created_at": "2026-06-10T13:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064707219707584597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064707219707584597",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064679406547968054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 烧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064679391293284352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc2950bIAAVFSP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2064679406547968054",
+        "created_at": "2026-06-10T13:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064707219707584597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064707219707584597",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064679406547968054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 烧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064679391293284352"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "2064679406547968054",
+        "created_at": "2026-06-10T12:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064679406547968054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlFPqxx29d",
+              "end": 29,
+              "expanded_url": "https://x.com/K66cheng/status/2064679406547968054/photo/1",
+              "media_key": "3_2064679391293284352",
+              "start": 6,
+              "url": "https://t.co/DlFPqxx29d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064679406547968054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大烧杯。。 https://t.co/DlFPqxx29d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 736,
+          "like_count": 15480,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\n含糖友跨翻车顺♂｜\n厨娘女仆 | \nINTJ-T｜\n瑶瑶@GK98815227｜\n小妹妹@baizhimengyao｜\n皮肤饥渴症终末期患者快和我贴贴｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "GK98815227"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6044,
+          "following_count": 3551,
+          "like_count": 24397,
+          "listed_count": 26,
+          "media_count": 1297,
+          "tweet_count": 17421
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

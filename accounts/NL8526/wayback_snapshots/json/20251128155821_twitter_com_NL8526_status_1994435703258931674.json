@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1994357791549468871",
+    "created_at": "2025-11-28T15:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994435703258931674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760877178047320064",
+          "start": 0,
+          "username": "ki_lit4717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994435703258931674",
+    "in_reply_to_user_id": "1760877178047320064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994357791549468871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_lit4717 我也要泡澡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_1994357782972375040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61h1kkaoAAqUvX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1994357791549468871",
+        "created_at": "2025-11-28T15:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994435703258931674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760877178047320064",
+              "start": 0,
+              "username": "ki_lit4717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994435703258931674",
+        "in_reply_to_user_id": "1760877178047320064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994357791549468871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_lit4717 我也要泡澡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994357782972375040"
+          ]
+        },
+        "author_id": "1760877178047320064",
+        "conversation_id": "1994357791549468871",
+        "created_at": "2025-11-28T10:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994357791549468871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIPbmZfH9A",
+              "end": 49,
+              "expanded_url": "https://x.com/ki_lit4717/status/1994357791549468871/photo/1",
+              "media_key": "3_1994357782972375040",
+              "start": 26,
+              "url": "https://t.co/zIPbmZfH9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994357791549468871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经洗完澡了所以快来找我丸～\n泡澡好舒服 #mtf https://t.co/zIPbmZfH9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 43,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 108
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:00:27.000Z",
+        "description": "努力出逃的籠中鳥｜07｜168/50｜重焦重抑绝赞治疗中｜深深深深柜中",
+        "id": "1760877178047320064",
+        "location": "Tokyo",
+        "name": "結綠 🏳️‍⚧️",
+        "pinned_tweet_id": "1993661173808693490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992818227114860544/h1JWiFXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 74,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 23
+        },
+        "username": "ki_lit4717",
+        "verified": false
+      }
+    ]
+  }
+}

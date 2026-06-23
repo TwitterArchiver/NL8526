@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2063754778304467036",
+    "created_at": "2026-06-07T22:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063754778304467036"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "自杀干预"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Xuyuansha9889/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Xuyuansha9889/status/2063750012081975348",
+          "start": 6,
+          "url": "https://t.co/Hi0WCvJFVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063754778304467036",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063750012081975348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#自杀干预 https://t.co/Hi0WCvJFVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063750000384086016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPpsO4bEAAma2S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063750000438644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPpsPFbkAADc9H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063750000379932672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPpsO3bsAAr6PG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063750000379842560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPpsO3aUAAegFO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2063754778304467036",
+        "created_at": "2026-06-07T22:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063754778304467036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Xuyuansha9889/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Xuyuansha9889/status/2063750012081975348",
+              "start": 6,
+              "url": "https://t.co/Hi0WCvJFVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063754778304467036",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063750012081975348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#自杀干预 https://t.co/Hi0WCvJFVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063750000384086016",
+            "3_2063750000438644736",
+            "3_2063750000379932672",
+            "3_2063750000379842560"
+          ]
+        },
+        "author_id": "1581854903709802496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063750012081975348",
+        "created_at": "2026-06-07T22:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063750012081975348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fwmlue1nrv",
+              "end": 73,
+              "expanded_url": "https://x.com/Xuyuansha9889/status/2063750012081975348/photo/1",
+              "media_key": "3_2063750000384086016",
+              "start": 50,
+              "url": "https://t.co/Fwmlue1nrv"
+            },
+            {
+              "display_url": "pic.x.com/Fwmlue1nrv",
+              "end": 73,
+              "expanded_url": "https://x.com/Xuyuansha9889/status/2063750012081975348/photo/1",
+              "media_key": "3_2063750000438644736",
+              "start": 50,
+              "url": "https://t.co/Fwmlue1nrv"
+            },
+            {
+              "display_url": "pic.x.com/Fwmlue1nrv",
+              "end": 73,
+              "expanded_url": "https://x.com/Xuyuansha9889/status/2063750012081975348/photo/1",
+              "media_key": "3_2063750000379932672",
+              "start": 50,
+              "url": "https://t.co/Fwmlue1nrv"
+            },
+            {
+              "display_url": "pic.x.com/Fwmlue1nrv",
+              "end": 73,
+              "expanded_url": "https://x.com/Xuyuansha9889/status/2063750012081975348/photo/1",
+              "media_key": "3_2063750000379842560",
+              "start": 50,
+              "url": "https://t.co/Fwmlue1nrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063750012081975348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这可能是最后一条咯。浴缸＋NaN02+氯硝.。祝我下辈子是个是个可爱女孩。晚安，再会，永远爱你们。 https://t.co/Fwmlue1nrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 726,
+          "like_count": 14970,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T03:49:42.000Z",
+        "description": "極度社恐，重度社交障碍| 重抑双相 | 持证MtF🍥 | 165/60 | istp |负能药罐子 | m |不键政|活在自己的世界里，可以叫我小酥~",
+        "id": "1581854903709802496",
+        "name": "噬語🍥 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 48,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 143
+        },
+        "username": "Xuyuansha9889",
+        "verified": false
+      }
+    ]
+  }
+}

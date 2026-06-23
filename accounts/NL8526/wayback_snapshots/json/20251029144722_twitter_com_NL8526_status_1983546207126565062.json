@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1983540721387978944",
+    "created_at": "2025-10-29T14:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983546207126565062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972898838219513856",
+          "start": 0,
+          "username": "Luoji3500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983546207126565062",
+    "in_reply_to_user_id": "1972898838219513856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983540721387978944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoji3500 羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1983540717588013057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bzxf1bYAEuDYF.jpg",
+        "width": 829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1983540721387978944",
+        "created_at": "2025-10-29T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983546207126565062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972898838219513856",
+              "start": 0,
+              "username": "Luoji3500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983546207126565062",
+        "in_reply_to_user_id": "1972898838219513856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983540721387978944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoji3500 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983540717588013057"
+          ]
+        },
+        "author_id": "1972898838219513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983540721387978944",
+        "created_at": "2025-10-29T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983540721387978944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "药娘"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "女同"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0v5v9VZyT",
+              "end": 172,
+              "expanded_url": "https://x.com/Luoji3500/status/1983540721387978944/photo/1",
+              "media_key": "3_1983540717588013057",
+              "start": 149,
+              "url": "https://t.co/U0v5v9VZyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983540721387978944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我的女前桌问我是不是跨😨\n 她是我在学校里唯一的朋友，我直接向她出柜了😆\n我问她是怎么看出来的🤔\n她说：一开始就感觉我像一个小男梁，后来发现我胸口鼓鼓的，就已经怀疑我是不是mtf了，再后来看到我那本关于跨的书，觉得我就是跨\n她也向我出柜了，她想玩4i😨想撅小楚楠屁股😨\n#药娘 #女同 #4i https://t.co/U0v5v9VZyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) | 🥰音游 性格好但是超级缺爱自卑社恐悲观内耗喵🐱 害怕炸柜已读不回 | 家境困难",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 18,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "08年的MTF🏳️‍⚧️ | 无证含糖🍥| HRT2025.8.14 |深柜中ing | 喜欢动漫、音乐 | \n主推《终末的女武神》洛基、冲田总司",
+        "id": "1972898838219513856",
+        "name": "LUOJI_洛基 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974288244008525824/DA1y2seh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 250,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 27
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

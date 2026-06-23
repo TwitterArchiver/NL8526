@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064935767089336320"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2064935769240981840",
+    "created_at": "2026-06-11T05:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064935769240981840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RipgfxKsGO",
+          "end": 71,
+          "expanded_url": "https://x.com/NL8526/status/2064935769240981840/photo/1",
+          "media_key": "3_2064935767089336320",
+          "start": 48,
+          "url": "https://t.co/RipgfxKsGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064935769240981840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国内学校不让男生留长发 特别是寄宿制学校 是不是怕学生性压抑太严重 变成南梁然后被舍友玩弄？🤓 https://t.co/RipgfxKsGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2064935767089336320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKggI8Fb0AAgbTG.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064935767089336320"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2064935769240981840",
+        "created_at": "2026-06-11T05:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064935769240981840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RipgfxKsGO",
+              "end": 71,
+              "expanded_url": "https://x.com/NL8526/status/2064935769240981840/photo/1",
+              "media_key": "3_2064935767089336320",
+              "start": 48,
+              "url": "https://t.co/RipgfxKsGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064935769240981840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内学校不让男生留长发 特别是寄宿制学校 是不是怕学生性压抑太严重 变成南梁然后被舍友玩弄？🤓 https://t.co/RipgfxKsGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 742,
+          "like_count": 15678,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

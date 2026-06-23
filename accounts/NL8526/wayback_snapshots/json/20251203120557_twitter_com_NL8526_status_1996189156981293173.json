@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996189147766345728"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1996189156981293173",
+    "created_at": "2025-12-03T12:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996189156981293173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fyj8xoEUNl",
+          "end": 123,
+          "expanded_url": "https://x.com/NL8526/status/1996189156981293173/photo/1",
+          "media_key": "3_1996189147766345728",
+          "start": 100,
+          "url": "https://t.co/fyj8xoEUNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996189156981293173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不忍心回想往事种种 不敢在寝室里呜呜叫 所以跑出来了 怕自己哭累了饿了带了一个橘子 我人还怪好的 从来没掉过这么多小珍珠……为什么好难受 就算是触发[好结局:我死了]也不能在学校里 给大家添麻烦…… https://t.co/fyj8xoEUNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996189147766345728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PjdCEaUAAeh3i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996189147766345728"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1996189156981293173",
+        "created_at": "2025-12-03T12:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996189156981293173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyj8xoEUNl",
+              "end": 123,
+              "expanded_url": "https://x.com/NL8526/status/1996189156981293173/photo/1",
+              "media_key": "3_1996189147766345728",
+              "start": 100,
+              "url": "https://t.co/fyj8xoEUNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996189156981293173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不忍心回想往事种种 不敢在寝室里呜呜叫 所以跑出来了 怕自己哭累了饿了带了一个橘子 我人还怪好的 从来没掉过这么多小珍珠……为什么好难受 就算是触发[好结局:我死了]也不能在学校里 给大家添麻烦…… https://t.co/fyj8xoEUNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 60,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 123
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

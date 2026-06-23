@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2064352079184056362",
+    "created_at": "2026-06-09T14:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064352079184056362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2064273544780079295",
+          "start": 94,
+          "url": "https://t.co/A14jdBsRIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064352079184056362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "给所有高考完的准大学生们一个忠告：\n⚠️退勤！一定不要玩舞萌！⚠️\n尤其是明天即将更新的新版本\n\n你可以退勤去旅游、品尝美食，这些挺有生活的，去爬山会更好，但是去商场逛的千万不要去机厅。\n\n不管你rating多么高，你里多么想理ra或者白系，宁可这四年花天价打无数pc，也不停下来练那四年舞萌dx，把绝赞撰在掌中。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064273544780079295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给所有高考完的准大学生们一个忠告：\n⚠️退勤！一定不要玩舞萌！⚠️\n尤其是明天即将更新的新版本\n\n你可以退勤去旅游、品尝美食，这些挺有生活的，去爬山会更好，但是去商场逛的千万不要去机厅。 https://t.co/A14jdBsRIE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2064352079184056362",
+        "created_at": "2026-06-09T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064352079184056362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2064273544780079295",
+              "start": 94,
+              "url": "https://t.co/A14jdBsRIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064352079184056362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "给所有高考完的准大学生们一个忠告：\n⚠️退勤！一定不要玩舞萌！⚠️\n尤其是明天即将更新的新版本\n\n你可以退勤去旅游、品尝美食，这些挺有生活的，去爬山会更好，但是去商场逛的千万不要去机厅。\n\n不管你rating多么高，你里多么想理ra或者白系，宁可这四年花天价打无数pc，也不停下来练那四年舞萌dx，把绝赞撰在掌中。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064273544780079295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给所有高考完的准大学生们一个忠告：\n⚠️退勤！一定不要玩舞萌！⚠️\n尤其是明天即将更新的新版本\n\n你可以退勤去旅游、品尝美食，这些挺有生活的，去爬山会更好，但是去商场逛的千万不要去机厅。 https://t.co/A14jdBsRIE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064273544780079295",
+        "created_at": "2026-06-09T09:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064273544780079295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/zhwevea/status/2064187710022234249",
+              "start": 146,
+              "url": "https://t.co/iJZbcWnoug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064273544780079295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1285,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064187710022234249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给所有准备高考完的准大学生们一个忠告：\n⚠️吃饭！一定要吃饭⚠️\n尤其是午饭、晚饭\n\n你可以直接翘课去吃食堂、拼好饭，这些挺有前景的，麦当劳会更好，但是从深山中走出来的千万不要饿肚子。\n\n不管你成绩多么好，你家里多么想让你出人头地，宁可这四年吃出天价账单，也不饿那四年肚子，把饭团撰在掌中。 https://t.co/iJZbcWnoug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo私 ✋抽象致歉 b我必回 中立为大不站队不参与任何网络纠纷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 727,
+          "like_count": 15266,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 235,
+          "like_count": 9096,
+          "listed_count": 9,
+          "media_count": 205,
+          "tweet_count": 2218
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

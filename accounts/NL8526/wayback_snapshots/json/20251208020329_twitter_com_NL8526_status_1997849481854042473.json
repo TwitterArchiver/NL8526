@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997849476082651136"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1997849481854042473",
+    "created_at": "2025-12-08T02:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T03:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997849481854042473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lmo22oyALc",
+          "end": 82,
+          "expanded_url": "https://x.com/NL8526/status/1997849481854042473/photo/1",
+          "media_key": "3_1997849476082651136",
+          "start": 59,
+          "url": "https://t.co/Lmo22oyALc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997849481854042473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又被戳到啦 gd发作\n换教室时前面几个生理女聊天：\n“我一个月两千”（指生活费\n“我也一个月两千”\n“我一个月五千” https://t.co/Lmo22oyALc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1997849476082651136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nJg3CbUAAMPbR.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997849476082651136"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1997849481854042473",
+        "created_at": "2025-12-08T02:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997849481854042473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lmo22oyALc",
+              "end": 82,
+              "expanded_url": "https://x.com/NL8526/status/1997849481854042473/photo/1",
+              "media_key": "3_1997849476082651136",
+              "start": 59,
+              "url": "https://t.co/Lmo22oyALc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997849481854042473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又被戳到啦 gd发作\n换教室时前面几个生理女聊天：\n“我一个月两千”（指生活费\n“我也一个月两千”\n“我一个月五千” https://t.co/Lmo22oyALc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟 小酌酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 67,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 142
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

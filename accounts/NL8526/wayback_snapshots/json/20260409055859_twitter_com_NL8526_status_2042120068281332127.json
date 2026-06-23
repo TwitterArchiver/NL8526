@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2042090355173269701",
+    "created_at": "2026-04-09T05:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042120068281332127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596427843960942592",
+          "start": 0,
+          "username": "bigtittsQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042120068281332127",
+    "in_reply_to_user_id": "1596427843960942592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042090355173269701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigtittsQX 扎的什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2042090352665096192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb2WzXa8AAY-KH.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2042090355173269701",
+        "created_at": "2026-04-09T05:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042120068281332127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596427843960942592",
+              "start": 0,
+              "username": "bigtittsQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042120068281332127",
+        "in_reply_to_user_id": "1596427843960942592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042090355173269701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigtittsQX 扎的什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042090352665096192"
+          ]
+        },
+        "author_id": "1596427843960942592",
+        "conversation_id": "2042090355173269701",
+        "created_at": "2026-04-09T04:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042090355173269701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 82,
+              "tag": "跨"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "激素"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "mtf"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uhf0dSeQGR",
+              "end": 121,
+              "expanded_url": "https://x.com/bigtittsQX/status/2042090355173269701/photo/1",
+              "media_key": "3_2042090352665096192",
+              "start": 98,
+              "url": "https://t.co/Uhf0dSeQGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042090355173269701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个雌激素水平有点太低了 这是上一次扎针后35天测的 按照药物代谢动力学来估算的话 我这边应该不止这么点才对 要么是针剂剂量本身有缩水 要么就是我的代谢吸收有问题 #跨 #激素 #mtf #男娘 https://t.co/Uhf0dSeQGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 531,
+          "like_count": 8117,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 284
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:25.000Z",
+        "description": "跨 MTF大奶求X 全国可✈️ 许愿明年手术SRS😭",
+        "id": "1596427843960942592",
+        "name": "🌸丸雾yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042078285665071104/67eeb-We_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 37,
+          "like_count": 8394,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 945
+        },
+        "username": "bigtittsQX",
+        "verified": false
+      }
+    ]
+  }
+}

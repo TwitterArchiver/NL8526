@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013469363311906816"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2013469365711315368",
+    "created_at": "2026-01-20T04:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013469365711315368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SKkmVKt9sg",
+          "end": 60,
+          "expanded_url": "https://x.com/NL8526/status/2013469365711315368/photo/1",
+          "media_key": "3_2013469363311906816",
+          "start": 37,
+          "url": "https://t.co/SKkmVKt9sg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013469365711315368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成都四院副主任医师号开证失败 医生好敷衍不想管\n果然还是我不够资格吗…… https://t.co/SKkmVKt9sg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2013469363311906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FHt9ZWkAA-dkx.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013469363311906816"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2013469365711315368",
+        "created_at": "2026-01-20T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013469365711315368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKkmVKt9sg",
+              "end": 60,
+              "expanded_url": "https://x.com/NL8526/status/2013469365711315368/photo/1",
+              "media_key": "3_2013469363311906816",
+              "start": 37,
+              "url": "https://t.co/SKkmVKt9sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013469365711315368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成都四院副主任医师号开证失败 医生好敷衍不想管\n果然还是我不够资格吗…… https://t.co/SKkmVKt9sg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 深柜 低气压ing 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 222,
+          "like_count": 2253,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 126
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

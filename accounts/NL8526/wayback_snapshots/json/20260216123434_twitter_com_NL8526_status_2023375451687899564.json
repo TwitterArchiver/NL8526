@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2023375451687899564",
+    "created_at": "2026-02-16T12:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023375451687899564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023375451687899564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年又是机器人春晚\ndeepseek什么时候发新版本\n今年有哪吒3吗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2023375451687899564",
+        "created_at": "2026-02-16T12:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023375451687899564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023375451687899564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年又是机器人春晚\ndeepseek什么时候发新版本\n今年有哪吒3吗🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF已成年 🍥无证含糖 🎹音游 💥炸柜/家长不管党 🍀ISFP-T📍坐标江西 📚本科在读 💰贷款上学 🌹积极回fo",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019644892058939609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 319,
+          "like_count": 4225,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 176
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

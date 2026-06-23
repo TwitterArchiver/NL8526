@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2054379376771580404",
+    "created_at": "2026-05-13T01:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054379376771580404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1379609664938143744",
+          "start": 3,
+          "username": "JkyDex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054379376771580404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054340474266382788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JkyDex: 最近这张图片在推特及一些QQ群中广泛传播, 引起了一些担心. 它看起来像是某个平台的贴子截图, 我查了一下未找到原贴. \n在2026年5月15日确实有新规实行(中华人民共和国药品管理法实施条例), 具体内容可轻易在网上查到. 关于新规,… https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1609,
+        "media_key": "3_2054339428966084608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ604eaMAAStzX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2054379376771580404",
+        "created_at": "2026-05-13T01:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054379376771580404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1379609664938143744",
+              "start": 3,
+              "username": "JkyDex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054379376771580404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054340474266382788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JkyDex: 最近这张图片在推特及一些QQ群中广泛传播, 引起了一些担心. 它看起来像是某个平台的贴子截图, 我查了一下未找到原贴. \n在2026年5月15日确实有新规实行(中华人民共和国药品管理法实施条例), 具体内容可轻易在网上查到. 关于新规,… https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054339428966084608"
+          ]
+        },
+        "author_id": "1379609664938143744",
+        "conversation_id": "2054340474266382788",
+        "created_at": "2026-05-12T23:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054340474266382788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jdksmq91wU",
+              "end": 142,
+              "expanded_url": "https://x.com/JkyDex/status/2054340474266382788/photo/1",
+              "media_key": "3_2054339428966084608",
+              "start": 119,
+              "url": "https://t.co/Jdksmq91wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054340474266382788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近这张图片在推特及一些QQ群中广泛传播, 引起了一些担心. 它看起来像是某个平台的贴子截图, 我查了一下未找到原贴. \n在2026年5月15日确实有新规实行(中华人民共和国药品管理法实施条例), 具体内容可轻易在网上查到. 关于新规, 朋友们关注较多的事情可能是此新规对于女性倾向跨性别者获取HRT药物会造成什么影响, 我来尝试解读一下:\n\n1. 新规解读\n\n原文中有这样两条值得注意的规定:\n\n> 第四十六条　疫苗、血液制品、麻醉药品、精神药品、医疗用毒性药品、放射性药品、药品类易制毒化学品等国家实行特殊管理的药品不得通过网络销售；其他用药风险较高的药品，不得通过网络零售。具体目录由国务院药品监督管理部门制定。\n> 第五十一条　医师在网络诊疗活动中不得开具本条例第四十六条规定的药品的处方。\n\n按照2022年发布的《药品网络禁售清单》, HRT常用的雌二醇/环丙孕酮属于\"其他禁止通过网络零售的药品\". 很可能会被认为是\"第四十六条规定的药品\", 也就是说, 新规实行之后不能像从前那样容易地通过各种互联网医院开到处方了.\n\n2022年《药品网络禁售清单》实施后, 短时间内确实出现了难以购买HRT药物的情况. 后来渐渐地有许多网络平台以\"线上开方, 名义上线下预约留药实则可邮寄\"的形式继续出售补佳乐/色普龙等药品. 2026年5月15日的新规实施后, 这种线上开方的办法可能就不行了. 但新规对于\"上传处方, 名义线下预约留药实则可邮寄\"的网络出售形式并没有进行阻碍.\n\n新规实施后在初期可能出现\"买药难\"的情况: 线上平台下架相关药品或加强开方审核. 但根据经验, 一段时间之后各个网络平台很可能会像应对《药品网络禁售清单》一样找到对策继续卖药. 对于线下药店, 许多线下药店具有线上开方系统, 买处方药时可以现场开方. 新规实施可能会对药店现场开方产生影响, 但我寻思只会严一阵子, 时间久了又会放松. 对于黑市, 我认为没有直接影响.\n\n2. 应对策略\n\n离新规实施还有几天, 大家如果不放心的话可以多囤一些补佳乐之类保质期很长的药品.\n\n在\"正规\"途径无法满足需求的情况下, 好友之间互助借用处方或帮助购买HRT药品也是一个办法, 必要时还可以使用图片编辑软件\"制作\"处方. 再说了, 咱们还有黑市呢. \n\n上有政策, 下有对策. 这个新规短期内冲击可能较大, 但长期看渠道极可能渐渐恢复, 我认为影响远比2022年《药品网络禁售清单》要小, 不必过度担心."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近这张图片在推特及一些QQ群中广泛传播, 引起了一些担心. 它看起来像是某个平台的贴子截图, 我查了一下未找到原贴. \n在2026年5月15日确实有新规实行(中华人民共和国药品管理法实施条例), 具体内容可轻易在网上查到. 关于新规, https://t.co/Jdksmq91wU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/讨好所有人/为什么我无人在意为什么你们都讨厌我 ❤️扩列互关 和我做朋友好不好? 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 814,
+          "like_count": 11500,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T01:39:59.000Z",
+        "description": "非二元 | 23岁 | 含糖🍥 | 行星级三阶 \n贴子成分: 日常/经验/段子/梗图/吵架\n永不投降, 永不放弃. 我们不只是生存, 我们要胜利!\n\n(不常在线, 若想问我问题, 可回帖或私信)",
+        "id": "1379609664938143744",
+        "location": "银河系-猎户座旋臂",
+        "name": "银河仙子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841026277396135936/MV3p-LDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 69,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 420
+        },
+        "username": "JkyDex",
+        "verified": true
+      }
+    ]
+  }
+}

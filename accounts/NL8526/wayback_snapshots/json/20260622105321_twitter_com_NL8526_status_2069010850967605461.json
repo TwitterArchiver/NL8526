@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2068962214875463777",
+    "created_at": "2026-06-22T10:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069010850967605461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1968871156108480512",
+          "start": 0,
+          "username": "WEEXAILabs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069010850967605461",
+    "in_reply_to_user_id": "1968871156108480512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068962214875463777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WEEXAILabs 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2068961671784378368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZtrbybMAAbscL.png",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068962214875463777",
+        "created_at": "2026-06-22T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069010850967605461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1968871156108480512",
+              "start": 0,
+              "username": "WEEXAILabs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069010850967605461",
+        "in_reply_to_user_id": "1968871156108480512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068962214875463777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WEEXAILabs 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068961671784378368"
+          ]
+        },
+        "author_id": "1968871156108480512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068962214875463777",
+        "created_at": "2026-06-22T07:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068962214875463777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzR8iU3fbR",
+              "end": 53,
+              "expanded_url": "https://x.com/WEEXAILabs/status/2068962214875463777/photo/1",
+              "media_key": "3_2068961671784378368",
+              "start": 30,
+              "url": "https://t.co/XzR8iU3fbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068962214875463777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7222,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 195,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "领导说让我关注几个蓝V🤔\n\n快，我还没关注谁，评论区报名👇 https://t.co/XzR8iU3fbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3145,
+          "following_count": 854,
+          "like_count": 17892,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-19T02:54:18.000Z",
+        "description": "@WEEX_Official 官方 AI x Crypto 实验室｜#WEEXAI黑客松：让 AI 接管交易，让你接管未来",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 34,
+                "tag": "WEEXAI黑客松"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "WEEX_Official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weexailabs.xyz",
+                "end": 23,
+                "expanded_url": "https://weexailabs.xyz/",
+                "start": 0,
+                "url": "https://t.co/W3omcmRnOw"
+              }
+            ]
+          }
+        },
+        "id": "1968871156108480512",
+        "location": "Dubai, United Arab Emirates",
+        "name": "WEEX AI Labs",
+        "pinned_tweet_id": "2061291420082987073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030948878552641536/hG90WZY2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 1948,
+          "like_count": 13433,
+          "listed_count": 16,
+          "media_count": 221,
+          "tweet_count": 4819
+        },
+        "url": "https://t.co/W3omcmRnOw",
+        "username": "WEEXAILabs",
+        "verified": true
+      }
+    ]
+  }
+}

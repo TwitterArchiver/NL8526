@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2065387878939853159",
+    "created_at": "2026-06-12T12:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065409714721358134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984321775333937152",
+          "start": 0,
+          "username": "Epheiamoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065409714721358134",
+    "in_reply_to_user_id": "1984321775333937152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065407798868074576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epheiamoe 他爱买就买 反正浪费的是tyw的钱😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065387878939853159",
+        "created_at": "2026-06-12T12:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065409714721358134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065409714721358134",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065407798868074576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe 他爱买就买 反正浪费的是tyw的钱😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2065387878939853159",
+        "created_at": "2026-06-12T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065407798868074576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065407798868074576",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065387878939853159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 神人理解能力\n我不是在反对你搞推特AI吗，怎么成了我推荐你用chatGPT Pro 了\n\n没关系喵，你继续炒作，花更多钱炒作喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 751,
+          "like_count": 16096,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 16,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2058178567922696405",
+    "created_at": "2026-05-23T13:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058180554336743902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040614963060813824",
+          "start": 0,
+          "username": "YZYYG369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058180554336743902",
+    "in_reply_to_user_id": "2040614963060813824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178567922696405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YZYYG369 雌爆了会严重发情 浑身瘫软 到处渴求（🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2058178567922696405",
+        "created_at": "2026-05-23T13:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058180554336743902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040614963060813824",
+              "start": 0,
+              "username": "YZYYG369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058180554336743902",
+        "in_reply_to_user_id": "2040614963060813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178567922696405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YZYYG369 雌爆了会严重发情 浑身瘫软 到处渴求（🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040614963060813824",
+        "conversation_id": "2058178567922696405",
+        "created_at": "2026-05-23T13:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058178567922696405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058178567922696405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说打完针后过段时间，浑身发热一直冒汗，这种情况是激素失衡还是雌暴。有时会有，有时又没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管党/休学中/不接线下 🩷扩列互fo 友好MAX!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 888,
+          "like_count": 12583,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T02:18:37.000Z",
+        "description": "嗯。。。一只在上海的可爱小药娘mtf。\nbrat sub｜精神状况良好，不自🔪，不od，\n时不时用粑粑相机记录日常（同类可贴贴）（有人找我打粥吗）",
+        "id": "2040614963060813824",
+        "location": "零号大坝",
+        "name": "一只嘤嘤怪",
+        "pinned_tweet_id": "2055870696186921109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040617076654804992/4qyrpsEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 11,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 192
+        },
+        "username": "YZYYG369",
+        "verified": true
+      }
+    ]
+  }
+}

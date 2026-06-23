@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2053279521466720679",
+    "created_at": "2026-05-10T01:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053279521466720679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iamasoothsayer…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/iamasoothsayer/status/1535494638391664641",
+          "start": 26,
+          "url": "https://t.co/PJgpqYGSmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053279521466720679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1535494638391664641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2023: 新冠结束\n2026: 汉坦病毒\n😭😭😭 https://t.co/PJgpqYGSmz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2053279521466720679",
+        "created_at": "2026-05-10T01:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053279521466720679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamasoothsayer…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/iamasoothsayer/status/1535494638391664641",
+              "start": 26,
+              "url": "https://t.co/PJgpqYGSmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053279521466720679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1535494638391664641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2023: 新冠结束\n2026: 汉坦病毒\n😭😭😭 https://t.co/PJgpqYGSmz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535276673490632704",
+        "conversation_id": "1535494638391664641",
+        "created_at": "2022-06-11T05:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2022-06-11T06:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1535494638391664641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1535494638391664641",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110983,
+          "impression_count": 0,
+          "like_count": 401364,
+          "quote_count": 56939,
+          "reply_count": 29333,
+          "retweet_count": 90179
+        },
+        "reply_settings": "everyone",
+        "text": "2023: Corona ended\n2026: Hantavirus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/讨好所有人/为什么我无人在意为什么你们都讨厌我 ❤️扩列互关 和我做朋友好不好? 🧂做完剩下想做的事情 就离开这世界 (快了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 798,
+          "like_count": 11244,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T15:04:28.000Z",
+        "description": "reads the future",
+        "id": "1535276673490632704",
+        "name": "soothsayer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535276969163919360/dlMDBzty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69783,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 63,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "iamasoothsayer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1996412743046574296",
+    "created_at": "2025-12-04T03:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T04:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996422606984290789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814598522895020033",
+          "start": 0,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996422606984290789",
+    "in_reply_to_user_id": "1814598522895020033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996412743046574296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoTrans112233 恭喜呐.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1996412736495079424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Suzm_a0AAb5of.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1996412743046574296",
+        "created_at": "2025-12-04T03:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996422606984290789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996422606984290789",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996412743046574296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 恭喜呐.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996412736495079424"
+          ]
+        },
+        "author_id": "1814598522895020033",
+        "conversation_id": "1996412743046574296",
+        "created_at": "2025-12-04T02:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996412743046574296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nar0ILM6lB",
+              "end": 33,
+              "expanded_url": "https://x.com/LeoTrans112233/status/1996412743046574296/photo/1",
+              "media_key": "3_1996412736495079424",
+              "start": 10,
+              "url": "https://t.co/nar0ILM6lB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996412743046574296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快恭喜窝\n诶嘿嘿… https://t.co/nar0ILM6lB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 63,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 129
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "简介在置顶喵|无证含糖|HRT起始25.5.5🍥| 08.6.13|高三牲|穷|省吃俭用买糖|求施舍| 是优等生喔|目标是先上大学…| 已经炸柜|被家长冷暴力|粘人|喜欢和同类贴贴哇| 不设门槛|同类可直接私我要qq号喔| 非同类要加咱联系方式请先资助一顿饭……",
+        "id": "1814598522895020033",
+        "location": "距离你520m",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1986253194083901903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 397,
+          "like_count": 1149,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 634
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

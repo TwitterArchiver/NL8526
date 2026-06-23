@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062133065330413568"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2062133067343675849",
+    "created_at": "2026-06-03T11:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062133067343675849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGqHoVkT47",
+          "end": 133,
+          "expanded_url": "https://x.com/NL8526/status/2062133067343675849/photo/1",
+          "media_key": "3_2062133065330413568",
+          "start": 110,
+          "url": "https://t.co/zGqHoVkT47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062133067343675849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们把这个情境转换下性别就会很恐怖😈\n男大宿舍里 只要有一个抑郁小楠娘 情绪一不对 就会有一群大汉把小楠娘按住进行起飞 快射了就停 直到被录的受不了了开口求饶才允许起飞 然后就会爽的抽抽好一阵 后来慢慢就没抑郁倾向了。 https://t.co/zGqHoVkT47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2062133065330413568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4rGOabUAAjJUK.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062133065330413568"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062133067343675849",
+        "created_at": "2026-06-03T11:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062133067343675849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGqHoVkT47",
+              "end": 133,
+              "expanded_url": "https://x.com/NL8526/status/2062133067343675849/photo/1",
+              "media_key": "3_2062133065330413568",
+              "start": 110,
+              "url": "https://t.co/zGqHoVkT47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062133067343675849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们把这个情境转换下性别就会很恐怖😈\n男大宿舍里 只要有一个抑郁小楠娘 情绪一不对 就会有一群大汉把小楠娘按住进行起飞 快射了就停 直到被录的受不了了开口求饶才允许起飞 然后就会爽的抽抽好一阵 后来慢慢就没抑郁倾向了。 https://t.co/zGqHoVkT47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 701,
+          "like_count": 14200,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1980323459013243148",
+    "created_at": "2025-11-30T18:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995194409974120891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516428117161689091",
+          "start": 0,
+          "username": "HelpMiaoDestiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995194409974120891",
+    "in_reply_to_user_id": "1516428117161689091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980323459013243148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelpMiaoDestiny 晚 安...😔😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1980323459013243148",
+        "created_at": "2025-11-30T18:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995194409974120891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516428117161689091",
+              "start": 0,
+              "username": "HelpMiaoDestiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995194409974120891",
+        "in_reply_to_user_id": "1516428117161689091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980323459013243148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelpMiaoDestiny 晚 安...😔😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516428117161689091",
+        "conversation_id": "1980323459013243148",
+        "created_at": "2025-10-20T17:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980323459013243148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980323459013243148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 264512,
+          "like_count": 785,
+          "quote_count": 13,
+          "reply_count": 299,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "太忧郁躯体化痛苦解离绝望哭了，\n阳台15层跳楼自杀了，再见了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 51,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 114
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大二/双性恋跨女/童意识19岁雌二醇凝胶猫猫20泰蔡达武变女性术喉结术/废物韭菜/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/很穷/绿推/sub小猫/喜欢可爱/求买衣服/民主自由福利/微键政不爆照/167/60/80A/39码/沙漏型/忧郁绝望痛哭树洞/吾将死勿fo",
+        "id": "1516428117161689091",
+        "location": "深圳～喵～",
+        "name": "喵喵～快润🍁或快跳L！",
+        "pinned_tweet_id": "1936637694467281234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 458,
+          "like_count": 84154,
+          "listed_count": 13,
+          "media_count": 1188,
+          "tweet_count": 39803
+        },
+        "username": "HelpMiaoDestiny",
+        "verified": false
+      }
+    ]
+  }
+}

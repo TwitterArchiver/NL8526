@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999525772189663233"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1999357360691941692",
+    "created_at": "2025-12-12T17:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999525779827196080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869325756255657984",
+          "start": 0,
+          "username": "Eremus426531"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lr71vB0PYt",
+          "end": 52,
+          "expanded_url": "https://x.com/NL8526/status/1999525779827196080/photo/1",
+          "media_key": "3_1999525772189663233",
+          "start": 29,
+          "url": "https://t.co/lr71vB0PYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999525779827196080",
+    "in_reply_to_user_id": "1869325756255657984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999357360691941692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eremus426531 加浓苦绿猫蛋蛋（没有放蛋蛋🤤 https://t.co/lr71vB0PYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999525772189663233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7--GIqagAEDLyz.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1999357342207623168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78k6OFawAAsBaE.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1999357342203412482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78k6OEagAI_gcy.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1999357342195077120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78k6OCbUAAQBxL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999525772189663233"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1999357360691941692",
+        "created_at": "2025-12-12T17:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999525779827196080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869325756255657984",
+              "start": 0,
+              "username": "Eremus426531"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lr71vB0PYt",
+              "end": 52,
+              "expanded_url": "https://x.com/NL8526/status/1999525779827196080/photo/1",
+              "media_key": "3_1999525772189663233",
+              "start": 29,
+              "url": "https://t.co/lr71vB0PYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999525779827196080",
+        "in_reply_to_user_id": "1869325756255657984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999357360691941692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eremus426531 加浓苦绿猫蛋蛋（没有放蛋蛋🤤 https://t.co/lr71vB0PYt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999357342207623168",
+            "3_1999357342203412482",
+            "3_1999357342195077120"
+          ]
+        },
+        "author_id": "1869325756255657984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999357360691941692",
+        "created_at": "2025-12-12T05:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999357360691941692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXp4MyBgZo",
+              "end": 48,
+              "expanded_url": "https://x.com/Eremus426531/status/1999357360691941692/photo/1",
+              "media_key": "3_1999357342207623168",
+              "start": 25,
+              "url": "https://t.co/gXp4MyBgZo"
+            },
+            {
+              "display_url": "pic.x.com/gXp4MyBgZo",
+              "end": 48,
+              "expanded_url": "https://x.com/Eremus426531/status/1999357360691941692/photo/1",
+              "media_key": "3_1999357342203412482",
+              "start": 25,
+              "url": "https://t.co/gXp4MyBgZo"
+            },
+            {
+              "display_url": "pic.x.com/gXp4MyBgZo",
+              "end": 48,
+              "expanded_url": "https://x.com/Eremus426531/status/1999357360691941692/photo/1",
+              "media_key": "3_1999357342195077120",
+              "start": 25,
+              "url": "https://t.co/gXp4MyBgZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999357360691941692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝一尝喜茶新品，还带了一串抽象的糯米丸子。好喝😋 https://t.co/gXp4MyBgZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️🇨🇳07MTF 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀抽烟喝酒 | 🥰音游 三角洲 性格友好 有洁癖焦虑缺爱自卑社恐🐱 长不大的小孩 害怕炸柜(大概明年夏天炸) | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 68,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 150
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T10:16:19.000Z",
+        "description": "L(G)BT│有对象│二次元│术力口，粥，1999│cs专业│爱好数学，哲学│推水月，镜音连│请和我交朋友🥺🥺",
+        "id": "1869325756255657984",
+        "name": "Eremus",
+        "pinned_tweet_id": "1898748238171357564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995775476871430148/eplOFhO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1290,
+          "like_count": 22163,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6449
+        },
+        "username": "Eremus426531",
+        "verified": false
+      }
+    ]
+  }
+}

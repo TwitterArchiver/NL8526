@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2064524471726461092",
+    "created_at": "2026-06-11T09:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065004743379026366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552305735840718848",
+          "start": 0,
+          "username": "kaisamowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065004743379026366",
+    "in_reply_to_user_id": "1552305735840718848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064990857757962451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaisamowang 哪里来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2064524471726461092",
+        "created_at": "2026-06-11T09:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065004743379026366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552305735840718848",
+              "start": 0,
+              "username": "kaisamowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065004743379026366",
+        "in_reply_to_user_id": "1552305735840718848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064990857757962451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaisamowang 哪里来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552305735840718848",
+        "conversation_id": "2064524471726461092",
+        "created_at": "2026-06-11T08:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064990857757962451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064990857757962451",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064524471726461092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 慕名而来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 742,
+          "like_count": 15744,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T14:52:05.000Z",
+        "description": "“世界可是有万千奇妙的啊，诺瓦。”\n世界是……宝石箱，装满了熠熠生辉宝石的宝石箱。\n或许会有烦恼的时候。人生之中要相互争夺那些宝石，总会留下不好的回忆。\n但是，就算是这样，我也想让你看见，用你的双眼，去注视那些光芒。”",
+        "id": "1552305735840718848",
+        "name": "🦌管道人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909508981283811328/3uzUBKNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 2010,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 405
+        },
+        "username": "kaisamowang",
+        "verified": false
+      }
+    ]
+  }
+}

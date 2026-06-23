@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2065814125876588853",
+    "created_at": "2026-06-13T15:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:08:45.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065813632680902821",
+      "2065814125876588853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Viki211027/sta…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+          "start": 137,
+          "url": "https://t.co/0IwQVzSSlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065814125876588853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去妥协、如今清醒的自己。\n往后不再按原生性别演戏，祝我们都能和真我和解。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065703677084713177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去妥协、如今清醒的自己。 https://t.co/0IwQVzSSlm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065813632680902821",
+        "created_at": "2026-06-13T15:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:08:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065813632680902821",
+          "2065814125876588853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Viki211027/sta…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+              "start": 132,
+              "url": "https://t.co/0IwQVzSSlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065813632680902821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后不再按原生性别演戏，祝我们都能和真我和解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703677084713177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。 https://t.co/0IwQVzSSlm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2065814125876588853",
+        "created_at": "2026-06-13T15:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:08:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065813632680902821",
+          "2065814125876588853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Viki211027/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+              "start": 137,
+              "url": "https://t.co/0IwQVzSSlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065814125876588853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去妥协、如今清醒的自己。\n往后不再按原生性别演戏，祝我们都能和真我和解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703677084713177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱顺，不再向顺性别妥协。\n​回望之前试图强迫自己融入顺性别、拼命扮演“正常人”的挣扎，是漫长且内耗的自我消耗。经过长期反复的自我审视、心理梳理，确认自身迎合原生性别只是阶段性的懦弱与认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去妥协、如今清醒的自己。 https://t.co/0IwQVzSSlm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013100592202194945",
+        "conversation_id": "2065703677084713177",
+        "created_at": "2026-06-13T07:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065703677084713177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065703677084713177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8030,
+          "like_count": 71,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱跨，回归原生生理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非跨性别，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明/友好欢迎dm 🩷同类蓝v互fo私 🙏抽象致歉 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 767,
+          "like_count": 16446,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/老婆@xieerfan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 22,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 280
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

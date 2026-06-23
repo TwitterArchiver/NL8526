@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1995412231392211037",
+    "created_at": "2025-12-01T08:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995412231392211037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952255168009105408",
+          "start": 3,
+          "username": "_xiaomao77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995412231392211037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995153081030615551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_xiaomao77: 好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1995412231392211037",
+        "created_at": "2025-12-01T08:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995412231392211037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952255168009105408",
+              "start": 3,
+              "username": "_xiaomao77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995412231392211037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995153081030615551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_xiaomao77: 好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952255168009105408",
+        "conversation_id": "1995153081030615551",
+        "created_at": "2025-11-30T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995153081030615551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995153081030615551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 77182,
+          "like_count": 474,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺好想做爱🥺想被指奸🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ 173/58减脂中 | 无证含糖🍥 hrt25/10 | 大学在读 家境困难贷款上学中 | 不od改刀 不抽烟喝酒 | 🥰音游 性格友好Sub/M属性洁癖强迫症焦虑缺爱自卑社恐🐱长不大的小孩 害怕炸柜 | 谢谢关注这个小树洞 负面内容致歉 没什么朋友 互fo私信摸摸喵🥺",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 53,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 117
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:28:12.000Z",
+        "description": "喵喵喵",
+        "id": "1952255168009105408",
+        "name": "淇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952255337169403904/ttWxZy-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 5,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "_xiaomao77",
+        "verified": false
+      }
+    ]
+  }
+}

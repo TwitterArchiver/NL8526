@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983089484892893184"
+      ],
+      "media_source_tweet_id": [
+        "1983089490542637445"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "1983379556875780503",
+    "created_at": "2025-10-29T03:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T04:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983379556875780503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1920198584055836675",
+          "start": 3,
+          "username": "eggs_bened1ct_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEoPrR88rd",
+          "end": 46,
+          "expanded_url": "https://x.com/eggs_bened1ct_/status/1983089490542637445/photo/1",
+          "media_key": "3_1983089484892893184",
+          "start": 23,
+          "url": "https://t.co/xEoPrR88rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983379556875780503",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983089490542637445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eggs_bened1ct_: 🎵🐻 https://t.co/xEoPrR88rd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1983089484892893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VZYTDacAACd-Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983089484892893184"
+          ],
+          "media_source_tweet_id": [
+            "1983089490542637445"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "1983379556875780503",
+        "created_at": "2025-10-29T03:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983379556875780503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1920198584055836675",
+              "start": 3,
+              "username": "eggs_bened1ct_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEoPrR88rd",
+              "end": 46,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1983089490542637445/photo/1",
+              "media_key": "3_1983089484892893184",
+              "start": 23,
+              "url": "https://t.co/xEoPrR88rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983379556875780503",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983089490542637445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eggs_bened1ct_: 🎵🐻 https://t.co/xEoPrR88rd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983089484892893184"
+          ]
+        },
+        "author_id": "1920198584055836675",
+        "conversation_id": "1983089490542637445",
+        "created_at": "2025-10-28T08:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983089490542637445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEoPrR88rd",
+              "end": 26,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1983089490542637445/photo/1",
+              "media_key": "3_1983089484892893184",
+              "start": 3,
+              "url": "https://t.co/xEoPrR88rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983089490542637445",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17004,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "🎵🐻 https://t.co/xEoPrR88rd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) | 🥰音游 性格好但是超级缺爱自卑社恐悲观内耗喵🐱 害怕炸柜已读不回 | 家境困难",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T19:26:42.000Z",
+        "description": "🇭🇰Base in Great Bay Area, 👨‍🎓MSc, 🫧Multi-lingual: 🇨🇳zh-cn/🇭🇰zh-hk/🇬🇧en-uk/🇰🇷ko-kr/🇯🇵ja-jp. 🗣️Politics, 🔞Porno contents are 🚫BANNED here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eggs_bened1ct_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eggs_bened1ct_",
+                "start": 0,
+                "url": "https://t.co/JqDTYgqToY"
+              }
+            ]
+          }
+        },
+        "id": "1920198584055836675",
+        "location": "Great Bay Area🇨🇳🇭🇰🇲🇴",
+        "name": "蛋蓝",
+        "pinned_tweet_id": "1946481229626487254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925898360784822273/SZlhk8XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 509,
+          "like_count": 18680,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 6278
+        },
+        "url": "https://t.co/JqDTYgqToY",
+        "username": "eggs_bened1ct_",
+        "verified": true
+      }
+    ]
+  }
+}

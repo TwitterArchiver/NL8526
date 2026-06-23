@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051532430553886720"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051532432822948060",
+    "created_at": "2026-05-05T05:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051532432822948060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDBpVIVzX9",
+          "end": 62,
+          "expanded_url": "https://x.com/NL8526/status/2051532432822948060/photo/1",
+          "media_key": "3_2051532430553886720",
+          "start": 39,
+          "url": "https://t.co/uDBpVIVzX9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051532432822948060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无意间发现QQ搜索这些东西会弹药物滥用提示，还有很多关键词 收录了挺多的😂😂 https://t.co/uDBpVIVzX9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051532430553886720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiB4EhbsAASaB_.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051532430553886720"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051532432822948060",
+        "created_at": "2026-05-05T05:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051532432822948060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDBpVIVzX9",
+              "end": 62,
+              "expanded_url": "https://x.com/NL8526/status/2051532432822948060/photo/1",
+              "media_key": "3_2051532430553886720",
+              "start": 39,
+              "url": "https://t.co/uDBpVIVzX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051532432822948060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无意间发现QQ搜索这些东西会弹药物滥用提示，还有很多关键词 收录了挺多的😂😂 https://t.co/uDBpVIVzX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹钢专/音游/MC 😖半家长党/缺爱b/讨好所有人 ➕扩列互关喵 😊做完那些想做的事情 就离开这个世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "📍江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041430288161751112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 734,
+          "like_count": 10558,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

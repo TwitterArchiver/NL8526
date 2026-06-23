@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2033160901667496313",
+    "created_at": "2026-03-15T12:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033160901667496313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033160901667496313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033067729536843846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris923: 在表单后填写您的推特帐号，并同时转发本推文、关注本帐号）和/或 我的另一帳號 chloris8964的人，\n如果表单在2026.3.23 0.00以前参与人数不到100，我从满足条件的人里面抽一个人送10人民幣出去；100到1000，我抽两个人各…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2033160901667496313",
+        "created_at": "2026-03-15T12:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033160901667496313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033160901667496313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033067729536843846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris923: 在表单后填写您的推特帐号，并同时转发本推文、关注本帐号）和/或 我的另一帳號 chloris8964的人，\n如果表单在2026.3.23 0.00以前参与人数不到100，我从满足条件的人里面抽一个人送10人民幣出去；100到1000，我抽两个人各…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2033067729536843846",
+        "created_at": "2026-03-15T06:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033067729536843846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chloris923/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/chloris923/status/2033008461198573976",
+              "start": 153,
+              "url": "https://t.co/a22qG3HqLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033067729536843846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1064,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033008461198573976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在表单后填写您的推特帐号，并同时转发本推文、关注本帐号）和/或 我的另一帳號 chloris8964的人，\n如果表单在2026.3.23 0.00以前参与人数不到100，我从满足条件的人里面抽一个人送10人民幣出去；100到1000，我抽两个人各送20人民幣出去；1000以上，我抽一个人送100人民幣。 https://t.co/a22qG3HqLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 🎹音游📍坐标江西",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032160283016458383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 438,
+          "like_count": 6719,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 231
+        },
+        "username": "NL8526",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "我是白桦，我不是给。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://chloris923.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/pyjXlDnHlj"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "blog网页：",
+        "name": "🎀",
+        "pinned_tweet_id": "2033067729536843846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028136498181316608/VLSPjO7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 258,
+          "like_count": 28176,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 15529
+        },
+        "url": "https://t.co/pyjXlDnHlj",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

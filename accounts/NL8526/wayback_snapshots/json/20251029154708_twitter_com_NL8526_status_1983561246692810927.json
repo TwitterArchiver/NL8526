@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "1983561246692810927",
+    "created_at": "2025-10-29T15:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983561246692810927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983561246692810927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天又没练琴... 一整天呆在床上窥探赛博世界\n晚上起床出去发现快递站都已经关门了，然后导员让去心理咨询室做访谈，里面的人问我那些测试题是不是认真做的，我不知道为什么怔了好一会 徘徊在是或者不是，想好了然后说话都说不出来了声音是哑的。他提的问题我都反应好慢，就像死机了一样 死脑转不起来."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "1983561246692810927",
+        "created_at": "2025-10-29T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983561246692810927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983561246692810927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又没练琴... 一整天呆在床上窥探赛博世界\n晚上起床出去发现快递站都已经关门了，然后导员让去心理咨询室做访谈，里面的人问我那些测试题是不是认真做的，我不知道为什么怔了好一会 徘徊在是或者不是，想好了然后说话都说不出来了声音是哑的。他提的问题我都反应好慢，就像死机了一样 死脑转不起来."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "CN🇨🇳 | 07MTF🏳️‍⚧️ | 无证含糖🍥 hrt25/10 |📍IP洪城 大学在读 | 经常出现躯体化症状未确诊(没看过医生) | 🥰音游 性格好但是超级缺爱自卑社恐悲观内耗喵🐱 害怕炸柜已读不回 | 家境困难",
+        "id": "1546431985086009344",
+        "name": "柠凉🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 22,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

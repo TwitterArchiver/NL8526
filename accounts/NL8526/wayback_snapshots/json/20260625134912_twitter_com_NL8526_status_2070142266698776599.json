@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070142263649583104",
+        "3_2070142263586705408"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2070142266698776599",
+    "created_at": "2026-06-25T13:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070142266698776599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJFHV5iDwC",
+          "end": 42,
+          "expanded_url": "https://x.com/NL8526/status/2070142266698776599/photo/1",
+          "media_key": "3_2070142263649583104",
+          "start": 19,
+          "url": "https://t.co/DJFHV5iDwC"
+        },
+        {
+          "display_url": "pic.x.com/DJFHV5iDwC",
+          "end": 42,
+          "expanded_url": "https://x.com/NL8526/status/2070142266698776599/photo/1",
+          "media_key": "3_2070142263586705408",
+          "start": 19,
+          "url": "https://t.co/DJFHV5iDwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070142266698776599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉这样编曲好爽  情绪价值先拉满了 https://t.co/DJFHV5iDwC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2070142263649583104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqfa7NbQAALrdf.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070142263586705408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqfa6-b0AAttP4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070142263649583104",
+            "3_2070142263586705408"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2070142266698776599",
+        "created_at": "2026-06-25T13:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070142266698776599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJFHV5iDwC",
+              "end": 42,
+              "expanded_url": "https://x.com/NL8526/status/2070142266698776599/photo/1",
+              "media_key": "3_2070142263649583104",
+              "start": 19,
+              "url": "https://t.co/DJFHV5iDwC"
+            },
+            {
+              "display_url": "pic.x.com/DJFHV5iDwC",
+              "end": 42,
+              "expanded_url": "https://x.com/NL8526/status/2070142266698776599/photo/1",
+              "media_key": "3_2070142263586705408",
+              "start": 19,
+              "url": "https://t.co/DJFHV5iDwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070142266698776599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这样编曲好爽  情绪价值先拉满了 https://t.co/DJFHV5iDwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 868,
+          "like_count": 18252,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069610590004236288",
+        "3_2069610589610033152",
+        "3_2069610589895172096",
+        "3_2069610590558195712"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2069610593196388757",
+    "created_at": "2026-06-24T02:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069610593196388757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsYk0YoJ0x",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+          "media_key": "3_2069610590004236288",
+          "start": 16,
+          "url": "https://t.co/fsYk0YoJ0x"
+        },
+        {
+          "display_url": "pic.x.com/fsYk0YoJ0x",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+          "media_key": "3_2069610589610033152",
+          "start": 16,
+          "url": "https://t.co/fsYk0YoJ0x"
+        },
+        {
+          "display_url": "pic.x.com/fsYk0YoJ0x",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+          "media_key": "3_2069610589895172096",
+          "start": 16,
+          "url": "https://t.co/fsYk0YoJ0x"
+        },
+        {
+          "display_url": "pic.x.com/fsYk0YoJ0x",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+          "media_key": "3_2069610590558195712",
+          "start": 16,
+          "url": "https://t.co/fsYk0YoJ0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069610593196388757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai模型修罗场\n（傲娇傲娇傲娇 https://t.co/fsYk0YoJ0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2069610590004236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi73ciW0AANlTj.jpg",
+        "width": 1050
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2069610589610033152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi73bEXwAACnM3.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2069610589895172096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi73cIWoAAygPy.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2069610590558195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi73embkAAm99H.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069610590004236288",
+            "3_2069610589610033152",
+            "3_2069610589895172096",
+            "3_2069610590558195712"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2069610593196388757",
+        "created_at": "2026-06-24T02:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069610593196388757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsYk0YoJ0x",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+              "media_key": "3_2069610590004236288",
+              "start": 16,
+              "url": "https://t.co/fsYk0YoJ0x"
+            },
+            {
+              "display_url": "pic.x.com/fsYk0YoJ0x",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+              "media_key": "3_2069610589610033152",
+              "start": 16,
+              "url": "https://t.co/fsYk0YoJ0x"
+            },
+            {
+              "display_url": "pic.x.com/fsYk0YoJ0x",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+              "media_key": "3_2069610589895172096",
+              "start": 16,
+              "url": "https://t.co/fsYk0YoJ0x"
+            },
+            {
+              "display_url": "pic.x.com/fsYk0YoJ0x",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/2069610593196388757/photo/1",
+              "media_key": "3_2069610590558195712",
+              "start": 16,
+              "url": "https://t.co/fsYk0YoJ0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069610593196388757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai模型修罗场\n（傲娇傲娇傲娇 https://t.co/fsYk0YoJ0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 863,
+          "like_count": 18104,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

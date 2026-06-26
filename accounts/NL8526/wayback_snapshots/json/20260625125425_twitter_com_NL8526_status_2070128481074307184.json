@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069490413963276288"
+      ],
+      "media_source_tweet_id": [
+        "2069490416668590312"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070128481074307184",
+    "created_at": "2026-06-25T12:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070128481074307184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787748911878156288",
+          "start": 3,
+          "username": "anyue_1207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mOnNxtIiru",
+          "end": 120,
+          "expanded_url": "https://x.com/anyue_1207/status/2069490416668590312/photo/1",
+          "media_key": "3_2069490413963276288",
+          "start": 97,
+          "url": "https://t.co/mOnNxtIiru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070128481074307184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069490416668590312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anyue_1207: 有跨旗的全挂逼了，所以真的违禁品不查，管这……\n是这样吗？\n某个欺软怕硬小人得志的公司\n没有哪国zf让你这么做吧？\n你国医院都承认的东西，你不认？\n丢人现眼…… https://t.co/mOnNxtIiru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069490413963276288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhOkR5bcAAvpIE.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069490413963276288"
+          ],
+          "media_source_tweet_id": [
+            "2069490416668590312"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070128481074307184",
+        "created_at": "2026-06-25T12:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070128481074307184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787748911878156288",
+              "start": 3,
+              "username": "anyue_1207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOnNxtIiru",
+              "end": 120,
+              "expanded_url": "https://x.com/anyue_1207/status/2069490416668590312/photo/1",
+              "media_key": "3_2069490413963276288",
+              "start": 97,
+              "url": "https://t.co/mOnNxtIiru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070128481074307184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069490416668590312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anyue_1207: 有跨旗的全挂逼了，所以真的违禁品不查，管这……\n是这样吗？\n某个欺软怕硬小人得志的公司\n没有哪国zf让你这么做吧？\n你国医院都承认的东西，你不认？\n丢人现眼…… https://t.co/mOnNxtIiru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069490413963276288"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069490416668590312",
+        "created_at": "2026-06-23T18:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069490416668590312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOnNxtIiru",
+              "end": 104,
+              "expanded_url": "https://x.com/anyue_1207/status/2069490416668590312/photo/1",
+              "media_key": "3_2069490413963276288",
+              "start": 81,
+              "url": "https://t.co/mOnNxtIiru"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2069322836108542357",
+              "start": 105,
+              "url": "https://t.co/PTfkkZkGuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069490416668590312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10559,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069322836108542357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有跨旗的全挂逼了，所以真的违禁品不查，管这……\n是这样吗？\n某个欺软怕硬小人得志的公司\n没有哪国zf让你这么做吧？\n你国医院都承认的东西，你不认？\n丢人现眼…… https://t.co/mOnNxtIiru https://t.co/PTfkkZkGuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 868,
+          "like_count": 18243,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "INFJ  | mtf",
+        "id": "1787748911878156288",
+        "name": "黯月",
+        "pinned_tweet_id": "2039430334681391158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069473079647150080/82Csd9P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1065,
+          "like_count": 4001,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "anyue_1207",
+        "verified": false
+      }
+    ]
+  }
+}

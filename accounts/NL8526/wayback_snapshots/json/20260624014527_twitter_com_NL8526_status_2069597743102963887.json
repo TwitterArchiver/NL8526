@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069597705257570304",
+        "7_2069597705446494208"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2069597743102963887",
+    "created_at": "2026-06-24T01:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069597743102963887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPnQy52BlS",
+          "end": 45,
+          "expanded_url": "https://x.com/NL8526/status/2069597743102963887/video/1",
+          "media_key": "3_2069597705257570304",
+          "start": 22,
+          "url": "https://t.co/CPnQy52BlS"
+        },
+        {
+          "display_url": "pic.x.com/CPnQy52BlS",
+          "end": 45,
+          "expanded_url": "https://x.com/NL8526/status/2069597743102963887/video/1",
+          "media_key": "7_2069597705446494208",
+          "start": 22,
+          "url": "https://t.co/CPnQy52BlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069597743102963887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来瓶无糖魔爪吗？\n3kfo thanks! https://t.co/CPnQy52BlS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2069597705257570304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiwJdHXUAAXjER.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 9613,
+        "height": 720,
+        "media_key": "7_2069597705446494208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069597705446494208/pu/img/En8EPF0deWQQ0CQy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069597705446494208/pu/vid/avc1/480x270/z1LXFmMjNyj0e-jb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069597705446494208/pu/vid/avc1/640x360/KwOqbKPXEpAt1p1o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069597705446494208/pu/vid/avc1/1280x720/haYshWf-MXhq4pi5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069597705446494208/pu/pl/4R1qDDRLLYfszbrP.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069597705257570304",
+            "7_2069597705446494208"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2069597743102963887",
+        "created_at": "2026-06-24T01:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069597743102963887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPnQy52BlS",
+              "end": 45,
+              "expanded_url": "https://x.com/NL8526/status/2069597743102963887/video/1",
+              "media_key": "3_2069597705257570304",
+              "start": 22,
+              "url": "https://t.co/CPnQy52BlS"
+            },
+            {
+              "display_url": "pic.x.com/CPnQy52BlS",
+              "end": 45,
+              "expanded_url": "https://x.com/NL8526/status/2069597743102963887/video/1",
+              "media_key": "7_2069597705446494208",
+              "start": 22,
+              "url": "https://t.co/CPnQy52BlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069597743102963887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来瓶无糖魔爪吗？\n3kfo thanks! https://t.co/CPnQy52BlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 863,
+          "like_count": 18090,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

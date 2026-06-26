@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2069243158811250688"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2069243337157292491",
+    "created_at": "2026-06-23T02:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069243337157292491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mO6hcVPLyq",
+          "end": 42,
+          "expanded_url": "https://x.com/NL8526/status/2069243337157292491/video/1",
+          "media_key": "7_2069243158811250688",
+          "start": 19,
+          "url": "https://t.co/mO6hcVPLyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069243337157292491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "方向盘自动校正渲染测试 录屏是初见😌 https://t.co/mO6hcVPLyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179001,
+        "height": 720,
+        "media_key": "7_2069243158811250688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069243158811250688/pu/img/UtuOYsjbk4nA7Kpv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069243158811250688/pu/vid/avc1/480x270/2mzT0Con4HgAdQsf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069243158811250688/pu/vid/avc1/640x360/flGjdG5E1YfkaoEn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069243158811250688/pu/vid/avc1/1280x720/1Yivh4pJMbaSX8Kw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069243158811250688/pu/pl/D99W_j_z_f23QkwP.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069243158811250688"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2069243337157292491",
+        "created_at": "2026-06-23T02:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069243337157292491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mO6hcVPLyq",
+              "end": 42,
+              "expanded_url": "https://x.com/NL8526/status/2069243337157292491/video/1",
+              "media_key": "7_2069243158811250688",
+              "start": 19,
+              "url": "https://t.co/mO6hcVPLyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069243337157292491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "方向盘自动校正渲染测试 录屏是初见😌 https://t.co/mO6hcVPLyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 858,
+          "like_count": 17956,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070513741599522816",
+        "3_2070513778014482433"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070513780241699217",
+    "created_at": "2026-06-26T14:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070513780241699217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2kX5vMVaW",
+          "end": 73,
+          "expanded_url": "https://x.com/NL8526/status/2070513780241699217/video/1",
+          "media_key": "7_2070513741599522816",
+          "start": 50,
+          "url": "https://t.co/R2kX5vMVaW"
+        },
+        {
+          "display_url": "pic.x.com/R2kX5vMVaW",
+          "end": 73,
+          "expanded_url": "https://x.com/NL8526/status/2070513780241699217/video/1",
+          "media_key": "3_2070513778014482433",
+          "start": 50,
+          "url": "https://t.co/R2kX5vMVaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070513780241699217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对咯就这么禁  不禁烟不禁槟榔  反手把雌二醇当毒品\n看看你们吃雌二醇会不会像吃槟榔一样打双闪😅😅 https://t.co/R2kX5vMVaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17322,
+        "height": 1280,
+        "media_key": "7_2070513741599522816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070513741599522816/pu/img/daLDiYliTOh9xfhl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070513741599522816/pu/vid/avc1/320x568/GvOGWv-x-hQWo6y8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070513741599522816/pu/vid/avc1/480x852/od2aPJdSIkpjxydc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070513741599522816/pu/vid/avc1/720x1280/RB4huFjnM5WjGDWF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070513741599522816/pu/pl/4_51JwjsMXTNBs93.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 797,
+        "media_key": "3_2070513778014482433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvxT6Ea8AE-iku.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070513741599522816",
+            "3_2070513778014482433"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070513780241699217",
+        "created_at": "2026-06-26T14:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070513780241699217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2kX5vMVaW",
+              "end": 73,
+              "expanded_url": "https://x.com/NL8526/status/2070513780241699217/video/1",
+              "media_key": "7_2070513741599522816",
+              "start": 50,
+              "url": "https://t.co/R2kX5vMVaW"
+            },
+            {
+              "display_url": "pic.x.com/R2kX5vMVaW",
+              "end": 73,
+              "expanded_url": "https://x.com/NL8526/status/2070513780241699217/video/1",
+              "media_key": "3_2070513778014482433",
+              "start": 50,
+              "url": "https://t.co/R2kX5vMVaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070513780241699217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对咯就这么禁  不禁烟不禁槟榔  反手把雌二醇当毒品\n看看你们吃雌二醇会不会像吃槟榔一样打双闪😅😅 https://t.co/R2kX5vMVaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3350,
+          "following_count": 868,
+          "like_count": 18315,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

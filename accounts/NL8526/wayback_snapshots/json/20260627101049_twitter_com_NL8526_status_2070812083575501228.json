@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070812071584055296"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2070812083575501228",
+    "created_at": "2026-06-27T10:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070812083575501228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "2042108098203033600",
+          "start": 11,
+          "username": "HSoLqDvjCk70578"
+        },
+        {
+          "end": 42,
+          "id": "1843618783937937408",
+          "start": 28,
+          "username": "IllusoryKyoka"
+        },
+        {
+          "end": 54,
+          "id": "1830402928370487296",
+          "start": 43,
+          "username": "hyhx060918"
+        },
+        {
+          "end": 66,
+          "id": "1951698283040276481",
+          "start": 55,
+          "username": "JamesKe133"
+        },
+        {
+          "end": 83,
+          "id": "1765154815678779392",
+          "start": 67,
+          "username": "NFhLWuYaiP90228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0wZAwCPiMz",
+          "end": 107,
+          "expanded_url": "https://x.com/NL8526/status/2070812083575501228/photo/1",
+          "media_key": "3_2070812071584055296",
+          "start": 84,
+          "url": "https://t.co/0wZAwCPiMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070812083575501228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久违的贴贴 饭聚!🍻\n@HSoLqDvjCk70578 @IllusoryKyoka @hyhx060918 @JamesKe133 @NFhLWuYaiP90228 https://t.co/0wZAwCPiMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2070812071584055296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Am4NbwAAKtM_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070812071584055296"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2070812083575501228",
+        "created_at": "2026-06-27T10:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070812083575501228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2042108098203033600",
+              "start": 11,
+              "username": "HSoLqDvjCk70578"
+            },
+            {
+              "end": 42,
+              "id": "1843618783937937408",
+              "start": 28,
+              "username": "IllusoryKyoka"
+            },
+            {
+              "end": 54,
+              "id": "1830402928370487296",
+              "start": 43,
+              "username": "hyhx060918"
+            },
+            {
+              "end": 66,
+              "id": "1951698283040276481",
+              "start": 55,
+              "username": "JamesKe133"
+            },
+            {
+              "end": 83,
+              "id": "1765154815678779392",
+              "start": 67,
+              "username": "NFhLWuYaiP90228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wZAwCPiMz",
+              "end": 107,
+              "expanded_url": "https://x.com/NL8526/status/2070812083575501228/photo/1",
+              "media_key": "3_2070812071584055296",
+              "start": 84,
+              "url": "https://t.co/0wZAwCPiMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070812083575501228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的贴贴 饭聚!🍻\n@HSoLqDvjCk70578 @IllusoryKyoka @hyhx060918 @JamesKe133 @NFhLWuYaiP90228 https://t.co/0wZAwCPiMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 867,
+          "like_count": 18412,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T05:11:44.000Z",
+        "description": "05年小证含糖中|坐标：佛山|广州|深圳\n欢迎同类互关 贴贴~😉\n温柔体贴 热爱二次元\n172 59kg 正在减肥😖\n不🚬不🍺不0\nhrt：2026-3-13",
+        "id": "2042108098203033600",
+        "name": "云栀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047000987341365248/Zj2e-ukS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 39,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "HSoLqDvjCk70578",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-A 坚实守护者🛡️/产地:Canton/深柜/174cm/无证含糖/年龄毕业党&原生解绑/HRT:26.2.1/心理健康/不烟不酒/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "location": "北海道 小樽市",
+        "name": "鏡花Kyoka🍥",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047022672824107008/xKp7IRw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 117,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "IllusoryKyoka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T00:31:08.000Z",
+        "description": "呃啊（精神状态不好经常焦虑幻想的人）",
+        "id": "1830402928370487296",
+        "location": "安徽省合肥市",
+        "name": "海盐幻想🍥",
+        "pinned_tweet_id": "1831724390704410895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481600060252160/4Iz6avjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 765,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "hyhx060918",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T17:35:22.000Z",
+        "description": "",
+        "id": "1951698283040276481",
+        "name": "🍥JamesKe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027302045028585472/wuPz12KO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 192,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "JamesKe133",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "🏳️‍⚧️mtf HRT：2026/3/24から | 坐标大湾区 | 高校生 | acgが好き | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "name": "依松佐河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058982342295986176/g_UThJOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 623,
+          "like_count": 26203,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2072626677889585185",
+    "created_at": "2026-07-02T10:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072629051093836178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618783937937408",
+          "start": 0,
+          "username": "IllusoryKyoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072629051093836178",
+    "in_reply_to_user_id": "1843618783937937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072626677889585185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IllusoryKyoka 权威喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2072626674571866113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNy-rHa8AExsGm.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2072626674555105280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNy-rDbMAAkx9n.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2072626673351335937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNy-mkbIAE-C9z.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072626251098120192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNymBjaYAAQbwb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2072626677889585185",
+        "created_at": "2026-07-02T10:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629051093836178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618783937937408",
+              "start": 0,
+              "username": "IllusoryKyoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629051093836178",
+        "in_reply_to_user_id": "1843618783937937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072626677889585185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IllusoryKyoka 权威喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072626674571866113",
+            "3_2072626674555105280",
+            "3_2072626673351335937",
+            "3_2072626251098120192"
+          ]
+        },
+        "author_id": "1843618783937937408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072626677889585185",
+        "created_at": "2026-07-02T10:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072626677889585185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2FWIAuSP7",
+              "end": 44,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2072626677889585185/photo/1",
+              "media_key": "3_2072626674571866113",
+              "start": 21,
+              "url": "https://t.co/Q2FWIAuSP7"
+            },
+            {
+              "display_url": "pic.x.com/Q2FWIAuSP7",
+              "end": 44,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2072626677889585185/photo/1",
+              "media_key": "3_2072626674555105280",
+              "start": 21,
+              "url": "https://t.co/Q2FWIAuSP7"
+            },
+            {
+              "display_url": "pic.x.com/Q2FWIAuSP7",
+              "end": 44,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2072626677889585185/photo/1",
+              "media_key": "3_2072626673351335937",
+              "start": 21,
+              "url": "https://t.co/Q2FWIAuSP7"
+            },
+            {
+              "display_url": "pic.x.com/Q2FWIAuSP7",
+              "end": 44,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2072626677889585185/photo/1",
+              "media_key": "3_2072626251098120192",
+              "start": 21,
+              "url": "https://t.co/Q2FWIAuSP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072626677889585185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论老姐姐招待伙伴们有多权威Belike: https://t.co/Q2FWIAuSP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 875,
+          "like_count": 19296,
+          "listed_count": 6,
+          "media_count": 215,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-A 坚实守护者🛡️/产地:Canton/深柜/174cm/无证含糖/经济独立/年龄毕业党≈30/原生解绑/HRT:26.2.1/心理健康/不烟不酒/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "location": "北海道 小樽市",
+        "name": "鏡花Kyoka🍥",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047022672824107008/xKp7IRw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 123,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "IllusoryKyoka",
+        "verified": false
+      }
+    ]
+  }
+}

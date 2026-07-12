@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2074372619286266089",
+    "created_at": "2026-07-07T08:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074413059075096620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472419244126388226",
+          "start": 0,
+          "username": "Fubuki_027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074413059075096620",
+    "in_reply_to_user_id": "1472419244126388226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074385400769253493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fubuki_027 coloros新版本的功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2074372619286266089",
+        "created_at": "2026-07-07T08:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074413059075096620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472419244126388226",
+              "start": 0,
+              "username": "Fubuki_027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074413059075096620",
+        "in_reply_to_user_id": "1472419244126388226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074385400769253493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fubuki_027 coloros新版本的功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472419244126388226",
+        "conversation_id": "2074372619286266089",
+        "created_at": "2026-07-07T06:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074385400769253493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074385400769253493",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074372619286266089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 怎么做到的，我也想要喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 914,
+          "like_count": 20365,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🏳️‍⚧️我喜欢你🏳️‍⚧️ | INFP | MtX | 无证低糖 | 已炸柜家暴党 | 重生日2026.5.8 | 小号 @Rinfen_027 | 请多指教🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Rinfen_027"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2067391398488441144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1276,
+          "like_count": 3446,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2474
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": false
+      }
+    ]
+  }
+}

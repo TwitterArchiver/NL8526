@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2075556071297671549",
+    "created_at": "2026-07-10T16:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075612241911767218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676634704878129152",
+          "start": 0,
+          "username": "AotraWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075612241911767218",
+    "in_reply_to_user_id": "1676634704878129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556071297671549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AotraWong 那个实验室里有啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2075556041065189376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3bOPsbUAA4HbU.jpg",
+        "width": 1644
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2075556051915808769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3bO4HaoAE390a.jpg",
+        "width": 1644
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2075556062682566656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3bPgOaUAAlMc6.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2075556071297671549",
+        "created_at": "2026-07-10T16:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075612241911767218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676634704878129152",
+              "start": 0,
+              "username": "AotraWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075612241911767218",
+        "in_reply_to_user_id": "1676634704878129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556071297671549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AotraWong 那个实验室里有啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075556041065189376",
+            "3_2075556051915808769",
+            "3_2075556062682566656"
+          ]
+        },
+        "author_id": "1676634704878129152",
+        "conversation_id": "2075556071297671549",
+        "created_at": "2026-07-10T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075556071297671549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BTTGnyZYd",
+              "end": 150,
+              "expanded_url": "https://x.com/AotraWong/status/2075556071297671549/photo/1",
+              "media_key": "3_2075556041065189376",
+              "start": 127,
+              "url": "https://t.co/9BTTGnyZYd"
+            },
+            {
+              "display_url": "pic.x.com/9BTTGnyZYd",
+              "end": 150,
+              "expanded_url": "https://x.com/AotraWong/status/2075556071297671549/photo/1",
+              "media_key": "3_2075556051915808769",
+              "start": 127,
+              "url": "https://t.co/9BTTGnyZYd"
+            },
+            {
+              "display_url": "pic.x.com/9BTTGnyZYd",
+              "end": 150,
+              "expanded_url": "https://x.com/AotraWong/status/2075556071297671549/photo/1",
+              "media_key": "3_2075556062682566656",
+              "start": 127,
+              "url": "https://t.co/9BTTGnyZYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556071297671549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我的脑子有点沉溺于雨晴……\n想生气但是我不愿意生气\n然后给自己气笑了\n\n起初是想让她试试深铁用运通。结果发现，我不能和她一起出地铁了，因为往我那边怎么都来不及了……\n\n血亏……\n并且好巧不巧闸机刷不出去，人工处理的，现在还没有撤销预授权¥36…… https://t.co/9BTTGnyZYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 921,
+          "like_count": 21208,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 过期JK |\n最喜欢的妹妹：@RainEngine2026 | 物化政但准医学生 |\n校心理社前部长 | IT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "RainEngine2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980335128113152/BDqo9jSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1135,
+          "like_count": 25151,
+          "listed_count": 5,
+          "media_count": 510,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

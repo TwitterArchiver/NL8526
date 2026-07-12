@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2074877399536480470",
+    "created_at": "2026-07-08T15:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074877399536480470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "变性手术"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944674675227054081",
+          "start": 3,
+          "username": "chengqing198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074877399536480470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074852200044777961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengqing198: 人生副本：#变性手术 后的一生\n你在病床上醒来，下体承受着手术后的胀痛。\n从青春期漫长的性别焦虑，到省吃俭用攒够手术费，20年的夙愿达成了。\n但当新的身份证到手，恢复的痛苦、生活的压力，依然存在。\n性别可以更正，人生却不会重启。\n#mtf #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074852197125509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtbFIsa0AA4dbq.jpg",
+        "width": 1413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2074877399536480470",
+        "created_at": "2026-07-08T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074877399536480470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "变性手术"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944674675227054081",
+              "start": 3,
+              "username": "chengqing198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074877399536480470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074852200044777961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengqing198: 人生副本：#变性手术 后的一生\n你在病床上醒来，下体承受着手术后的胀痛。\n从青春期漫长的性别焦虑，到省吃俭用攒够手术费，20年的夙愿达成了。\n但当新的身份证到手，恢复的痛苦、生活的压力，依然存在。\n性别可以更正，人生却不会重启。\n#mtf #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074852197125509120"
+          ]
+        },
+        "author_id": "1944674675227054081",
+        "conversation_id": "2074852200044777961",
+        "created_at": "2026-07-08T13:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074852200044777961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "变性手术"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "mtf"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "变性人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wK440gdcyR",
+              "end": 148,
+              "expanded_url": "https://x.com/chengqing198/status/2074852200044777961/photo/1",
+              "media_key": "3_2074852197125509120",
+              "start": 125,
+              "url": "https://t.co/wK440gdcyR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "2074852200044777961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1702,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人生副本：#变性手术 后的一生\n你在病床上醒来，下体承受着手术后的胀痛。\n从青春期漫长的性别焦虑，到省吃俭用攒够手术费，20年的夙愿达成了。\n但当新的身份证到手，恢复的痛苦、生活的压力，依然存在。\n性别可以更正，人生却不会重启。\n#mtf #变性人 https://t.co/wK440gdcyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 918,
+          "like_count": 20793,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:26:02.000Z",
+        "description": "术后mtf已改证，生态学读博中，爱昆虫爱摄影，＋v🚪zfb口令128",
+        "id": "1944674675227054081",
+        "location": "Lao People's Democratic Republ",
+        "name": "🍥酸奶大福🍥",
+        "pinned_tweet_id": "2017963789057237413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013281816107458560/U2_eBVQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8899,
+          "following_count": 49,
+          "like_count": 4,
+          "listed_count": 45,
+          "media_count": 163,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "chengqing198",
+        "verified": false
+      }
+    ]
+  }
+}

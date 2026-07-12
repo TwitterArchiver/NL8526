@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073711283166498816"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2073648200943325496",
+    "created_at": "2026-07-05T10:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073711286131777881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5r49EdK75",
+          "end": 44,
+          "expanded_url": "https://x.com/NL8526/status/2073711286131777881/photo/1",
+          "media_key": "3_2073711283166498816",
+          "start": 21,
+          "url": "https://t.co/z5r49EdK75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073711286131777881",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073648200943325496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 自定义😋 https://t.co/z5r49EdK75"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073711283166498816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdNbM_b0AAwuqY.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073648198330314752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcUDLqbcAAUGHW.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073711283166498816"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2073648200943325496",
+        "created_at": "2026-07-05T10:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073711286131777881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5r49EdK75",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/2073711286131777881/photo/1",
+              "media_key": "3_2073711283166498816",
+              "start": 21,
+              "url": "https://t.co/z5r49EdK75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073711286131777881",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073648200943325496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 自定义😋 https://t.co/z5r49EdK75"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073648198330314752"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2073648200943325496",
+        "created_at": "2026-07-05T06:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073648200943325496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkDu6SlSQM",
+              "end": 47,
+              "expanded_url": "https://x.com/RainEngine2024/status/2073648200943325496/photo/1",
+              "media_key": "3_2073648198330314752",
+              "start": 24,
+              "url": "https://t.co/fkDu6SlSQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073648200943325496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1283,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才发现原来oplus的指纹锁屏界面能截屏？？ https://t.co/fkDu6SlSQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 896,
+          "like_count": 19867,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/最喜欢的姐姐🥰 @AotraWong  /PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10657,
+          "following_count": 984,
+          "like_count": 97402,
+          "listed_count": 25,
+          "media_count": 2025,
+          "tweet_count": 13677
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

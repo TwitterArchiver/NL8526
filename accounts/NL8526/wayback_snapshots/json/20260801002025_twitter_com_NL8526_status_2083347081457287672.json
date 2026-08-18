@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2083241215554904416",
+    "created_at": "2026-08-01T00:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083347081457287672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083347081457287672",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083241215554904416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2083241208319713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOko12taIAABRhs.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2083241215554904416",
+        "created_at": "2026-08-01T00:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083347081457287672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083347081457287672",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083241215554904416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083241208319713280"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "conversation_id": "2083241215554904416",
+        "created_at": "2026-07-31T17:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083241215554904416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWd2G5Nn4z",
+              "end": 46,
+              "expanded_url": "https://x.com/Kazama_Nagi_/status/2083241215554904416/photo/1",
+              "media_key": "3_2083241208319713280",
+              "start": 23,
+              "url": "https://t.co/sWd2G5Nn4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083241215554904416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nag酱好高兴~\n401fo了！\n感谢大家！ https://t.co/sWd2G5Nn4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 981,
+          "like_count": 25208,
+          "listed_count": 6,
+          "media_count": 291,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🏫高中生（准确来讲应该是准高一，还没开学）\n❌无任何政治立场\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n5HBg"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "location": "Canada",
+        "name": "Kazama_Nagi🏳️‍⚧️",
+        "pinned_tweet_id": "2082542758959702183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 492,
+          "like_count": 461,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/evOh4n5HBg",
+        "username": "Kazama_Nagi_",
+        "verified": false
+      }
+    ]
+  }
+}

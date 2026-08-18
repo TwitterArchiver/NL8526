@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2068277520898908593",
+    "created_at": "2026-07-30T09:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082767550920925275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926932092228661248",
+          "start": 0,
+          "username": "XiJinPing__1989"
+        },
+        {
+          "end": 30,
+          "id": "1505341920452624386",
+          "start": 17,
+          "username": "syllabubunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082767550920925275",
+    "in_reply_to_user_id": "1926932092228661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068392971842769134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJinPing__1989 @syllabubunny 爱吃屎🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068277520898908593",
+        "created_at": "2026-07-30T09:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082767550920925275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926932092228661248",
+              "start": 0,
+              "username": "XiJinPing__1989"
+            },
+            {
+              "end": 30,
+              "id": "1505341920452624386",
+              "start": 17,
+              "username": "syllabubunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082767550920925275",
+        "in_reply_to_user_id": "1926932092228661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068392971842769134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJinPing__1989 @syllabubunny 爱吃屎🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926932092228661248",
+        "conversation_id": "2068277520898908593",
+        "created_at": "2026-06-20T17:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068392971842769134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505341920452624386",
+              "start": 0,
+              "username": "syllabubunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068392971842769134",
+        "in_reply_to_user_id": "1505341920452624386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068277520898908593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syllabubunny 想吃你的屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 977,
+          "like_count": 24984,
+          "listed_count": 6,
+          "media_count": 287,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T09:23:17.000Z",
+        "description": "男，汉族，1953年6月生，陕西富平人，1969年1月参加工作，1974年1月加入中国共产党，清华大学人文社会学院马克思主义理论与思想政治教育专业毕业，在职研究生学历，法学博士学位。现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。",
+        "id": "1926932092228661248",
+        "location": "秦城监狱",
+        "name": "习近平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926932278724210688/-oDs-Kl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 386,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "XiJinPing__1989",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T00:34:39.000Z",
+        "description": "有门 无福利 不接推广",
+        "id": "1505341920452624386",
+        "name": "朗姆甜酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872948201332015104/2Nf_UhzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85240,
+          "following_count": 168,
+          "like_count": 5056,
+          "listed_count": 303,
+          "media_count": 153,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "syllabubunny",
+        "verified": false
+      }
+    ]
+  }
+}

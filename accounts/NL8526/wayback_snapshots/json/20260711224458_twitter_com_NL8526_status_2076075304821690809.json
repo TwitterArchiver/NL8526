@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076075302435037184"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1492635984709636098",
+          "name": "Ghana Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492635984709636098",
+          "name": "Ghana Premier League"
+        }
+      }
+    ],
+    "conversation_id": "2076075304821690809",
+    "created_at": "2026-07-11T22:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T23:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076075304821690809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7K2Xw41vhB",
+          "end": 171,
+          "expanded_url": "https://x.com/NL8526/status/2076075304821690809/photo/1",
+          "media_key": "3_2076075302435037184",
+          "start": 148,
+          "url": "https://t.co/7K2Xw41vhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076075304821690809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 523,
+            "start": 513,
+            "tag": "LuminolMC"
+          },
+          {
+            "end": 533,
+            "start": 524,
+            "tag": "CanvasMC"
+          },
+          {
+            "end": 544,
+            "start": 534,
+            "tag": "Minecraft"
+          },
+          {
+            "end": 556,
+            "start": 545,
+            "tag": "OpenSource"
+          },
+          {
+            "end": 564,
+            "start": 557,
+            "tag": "GitHub"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "nexusmc.cn/forum/post/lum…",
+            "end": 511,
+            "expanded_url": "https://www.nexusmc.cn/forum/post/luminolmc-canvasmc-gpl-3-0",
+            "start": 488,
+            "url": "https://t.co/P4jyky5fPN"
+          }
+        ]
+      },
+      "text": "🚨“开放使用”绝不等于可以肆意“洗代码”！大家都来评评理！😡\n\n​最近 Minecraft 服务端核心 LuminolMC 宣布全面停更并彻底删库。起因是团队公开指控 CanvasMC 严重违反 GPL-3.0 开源协议，在偷偷搬运 Luminol 的跨区域移动修复、世界卸载等多处核心 API 代码时，故意把原作者的署名、来源和协议删得一干二净，反手贴上“Canvas 自有实现”的标签。\n​最让人恶心的是被抓包后这群侵权者的嘴脸 🤮。他们在私下社区里毫无悔意，摆出一副极其傲慢和轻蔑的态度推诿扯皮：“这真的很微不足道”、“灵感借鉴不算偷”、“只是手动打补丁时不小心滑过去了”。\n​原创团队向 GitHub 提交 DMCA 维权了整整一个月未果，每天还要被迫卷入这群无赖没有底线的无休止周旋中。核心维护者 EarthMe 最终在身体与精神的双重折磨下被彻底气绝，愤而删除了所有核心项目，注销账号彻底退网。\n​开源圈的协作基石是尊重贡献者署名。如果劣币驱逐良币，纵容这种一边疯狂白嫖成果一边还要把原创者逼死的无赖，谁还愿意为爱发电做开源？！🤬\n​🔗完整事实对比与洗代码证据链：https://t.co/P4jyky5fPN\n​#LuminolMC #CanvasMC #Minecraft #OpenSource #GitHub"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚨“开放使用”绝不等于可以肆意“洗代码”！大家都来评评理！😡\n\n​最近 Minecraft 服务端核心 LuminolMC 宣布全面停更并彻底删库。起因是团队公开指控 CanvasMC 严重违反 GPL-3.0 开源协议，在偷偷搬运 Luminol 的跨区域移动修复、世界卸载等多处核心 API https://t.co/7K2Xw41vhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2076075302435037184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-zfPCaIAAlkEH.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076075302435037184"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          }
+        ],
+        "conversation_id": "2076075304821690809",
+        "created_at": "2026-07-11T22:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076075304821690809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7K2Xw41vhB",
+              "end": 171,
+              "expanded_url": "https://x.com/NL8526/status/2076075304821690809/photo/1",
+              "media_key": "3_2076075302435037184",
+              "start": 148,
+              "url": "https://t.co/7K2Xw41vhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076075304821690809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 523,
+                "start": 513,
+                "tag": "LuminolMC"
+              },
+              {
+                "end": 533,
+                "start": 524,
+                "tag": "CanvasMC"
+              },
+              {
+                "end": 544,
+                "start": 534,
+                "tag": "Minecraft"
+              },
+              {
+                "end": 556,
+                "start": 545,
+                "tag": "OpenSource"
+              },
+              {
+                "end": 564,
+                "start": 557,
+                "tag": "GitHub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nexusmc.cn/forum/post/lum…",
+                "end": 511,
+                "expanded_url": "https://www.nexusmc.cn/forum/post/luminolmc-canvasmc-gpl-3-0",
+                "start": 488,
+                "url": "https://t.co/P4jyky5fPN"
+              }
+            ]
+          },
+          "text": "🚨“开放使用”绝不等于可以肆意“洗代码”！大家都来评评理！😡\n\n​最近 Minecraft 服务端核心 LuminolMC 宣布全面停更并彻底删库。起因是团队公开指控 CanvasMC 严重违反 GPL-3.0 开源协议，在偷偷搬运 Luminol 的跨区域移动修复、世界卸载等多处核心 API 代码时，故意把原作者的署名、来源和协议删得一干二净，反手贴上“Canvas 自有实现”的标签。\n​最让人恶心的是被抓包后这群侵权者的嘴脸 🤮。他们在私下社区里毫无悔意，摆出一副极其傲慢和轻蔑的态度推诿扯皮：“这真的很微不足道”、“灵感借鉴不算偷”、“只是手动打补丁时不小心滑过去了”。\n​原创团队向 GitHub 提交 DMCA 维权了整整一个月未果，每天还要被迫卷入这群无赖没有底线的无休止周旋中。核心维护者 EarthMe 最终在身体与精神的双重折磨下被彻底气绝，愤而删除了所有核心项目，注销账号彻底退网。\n​开源圈的协作基石是尊重贡献者署名。如果劣币驱逐良币，纵容这种一边疯狂白嫖成果一边还要把原创者逼死的无赖，谁还愿意为爱发电做开源？！🤬\n​🔗完整事实对比与洗代码证据链：https://t.co/P4jyky5fPN\n​#LuminolMC #CanvasMC #Minecraft #OpenSource #GitHub"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚨“开放使用”绝不等于可以肆意“洗代码”！大家都来评评理！😡\n\n​最近 Minecraft 服务端核心 LuminolMC 宣布全面停更并彻底删库。起因是团队公开指控 CanvasMC 严重违反 GPL-3.0 开源协议，在偷偷搬运 Luminol 的跨区域移动修复、世界卸载等多处核心 API https://t.co/7K2Xw41vhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 919,
+          "like_count": 21285,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

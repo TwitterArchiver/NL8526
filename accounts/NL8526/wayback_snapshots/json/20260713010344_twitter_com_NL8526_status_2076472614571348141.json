@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2076472614571348141",
+    "created_at": "2026-07-13T01:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076472614571348141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045224199120191488",
+          "start": 3,
+          "username": "nagis1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076472614571348141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076268843580948892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nagis1a: 你别说，我突然感觉中国这种制度对跨来说挺好的，虽然简单粗暴，但切了法律上就是女的，有这种权利，所以只是经济问题…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2076472614571348141",
+        "created_at": "2026-07-13T01:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076472614571348141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045224199120191488",
+              "start": 3,
+              "username": "nagis1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076472614571348141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076268843580948892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nagis1a: 你别说，我突然感觉中国这种制度对跨来说挺好的，虽然简单粗暴，但切了法律上就是女的，有这种权利，所以只是经济问题…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045224199120191488",
+        "conversation_id": "2076268843580948892",
+        "created_at": "2026-07-12T11:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076268843580948892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076268843580948892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你别说，我突然感觉中国这种制度对跨来说挺好的，虽然简单粗暴，但切了法律上就是女的，有这种权利，所以只是经济问题\n\n经济问题比身分问题好解决多了，如果演变为身分问题就会出现「切了本质也不是女的」与「不切也是女的」的政治争论，反而最终有可能会变成「切了也不是、不可以」的问题，对跨反而不好\n\n毕竟经济问题「有希望」解决，而身分问题锁死在出生时的生殖器了\n\n我不是粉红跨，别喷我，我只是突然想到"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3571,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "你别说，我突然感觉中国这种制度对跨来说挺好的，虽然简单粗暴，但切了法律上就是女的，有这种权利，所以只是经济问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3494,
+          "following_count": 920,
+          "like_count": 21429,
+          "listed_count": 6,
+          "media_count": 240,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2075159330962506026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 267,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": true
+      }
+    ]
+  }
+}

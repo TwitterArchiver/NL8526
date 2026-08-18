@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2084135774623342592"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2084135817409351875",
+    "created_at": "2026-08-03T04:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084135817409351875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLXbAMsFfQ",
+          "end": 32,
+          "expanded_url": "https://x.com/NL8526/status/2084135817409351875/video/1",
+          "media_key": "7_2084135774623342592",
+          "start": 9,
+          "url": "https://t.co/bLXbAMsFfQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084135817409351875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地推的真绷不住了 https://t.co/bLXbAMsFfQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26842,
+        "height": 1024,
+        "media_key": "7_2084135774623342592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084135774623342592/pu/img/1iuWRxU0yx0rQ6RY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084135774623342592/pu/vid/avc1/320x568/wiNbo9HQUhGoCPs7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084135774623342592/pu/vid/avc1/480x852/eLrqfSOeiyZA25_p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084135774623342592/pu/vid/avc1/576x1024/OV_hRRmkTb_-ZpGD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084135774623342592/pu/pl/3vHxITpHqEQ9nq7t.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084135774623342592"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2084135817409351875",
+        "created_at": "2026-08-03T04:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084135817409351875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLXbAMsFfQ",
+              "end": 32,
+              "expanded_url": "https://x.com/NL8526/status/2084135817409351875/video/1",
+              "media_key": "7_2084135774623342592",
+              "start": 9,
+              "url": "https://t.co/bLXbAMsFfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084135817409351875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地推的真绷不住了 https://t.co/bLXbAMsFfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 997,
+          "like_count": 25505,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

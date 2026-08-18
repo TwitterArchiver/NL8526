@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2085027221027373277",
+    "created_at": "2026-08-06T03:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085203059366670633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085203059366670633",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085027221027373277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ （哭出来是男声）\n更难受了…\n于是噤声……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2085027221027373277",
+        "created_at": "2026-08-06T03:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085203059366670633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085203059366670633",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085027221027373277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ （哭出来是男声）\n更难受了…\n于是噤声……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2085027221027373277",
+        "created_at": "2026-08-05T15:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085027221027373277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkanoQWQ/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/AkanoQWQ/status/2085022637450027391",
+              "start": 18,
+              "url": "https://t.co/WgBuxWFBY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085027221027373277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1338,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085022637450027391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂哭出来的声音是男的的那种救赎感 https://t.co/WgBuxWFBY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3796,
+          "following_count": 1004,
+          "like_count": 25970,
+          "listed_count": 6,
+          "media_count": 301,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 298,
+          "like_count": 1679,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

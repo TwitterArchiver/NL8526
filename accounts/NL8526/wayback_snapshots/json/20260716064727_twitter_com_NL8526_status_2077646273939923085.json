@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2077646273939923085",
+    "created_at": "2026-07-16T06:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077646273939923085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077646273939923085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "各位音游大佬好呀🥺🐥\n我是笨笨的萌新小菜鸡！\n看大家打歌超丝滑超厉害，我羡慕得两眼冒星星🥹🌟\n可是我手特别迟钝，音符一过来就疯狂miss😭💦\n眼睛看懂操作，小手完全跟不上节奏，怎么练习都摸不到门路😣🎶\n脑子记住的技巧，实操的时候全部乱套啦qwq😵\n有没有大佬愿意抽空教教我指法和卡点小技巧呀🙇‍♀️🙏\n麻烦大家多多指点一下笨笨的我，万分感谢啦🥰💖"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位音游大佬好呀🥺🐥\n我是笨笨的萌新小菜鸡！\n看大家打歌超丝滑超厉害，我羡慕得两眼冒星星🥹🌟\n可是我手特别迟钝，音符一过来就疯狂miss😭💦\n眼睛看懂操作，小手完全跟不上节奏，怎么练习都摸不到门路😣🎶\n脑子记住的技巧，实操的时候全部乱套啦qwq😵\n有没有大佬愿意抽空教教我指法和卡点小技巧呀🙇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2077646273939923085",
+        "created_at": "2026-07-16T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077646273939923085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077646273939923085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "各位音游大佬好呀🥺🐥\n我是笨笨的萌新小菜鸡！\n看大家打歌超丝滑超厉害，我羡慕得两眼冒星星🥹🌟\n可是我手特别迟钝，音符一过来就疯狂miss😭💦\n眼睛看懂操作，小手完全跟不上节奏，怎么练习都摸不到门路😣🎶\n脑子记住的技巧，实操的时候全部乱套啦qwq😵\n有没有大佬愿意抽空教教我指法和卡点小技巧呀🙇‍♀️🙏\n麻烦大家多多指点一下笨笨的我，万分感谢啦🥰💖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位音游大佬好呀🥺🐥\n我是笨笨的萌新小菜鸡！\n看大家打歌超丝滑超厉害，我羡慕得两眼冒星星🥹🌟\n可是我手特别迟钝，音符一过来就疯狂miss😭💦\n眼睛看懂操作，小手完全跟不上节奏，怎么练习都摸不到门路😣🎶\n脑子记住的技巧，实操的时候全部乱套啦qwq😵\n有没有大佬愿意抽空教教我指法和卡点小技巧呀🙇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私🩵 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 932,
+          "like_count": 21986,
+          "listed_count": 6,
+          "media_count": 250,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

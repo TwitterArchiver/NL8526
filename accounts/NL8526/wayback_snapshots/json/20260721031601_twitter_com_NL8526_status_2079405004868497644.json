@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2079281921969013179",
+    "created_at": "2026-07-21T03:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079405004868497644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "KitsuMio7"
+        },
+        {
+          "end": 23,
+          "id": "2066567281711431681",
+          "start": 11,
+          "username": "Glaxyplayer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079405004868497644",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079281921969013179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio7 @Glaxyplayer ban位+1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079281912527650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsX4ggbAAAZ-tL.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2079281921969013179",
+        "created_at": "2026-07-21T03:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079405004868497644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "KitsuMio7"
+            },
+            {
+              "end": 23,
+              "id": "2066567281711431681",
+              "start": 11,
+              "username": "Glaxyplayer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079405004868497644",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079281921969013179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio7 @Glaxyplayer ban位+1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079281912527650816"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2079281921969013179",
+        "created_at": "2026-07-20T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079281921969013179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2066567281711431681",
+              "start": 22,
+              "username": "Glaxyplayer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXoubzFP2M",
+              "end": 58,
+              "expanded_url": "https://x.com/KitsuMio7/status/2079281921969013179/photo/1",
+              "media_key": "3_2079281912527650816",
+              "start": 35,
+              "url": "https://t.co/AXoubzFP2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079281921969013179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1448,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您究竟是为什么对 MtF 有这么大恶意呢？\n@Glaxyplayer https://t.co/AXoubzFP2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私🩵 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3555,
+          "following_count": 942,
+          "like_count": 22915,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1202,
+          "like_count": 2317,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T17:05:18.000Z",
+        "description": "",
+        "id": "2066567281711431681",
+        "name": "G laxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066568319239663616/S1jhW360_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Glaxyplayer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2076567171501846758",
+    "created_at": "2026-07-13T07:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076567171501846758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiutao1034/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiutao1034/status/2076188743204028630",
+          "start": 14,
+          "url": "https://t.co/GX9qlkzEgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076567171501846758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076188743204028630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要变成这种萌萌的妹子😭 https://t.co/GX9qlkzEgX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076188722823925760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAapK6XkAAkPju.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2076567171501846758",
+        "created_at": "2026-07-13T07:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076567171501846758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiutao1034/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiutao1034/status/2076188743204028630",
+              "start": 14,
+              "url": "https://t.co/GX9qlkzEgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076567171501846758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076188743204028630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要变成这种萌萌的妹子😭 https://t.co/GX9qlkzEgX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076188722823925760"
+          ]
+        },
+        "author_id": "2050537864908128256",
+        "conversation_id": "2076188743204028630",
+        "created_at": "2026-07-12T06:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076188743204028630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onr0eXVOLm",
+              "end": 35,
+              "expanded_url": "https://x.com/jiutao1034/status/2076188743204028630/photo/1",
+              "media_key": "3_2076188722823925760",
+              "start": 12,
+              "url": "https://t.co/onr0eXVOLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076188743204028630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6814,
+          "like_count": 216,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "神秘黑色系小跨妹出行中 https://t.co/onr0eXVOLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3497,
+          "following_count": 921,
+          "like_count": 21497,
+          "listed_count": 6,
+          "media_count": 242,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072324031664275752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 192,
+          "like_count": 148,
+          "listed_count": 6,
+          "media_count": 40,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "jiutao1034",
+        "verified": true
+      }
+    ]
+  }
+}

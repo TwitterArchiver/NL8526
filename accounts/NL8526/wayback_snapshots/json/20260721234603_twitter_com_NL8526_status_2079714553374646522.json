@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2079669745402732879",
+    "created_at": "2026-07-21T23:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079714553374646522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079714553374646522",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079669745402732879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 看看kawaii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2076625595002437632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGn-emawAAMaPT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2079669745402732879",
+        "created_at": "2026-07-21T23:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079714553374646522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079714553374646522",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079669745402732879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 看看kawaii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076625595002437632"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2079669745402732879",
+        "created_at": "2026-07-21T20:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079669745402732879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6RgoOPgkx",
+              "end": 291,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2079669745402732879/photo/1",
+              "media_key": "3_2076625595002437632",
+              "start": 268,
+              "url": "https://t.co/y6RgoOPgkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079669745402732879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Today’s article discusses the differences between Western and Eastern aesthetics.\n\nFirst of all, there are significant differences between the two sides in terms of aesthetics and social norms. Western culture often tends to appreciate more mature styles of women and crossdressers, while Eastern culture, especially influenced by Japanese anime and otaku culture, often embraces cute, youthful, and “kawaii” aesthetics.\n\nThis difference can be seen in the way people dress online. Whether it’s cisgender women, crossdressers, femboys, or transgender women, the styles and expressions can be very different between Western and Eastern communities. In China, the influence of Japanese anime culture has made the cute aesthetic especially widespread.\n\nSo what do I want to say?\n\nDifferent cultures have different values and aesthetics. We should try to understand and respect each other’s cultural backgrounds.\n\nTo my friends in the Western world: I believe many of you also appreciate cute aesthetics. Perhaps certain social or legal environments create different boundaries in your countries. When you see cute and unique expressions from Eastern cultures, I hope you can view them with curiosity and appreciation, rather than immediately judging them as “wrong,” “illegal,” or “immoral.”\n\nCultural differences are worth understanding, not attacking.\n\nThank you for reading. Feel free to share your own opinions in the comments."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2163,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Today’s article discusses the differences between Western and Eastern aesthetics.\n\nFirst of all, there are significant differences between the two sides in terms of aesthetics and social norms. Western culture often tends to appreciate more mature styles of women and https://t.co/y6RgoOPgkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 947,
+          "like_count": 23247,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "🚪59🉑✈️｜私信DM｜tele同x｜蓝v必回耐心等待",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14663,
+          "following_count": 1038,
+          "like_count": 1193,
+          "listed_count": 32,
+          "media_count": 562,
+          "tweet_count": 2634
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

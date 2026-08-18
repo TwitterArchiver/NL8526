@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2082653419173761035",
+    "created_at": "2026-07-30T02:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082653419173761035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "741127492614950913",
+          "start": 3,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082653419173761035",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082391917162021009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Lakr233: Welcome to the Relaxin Public Beta! 🍾\n\nThis is a public beta, so bugs, instability, and compatibility issues are expected. If…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082391401955049473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYj8nTbwAEHFi9.jpg",
+        "width": 2920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2082653419173761035",
+        "created_at": "2026-07-30T02:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082653419173761035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "741127492614950913",
+              "start": 3,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082653419173761035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082391917162021009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Lakr233: Welcome to the Relaxin Public Beta! 🍾\n\nThis is a public beta, so bugs, instability, and compatibility issues are expected. If…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082391401955049473"
+          ]
+        },
+        "author_id": "741127492614950913",
+        "conversation_id": "2082391917162021009",
+        "created_at": "2026-07-29T09:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082391917162021009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UUCwETOyN",
+              "end": 302,
+              "expanded_url": "https://x.com/Lakr233/status/2082391917162021009/photo/1",
+              "media_key": "3_2082391401955049473",
+              "start": 279,
+              "url": "https://t.co/4UUCwETOyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082391917162021009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Welcome to the Relaxin Public Beta! 🍾\n\nThis is a public beta, so bugs, instability, and compatibility issues are expected. If you encounter a problem, please search for relevant information and attempt to troubleshoot it yourself first.\n\nPPL devices are not currently supported. However, experimental PPL-related code is included for testing. Experienced developers are welcome to investigate and enable it at their own risk. We strongly advise regular users not to do so.\n\nJailbreaking carries inherent risks, including data loss, system instability, or an unbootable device. Back up your important data and proceed only if you understand the risks. The developers and contributors accept no responsibility for any damage, data loss, or other issues resulting from the installation, use, or modification of Relaxin.\n\n欢迎来到 Relaxin 公开测试版！🍾\n\n由于这是公开测试版，出现 Bug、不稳定和兼容性问题是正常现象。如果遇到问题，请先自行搜索相关信息并尝试排障。\n\n目前暂不支持 PPL 设备。不过，测试版中包含了实验性的 PPL 相关代码。欢迎有经验的开发者进行研究并自行承担风险启用，但我们强烈建议普通用户不要尝试。\n\n越狱存在固有风险，可能导致数据丢失、系统不稳定或设备无法启动（变砖）。请务必备份您的重要数据，并在充分了解风险后再继续操作。对于因安装、使用或修改 Relaxin 所导致的任何损坏、数据丢失或其他问题，开发者及贡献者概不负责。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 71723,
+          "like_count": 502,
+          "quote_count": 16,
+          "reply_count": 13,
+          "retweet_count": 120
+        },
+        "reply_settings": "other",
+        "text": "Welcome to the Relaxin Public Beta! 🍾\n\nThis is a public beta, so bugs, instability, and compatibility issues are expected. If you encounter a problem, please search for relevant information and attempt to troubleshoot it yourself first.\n\nPPL devices are not currently supported. https://t.co/4UUCwETOyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 972,
+          "like_count": 24882,
+          "listed_count": 6,
+          "media_count": 285,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwvGx5 的链接。 #-a-different-kind-of-human.\n\nPs: 若是被认定为生成式推文账号，则会被关小黑屋。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwvGx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "砍砍.ᐟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861408647602176/R4ipccSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36591,
+          "following_count": 410,
+          "like_count": 63877,
+          "listed_count": 236,
+          "media_count": 97,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": true
+      }
+    ]
+  }
+}

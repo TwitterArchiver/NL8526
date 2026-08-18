@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2076711225434743295",
+    "created_at": "2026-07-19T10:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078789040753811478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767835046600474624",
+          "start": 0,
+          "username": "haha44444qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078789040753811478",
+    "in_reply_to_user_id": "1767835046600474624",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076711225434743295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haha44444qwq wow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076711212856025091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH12F9aoAM1BEX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2076711225434743295",
+        "created_at": "2026-07-19T10:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078789040753811478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767835046600474624",
+              "start": 0,
+              "username": "haha44444qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078789040753811478",
+        "in_reply_to_user_id": "1767835046600474624",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076711225434743295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haha44444qwq wow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076711212856025091"
+          ]
+        },
+        "author_id": "1767835046600474624",
+        "conversation_id": "2076711225434743295",
+        "created_at": "2026-07-13T16:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076711225434743295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSM9izdgjC",
+              "end": 46,
+              "expanded_url": "https://x.com/haha44444qwq/status/2076711225434743295/photo/1",
+              "media_key": "3_2076711212856025091",
+              "start": 23,
+              "url": "https://t.co/BSM9izdgjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076711225434743295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌国内现货，360一盒，需要私聊，稳定便宜 https://t.co/BSM9izdgjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私🩵 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 934,
+          "like_count": 22571,
+          "listed_count": 6,
+          "media_count": 254,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T08:48:30.000Z",
+        "description": "@haha44444awa 重生号|infp-t |05年mtf|泛性恋|hrt:2022/9|2b2t玩家/minecraft玩家/服主|技术党|家里云万岁|音游|kotlin| 老公 @Nazuan086374173 |xyn都会写代码😎| 还我2k粉丝QAQ 我他妈成年了 别封我号😡😡😡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "haha44444awa"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Nazuan086374173"
+              }
+            ]
+          }
+        },
+        "id": "1767835046600474624",
+        "location": "localhost",
+        "name": "haha44444🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775602322154102784/dViOiawi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 7197,
+          "like_count": 9357,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "haha44444qwq",
+        "verified": false
+      }
+    ]
+  }
+}

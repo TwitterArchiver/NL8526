@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016720810002796544"
+      ],
+      "media_source_tweet_id": [
+        "2016720824712171549"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2078877786614440312",
+    "created_at": "2026-07-19T16:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078877786614440312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEDPHOIcUe",
+          "end": 74,
+          "expanded_url": "https://x.com/NL8526/status/2016720824712171549/photo/1",
+          "media_key": "3_2016720810002796544",
+          "start": 51,
+          "url": "https://t.co/CEDPHOIcUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078877786614440312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016720824712171549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 小药娘呀 你连出生时50％概率的女生性别都没有赌到现在还想去赌1％的家长党嘛 https://t.co/CEDPHOIcUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2016720810002796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zU5ENa0AAIwOG.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016720810002796544"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2016720824712171549",
+        "created_at": "2026-01-29T03:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T04:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016720824712171549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEDPHOIcUe",
+              "end": 62,
+              "expanded_url": "https://x.com/NL8526/status/2016720824712171549/photo/1",
+              "media_key": "3_2016720810002796544",
+              "start": 39,
+              "url": "https://t.co/CEDPHOIcUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016720824712171549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 116798,
+          "like_count": 3144,
+          "quote_count": 13,
+          "reply_count": 67,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘呀 你连出生时50％概率的女生性别都没有赌到现在还想去赌1％的家长党嘛 https://t.co/CEDPHOIcUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016720810002796544"
+          ],
+          "media_source_tweet_id": [
+            "2016720824712171549"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2078877786614440312",
+        "created_at": "2026-07-19T16:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078877786614440312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEDPHOIcUe",
+              "end": 74,
+              "expanded_url": "https://x.com/NL8526/status/2016720824712171549/photo/1",
+              "media_key": "3_2016720810002796544",
+              "start": 51,
+              "url": "https://t.co/CEDPHOIcUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078877786614440312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016720824712171549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 小药娘呀 你连出生时50％概率的女生性别都没有赌到现在还想去赌1％的家长党嘛 https://t.co/CEDPHOIcUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私🩵 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 937,
+          "like_count": 22624,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

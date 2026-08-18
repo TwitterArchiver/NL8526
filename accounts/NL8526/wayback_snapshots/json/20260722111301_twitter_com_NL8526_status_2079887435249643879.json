@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079887432447881216"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2079887435249643879",
+    "created_at": "2026-07-22T11:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079887435249643879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "大学生赚钱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOZPITEgqm",
+          "end": 30,
+          "expanded_url": "https://x.com/NL8526/status/2079887435249643879/photo/1",
+          "media_key": "3_2079887432447881216",
+          "start": 7,
+          "url": "https://t.co/UOZPITEgqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079887435249643879",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#大学生赚钱 https://t.co/UOZPITEgqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079887432447881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0-mZ_a8AAfGy-.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079887432447881216"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2079887435249643879",
+        "created_at": "2026-07-22T11:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079887435249643879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "大学生赚钱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOZPITEgqm",
+              "end": 30,
+              "expanded_url": "https://x.com/NL8526/status/2079887435249643879/photo/1",
+              "media_key": "3_2079887432447881216",
+              "start": 7,
+              "url": "https://t.co/UOZPITEgqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079887435249643879",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#大学生赚钱 https://t.co/UOZPITEgqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 955,
+          "like_count": 23403,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

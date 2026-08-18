@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081739993358409728"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2081600681287602221",
+    "created_at": "2026-07-27T13:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081739995925360736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txXIUwe5oe",
+          "end": 34,
+          "expanded_url": "https://x.com/NL8526/status/2081739995925360736/photo/1",
+          "media_key": "3_2081739993358409728",
+          "start": 11,
+          "url": "https://t.co/txXIUwe5oe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081739995925360736",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081600681287602221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama https://t.co/txXIUwe5oe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2081739993358409728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPTfpLaIAAWVFl.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081739993358409728"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2081600681287602221",
+        "created_at": "2026-07-27T13:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081739995925360736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txXIUwe5oe",
+              "end": 34,
+              "expanded_url": "https://x.com/NL8526/status/2081739995925360736/photo/1",
+              "media_key": "3_2081739993358409728",
+              "start": 11,
+              "url": "https://t.co/txXIUwe5oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081739995925360736",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081600681287602221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama https://t.co/txXIUwe5oe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2081600681287602221",
+        "created_at": "2026-07-27T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081600681287602221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个被反复提到的现象 在跨性别女性和药娘的社群里，\"味道变了\"几乎是个共识级别的观察 有人说是奶味，有人说像刚洗过的棉布，有人只是含糊地说\"变干净了\" 这件事听起来很像玄学，但它其实可以拆成四层完全物质性的变化， 皮脂、腺体、分子、菌群， 每一层都被激素直接或间接地改写过 第一层：皮脂腺被关小了 雄激素是皮脂腺最主要的开关 睾酮和它在皮肤局部转化成的双氢睾酮...",
+              "display_url": "mahiro.uk/articles/why-x…",
+              "end": 23,
+              "expanded_url": "https://mahiro.uk/articles/why-xyn-smells-good",
+              "start": 0,
+              "status": 200,
+              "title": "药娘身上的\"香味\"是怎么来的",
+              "unwound_url": "https://mahiro.uk/articles/why-xyn-smells-good",
+              "url": "https://t.co/pzb8ikxXf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081600681287602221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1350,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pzb8ikxXf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 954,
+          "like_count": 24195,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 78,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 55,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7349,
+          "following_count": 2607,
+          "like_count": 14167,
+          "listed_count": 14,
+          "media_count": 2419,
+          "tweet_count": 8887
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

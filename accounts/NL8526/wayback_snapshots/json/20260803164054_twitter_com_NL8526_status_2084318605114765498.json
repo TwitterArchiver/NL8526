@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2084283552917840137",
+    "created_at": "2026-08-03T16:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084318605114765498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530060423025655808",
+          "start": 0,
+          "username": "AyumiP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084318605114765498",
+    "in_reply_to_user_id": "1530060423025655808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084283552917840137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyumiP_Official 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2310,
+        "media_key": "3_2084283477416083456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzcx5qaAAA4kJc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2084283552917840137",
+        "created_at": "2026-08-03T16:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084318605114765498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530060423025655808",
+              "start": 0,
+              "username": "AyumiP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084318605114765498",
+        "in_reply_to_user_id": "1530060423025655808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084283552917840137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyumiP_Official 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084283477416083456"
+          ]
+        },
+        "author_id": "1530060423025655808",
+        "conversation_id": "2084283552917840137",
+        "created_at": "2026-08-03T14:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084283552917840137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7AIHHsEh5",
+              "end": 61,
+              "expanded_url": "https://x.com/AyumiP_Official/status/2084283552917840137/photo/1",
+              "media_key": "3_2084283477416083456",
+              "start": 38,
+              "url": "https://t.co/Y7AIHHsEh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084283552917840137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假装自己很高能量\n好难受好难受好难受好难受好难受好难受好难受好难受\n想死。 https://t.co/Y7AIHHsEh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 1001,
+          "like_count": 25553,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-27T05:36:54.000Z",
+        "description": "沪 07 无证含糖 🏳️‍⚧️ 190天残党 /解离性身份识别障碍/真空花sys/2023.4 HRT/重抑/mixing engineer/guitarist/music producer",
+        "id": "1530060423025655808",
+        "location": "中国上海",
+        "name": "空空空空岛可乐🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038544052942180353/dwhVzgt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 327,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "AyumiP_Official",
+        "verified": false
+      }
+    ]
+  }
+}

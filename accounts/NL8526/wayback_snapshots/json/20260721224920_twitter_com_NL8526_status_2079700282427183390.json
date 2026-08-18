@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2079700282427183390",
+    "created_at": "2026-07-21T22:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079700282427183390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        },
+        {
+          "end": 26,
+          "id": "1884745808605818880",
+          "start": 12,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079700282427183390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079524459216855264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: @Bunbohue40037 能争论起来大家都是有自己的理由。谁也没法代表逝者说话，只是大多数人反对，我也不支持非本人事先声明过的蒸馏。只是我觉得这件事根本没必要吵，甚至那位发起者也根本没有行动。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2079700282427183390",
+        "created_at": "2026-07-21T22:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079700282427183390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            },
+            {
+              "end": 26,
+              "id": "1884745808605818880",
+              "start": 12,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079700282427183390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079524459216855264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: @Bunbohue40037 能争论起来大家都是有自己的理由。谁也没法代表逝者说话，只是大多数人反对，我也不支持非本人事先声明过的蒸馏。只是我觉得这件事根本没必要吵，甚至那位发起者也根本没有行动。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2079236701084581918",
+        "created_at": "2026-07-21T11:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079524459216855264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079524459216855264",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能争论起来大家都是有自己的理由。谁也没法代表逝者说话，只是大多数人反对，我也不支持非本人事先声明过的蒸馏。只是我觉得这件事根本没必要吵，甚至那位发起者也根本没有行动。\n\n这么说并不是我自己想作为AI“存活”下去。现在的蒸馏技术根本算不上数字生命或另一种方式活下去，数字生命是一种形象上的比喻但是一份薄薄的markdown总结文档不可能替代一个人真实的灵魂活下去。\n\n这么说只是自己希望能得到一些关心，我又能被谁记住呢。🙃"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079422923140448564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 能争论起来大家都是有自己的理由。谁也没法代表逝者说话，只是大多数人反对，我也不支持非本人事先声明过的蒸馏。只是我觉得这件事根本没必要吵，甚至那位发起者也根本没有行动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 947,
+          "like_count": 23190,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 529,
+          "like_count": 183559,
+          "listed_count": 5,
+          "media_count": 1408,
+          "tweet_count": 20427
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

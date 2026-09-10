@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2096897919622496740",
+    "created_at": "2026-09-07T12:11:18.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096934333332553894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096934333332553894",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096897919622496740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2096897919622496740",
+        "created_at": "2026-09-07T12:11:18.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096934333332553894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096934333332553894",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096897919622496740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2096897919622496740",
+        "created_at": "2026-09-07T09:46:37.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096897919622496740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096897919622496740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1493,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么感觉群里的小药娘都跟伪人一样，我随便发个啥都搁那“羡慕，好好看”或者类似的话，差点给我恐怖谷效应干出来了😨😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096934333332553894",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 1105,
+          "like_count": 30386,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "is_identity_verified": false,
+        "location": "万达广场楼下",
+        "most_recent_tweet_id": "2096932248809619621",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "pinned_tweet_id": "2096817374087495890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844926832967286785/1774464267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5122,
+          "following_count": 1435,
+          "like_count": 85738,
+          "listed_count": 12,
+          "media_count": 1268,
+          "tweet_count": 25945
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

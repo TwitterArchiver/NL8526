@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089567095399022593",
+        "3_2089567095407427584"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2089360184267411598",
+    "created_at": "2026-08-18T04:16:33.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089567098049909010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079926361557524480",
+          "start": 0,
+          "username": "iwantredeyes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEFu4hHgjt",
+          "end": 72,
+          "expanded_url": "https://x.com/NL8526/status/2089567098049909010/photo/1",
+          "media_key": "3_2089567095399022593",
+          "start": 49,
+          "url": "https://t.co/wEFu4hHgjt"
+        },
+        {
+          "display_url": "pic.x.com/wEFu4hHgjt",
+          "end": 72,
+          "expanded_url": "https://x.com/NL8526/status/2089567098049909010/photo/1",
+          "media_key": "3_2089567095407427584",
+          "start": 49,
+          "url": "https://t.co/wEFu4hHgjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089567098049909010",
+    "in_reply_to_user_id": "2079926361557524480",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089567095399022593"
+      },
+      {
+        "media_key": "3_2089567095407427584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089565750755496074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwantredeyes 国产耳机一般是0.78x2接口的 可以换上\n或者mmcx接口 (图2 https://t.co/wEFu4hHgjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2089567095399022593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iM8eagAEkjm0.jpg",
+        "width": 906
+      },
+      {
+        "height": 966,
+        "media_key": "3_2089567095407427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-iM8gawAAYczB.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089567095399022593",
+            "3_2089567095407427584"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2089360184267411598",
+        "created_at": "2026-08-18T04:16:33.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089567098049909010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEFu4hHgjt",
+              "end": 72,
+              "expanded_url": "https://x.com/NL8526/status/2089567098049909010/photo/1",
+              "media_key": "3_2089567095399022593",
+              "start": 49,
+              "url": "https://t.co/wEFu4hHgjt"
+            },
+            {
+              "display_url": "pic.x.com/wEFu4hHgjt",
+              "end": 72,
+              "expanded_url": "https://x.com/NL8526/status/2089567098049909010/photo/1",
+              "media_key": "3_2089567095407427584",
+              "start": 49,
+              "url": "https://t.co/wEFu4hHgjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089567098049909010",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089567095399022593"
+          },
+          {
+            "media_key": "3_2089567095407427584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089565750755496074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes 国产耳机一般是0.78x2接口的 可以换上\n或者mmcx接口 (图2 https://t.co/wEFu4hHgjt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079926361557524480",
+        "conversation_id": "2089360184267411598",
+        "created_at": "2026-08-18T04:11:11.000Z",
+        "display_text_range": [
+          8,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089565750755496074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089565750755496074",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089360184267411598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 欸这种有线耳机，怎么变成无线…？就算上模块了线能拆掉的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089567098049909010",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 1064,
+          "like_count": 27620,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？@crispyvege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "crispyvege"
+              }
+            ]
+          }
+        },
+        "id": "2079926361557524480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089565850038833593",
+        "name": "红眼病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079926361557524480/1784733399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 74,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

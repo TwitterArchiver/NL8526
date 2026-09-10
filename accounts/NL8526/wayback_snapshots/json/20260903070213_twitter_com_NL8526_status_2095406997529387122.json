@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2095406997529387122",
+    "created_at": "2026-09-03T07:02:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095406997529387122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1190008703967215617",
+          "start": 3,
+          "username": "dirgirat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095406997529387122",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1050
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094811754664435873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dirgirat: es chistoso tener la bandera trans en el nombre pq puedo estar tuiteando que me comí un pan y viene un random a decirme que n…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2095406997529387122",
+        "created_at": "2026-09-03T07:02:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095406997529387122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1190008703967215617",
+              "start": 3,
+              "username": "dirgirat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095406997529387122",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1050
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094811754664435873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dirgirat: es chistoso tener la bandera trans en el nombre pq puedo estar tuiteando que me comí un pan y viene un random a decirme que n…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190008703967215617",
+        "conversation_id": "2094811754664435873",
+        "created_at": "2026-09-01T15:36:56.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094811754664435873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094811754664435873",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 94188,
+          "like_count": 14495,
+          "quote_count": 19,
+          "reply_count": 364,
+          "retweet_count": 1050
+        },
+        "reply_settings": "everyone",
+        "text": "es chistoso tener la bandera trans en el nombre pq puedo estar tuiteando que me comí un pan y viene un random a decirme que nunca seré una mujer\ny yo\n?\npero qué opinas del pan?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095406997529387122",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4043,
+          "following_count": 1070,
+          "like_count": 29853,
+          "listed_count": 7,
+          "media_count": 357,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-31T20:52:49.000Z",
+        "description": "Rinds of parmesan... / \nmy girlfailure deer gf: @yurumorou ❤️ / \nblacky: @8989_blackberry 🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "yurumorou"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "8989_blackberry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/dirgirat",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/dirgirat",
+                "start": 0,
+                "url": "https://t.co/341ddV6nhK"
+              }
+            ]
+          }
+        },
+        "id": "1190008703967215617",
+        "is_identity_verified": false,
+        "location": "Cuenca, Ecuador",
+        "most_recent_tweet_id": "2095353241089241443",
+        "name": "Dir & Gi 🏳️‍⚧️",
+        "pinned_tweet_id": "1941918420422807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190008703967215617/1777142878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077441002378264576/uzFwrJT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 229,
+          "like_count": 32136,
+          "listed_count": 11,
+          "media_count": 1043,
+          "tweet_count": 8784
+        },
+        "url": "https://t.co/341ddV6nhK",
+        "username": "dirgirat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

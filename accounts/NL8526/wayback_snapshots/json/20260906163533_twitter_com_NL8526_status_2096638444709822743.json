@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2096636954934911267",
+    "created_at": "2026-09-06T16:35:33.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096638444709822743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096638444709822743",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096636954934911267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkyusejinki 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096636950698684417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjAMr1acAElH8R.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2096636954934911267",
+        "created_at": "2026-09-06T16:35:33.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096638444709822743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096638444709822743",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096636954934911267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096636950698684417"
+          ]
+        },
+        "author_id": "1908894436169502720",
+        "conversation_id": "2096636954934911267",
+        "created_at": "2026-09-06T16:29:38.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096636954934911267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qV0hxNV1YV",
+              "end": 31,
+              "expanded_url": "https://x.com/Magkyusejinki/status/2096636954934911267/photo/1",
+              "media_key": "3_2096636950698684417",
+              "start": 8,
+              "url": "https://t.co/qV0hxNV1YV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096636954934911267",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096636950698684417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三百fo了耶！ https://t.co/qV0hxNV1YV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096638444709822743",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4114,
+          "following_count": 1099,
+          "like_count": 30316,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生:2009.04.16｜HRT：——｜无证含糖(已中断)｜喜欢听音乐，喜欢养植物，喜欢Undertale&AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜姐姐：@KanoYumoe｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，无视掉就好喵｜咱的私信用不了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "KanoYumoe"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2096636954934911267",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 492,
+          "like_count": 6779,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

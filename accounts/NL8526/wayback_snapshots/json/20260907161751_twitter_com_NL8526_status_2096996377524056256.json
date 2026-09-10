@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2096976251349254210",
+    "created_at": "2026-09-07T16:17:51.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096996377524056256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096996377524056256",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096976251349254210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2096976251349254210",
+        "created_at": "2026-09-07T16:17:51.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096996377524056256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096996377524056256",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096976251349254210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2096976251349254210",
+        "created_at": "2026-09-07T14:57:52.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096976251349254210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096976251349254210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来我第一次在推上看到男娘（mtf？），ta 就是对着破烂宿舍门上的镜子拍照，好像是成电的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096996377524056256",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 1105,
+          "like_count": 30457,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "is_identity_verified": false,
+        "location": "你的电脑",
+        "most_recent_tweet_id": "2096994242724041112",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2086658175890260182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319578357395156993/1784508241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081177042264133632/AGz5kVXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 717,
+          "like_count": 26121,
+          "listed_count": 4,
+          "media_count": 1156,
+          "tweet_count": 16102
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

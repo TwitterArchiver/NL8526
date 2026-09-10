@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2091936221111238656"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2091936285590278252",
+    "created_at": "2026-08-24T17:10:51.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091936285590278252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5T9V9zsg3",
+          "end": 36,
+          "expanded_url": "https://x.com/NL8526/status/2091936285590278252/video/1",
+          "media_key": "7_2091936221111238656",
+          "start": 13,
+          "url": "https://t.co/z5T9V9zsg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091936285590278252",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_2091936221111238656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "港铁，chikawa~! https://t.co/z5T9V9zsg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5179,
+        "height": 1920,
+        "media_key": "7_2091936221111238656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2091936221111238656/pu/img/VES6YIGpTHbIvwRy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2091936221111238656/pu/pl/s1bsbxmwwPC1lU9D.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091936221111238656/pu/vid/avc1/320x568/3nlDsAPuIbepxGvX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091936221111238656/pu/vid/avc1/720x1280/byC2fmfiv87Tv8oT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091936221111238656/pu/vid/avc1/480x852/mA5-nDS75ThS8rl4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091936221111238656/pu/vid/avc1/1080x1920/aE6ONjyuAGM94Eun.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2091936221111238656"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2091936285590278252",
+        "created_at": "2026-08-24T17:10:51.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091936285590278252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5T9V9zsg3",
+              "end": 36,
+              "expanded_url": "https://x.com/NL8526/status/2091936285590278252/video/1",
+              "media_key": "7_2091936221111238656",
+              "start": 13,
+              "url": "https://t.co/z5T9V9zsg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091936285590278252",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2091936221111238656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "港铁，chikawa~! https://t.co/z5T9V9zsg3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091936285590278252",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 1061,
+          "like_count": 28465,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

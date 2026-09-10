@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2094070874391638500",
+    "created_at": "2026-08-31T16:16:47.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094459394524410188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618783937937408",
+          "start": 0,
+          "username": "IllusoryKyoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094459394524410188",
+    "in_reply_to_user_id": "1843618783937937408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094070874391638500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IllusoryKyoka 大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2094070868750340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-iXDpbkAAri6v.jpg",
+        "width": 1144
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094070871732494336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-iXOwboAAZSKZ.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2094070874391638500",
+        "created_at": "2026-08-31T16:16:47.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094459394524410188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618783937937408",
+              "start": 0,
+              "username": "IllusoryKyoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094459394524410188",
+        "in_reply_to_user_id": "1843618783937937408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094070874391638500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IllusoryKyoka 大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094070868750340096",
+            "3_2094070871732494336"
+          ]
+        },
+        "author_id": "1843618783937937408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094070874391638500",
+        "created_at": "2026-08-30T14:32:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094070874391638500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1d6H9nyCD",
+              "end": 31,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2094070874391638500/photo/1",
+              "media_key": "3_2094070868750340096",
+              "start": 8,
+              "url": "https://t.co/D1d6H9nyCD"
+            },
+            {
+              "display_url": "pic.x.com/D1d6H9nyCD",
+              "end": 31,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2094070874391638500/photo/1",
+              "media_key": "3_2094070871732494336",
+              "start": 8,
+              "url": "https://t.co/D1d6H9nyCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094070874391638500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094070868750340096"
+          },
+          {
+            "media_key": "3_2094070871732494336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 22672,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "离炸柜又近一步 https://t.co/D1d6H9nyCD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094459394524410188",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 1065,
+          "like_count": 29509,
+          "listed_count": 7,
+          "media_count": 350,
+          "tweet_count": 1255
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-A 坚实守护者🛡️/产地:Canton/深柜/174cm/无证含糖/经济独立/年龄毕业党/车房⭕/原生解绑/HRT:26.2.1/心理健康/不烟不酒/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "is_identity_verified": false,
+        "location": "北海道 小樽市",
+        "most_recent_tweet_id": "2094459172662509583",
+        "name": "鏡花Kyoka🍥",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843618783937937408/1776883211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090266982738472960/iaTut6PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 213,
+          "like_count": 53,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "IllusoryKyoka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

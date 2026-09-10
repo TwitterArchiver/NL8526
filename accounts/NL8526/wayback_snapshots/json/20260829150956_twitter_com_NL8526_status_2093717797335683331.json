@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093711607918710785",
+        "3_2093711616739348480"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2093717797335683331",
+    "created_at": "2026-08-29T15:09:56.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T15:45:24.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093711623085019503",
+      "2093717797335683331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UWdMdYCnMl",
+          "end": 167,
+          "expanded_url": "https://x.com/NL8526/status/2093717797335683331/photo/1",
+          "media_key": "3_2093711607918710785",
+          "start": 144,
+          "url": "https://t.co/UWdMdYCnMl"
+        },
+        {
+          "display_url": "pic.x.com/UWdMdYCnMl",
+          "end": 167,
+          "expanded_url": "https://x.com/NL8526/status/2093717797335683331/photo/1",
+          "media_key": "3_2093711616739348480",
+          "start": 144,
+          "url": "https://t.co/UWdMdYCnMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093717797335683331",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093711607918710785"
+      },
+      {
+        "media_key": "3_2093711616739348480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 拿剩下的币去夹了几局娃娃机 这中间只过了三五分钟，回头一看 放在机台面前价值一百多的绝版手持风扇不翼而飞 但是我的背包还在 无人认领的娃娃也还在，甚至也还有人在上机。\n问前台说没监控密码查不了，如果说不是被偷那还有希望能找回来，机厅里面人多眼杂 小孩哥/姐也多 天气热 偷个分量蛮重的挺好用的手持风扇回去也挺合理，被小孩哥偷了也合理，没保管好自身物品也只能认栽。\n\n唉…闹心\n只能寄希望于机厅前台留的后续消息了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 https://t.co/UWdMdYCnMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2266,
+        "media_key": "3_2093711607918710785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5bnUwbUAEX3hb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 321,
+        "media_key": "3_2093711616739348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5bn1nbkAAoddw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093711607918710785",
+            "3_2093711616739348480"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2093711623085019503",
+        "created_at": "2026-08-29T14:45:24.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:45:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093711623085019503",
+          "2093717797335683331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YaYwTYVlP",
+              "end": 167,
+              "expanded_url": "https://x.com/NL8526/status/2093711623085019503/photo/1",
+              "media_key": "3_2093711607918710785",
+              "start": 144,
+              "url": "https://t.co/8YaYwTYVlP"
+            },
+            {
+              "display_url": "pic.x.com/8YaYwTYVlP",
+              "end": 167,
+              "expanded_url": "https://x.com/NL8526/status/2093711623085019503/photo/1",
+              "media_key": "3_2093711616739348480",
+              "start": 144,
+              "url": "https://t.co/8YaYwTYVlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093711623085019503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093711607918710785"
+          },
+          {
+            "media_key": "3_2093711616739348480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 拿剩下的币去夹了几局娃娃机 这中间只过了三五分钟，回头一看 放在机台面前价值一百多的绝版手持风扇不翼而飞 但是我的背包还在 无人认领的娃娃也还在，甚至也还有人在上机。\n问前台说没监控密码查不了，如果说不是被偷那还有希望能找回来，机厅里面人多眼杂 小孩哥/姐也多 天气热 偷个分量蛮重的挺好用的手持风扇回去也挺合理，被小孩哥偷了也合理，被保管好自身物品也只能认栽。\n\n唉…闹心\n只能寄希望于机厅前台留的后续消息了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 https://t.co/8YaYwTYVlP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093711607918710785",
+            "3_2093711616739348480"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2093717797335683331",
+        "created_at": "2026-08-29T15:09:56.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:45:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093711623085019503",
+          "2093717797335683331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWdMdYCnMl",
+              "end": 167,
+              "expanded_url": "https://x.com/NL8526/status/2093717797335683331/photo/1",
+              "media_key": "3_2093711607918710785",
+              "start": 144,
+              "url": "https://t.co/UWdMdYCnMl"
+            },
+            {
+              "display_url": "pic.x.com/UWdMdYCnMl",
+              "end": 167,
+              "expanded_url": "https://x.com/NL8526/status/2093717797335683331/photo/1",
+              "media_key": "3_2093711616739348480",
+              "start": 144,
+              "url": "https://t.co/UWdMdYCnMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093717797335683331",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093711607918710785"
+          },
+          {
+            "media_key": "3_2093711616739348480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 拿剩下的币去夹了几局娃娃机 这中间只过了三五分钟，回头一看 放在机台面前价值一百多的绝版手持风扇不翼而飞 但是我的背包还在 无人认领的娃娃也还在，甚至也还有人在上机。\n问前台说没监控密码查不了，如果说不是被偷那还有希望能找回来，机厅里面人多眼杂 小孩哥/姐也多 天气热 偷个分量蛮重的挺好用的手持风扇回去也挺合理，被小孩哥偷了也合理，没保管好自身物品也只能认栽。\n\n唉…闹心\n只能寄希望于机厅前台留的后续消息了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神人机厅，本来抓了好多娃娃还有偶遇蓝粉白舞萌logo框挺开心的\n\n先是小孩哥来讨币 上来直接问我要游戏币 一点礼貌没有 原话就是“给我八个币”也没有打招呼或者用请问 还想伸手拿。\n然后买的实体币投了一把舞萌 后面再投一直投不进去 一直退币出来。\n最后 最神人的来了：后面咱币不是用不了吗 https://t.co/UWdMdYCnMl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093717797335683331",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 1059,
+          "like_count": 29088,
+          "listed_count": 7,
+          "media_count": 346,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

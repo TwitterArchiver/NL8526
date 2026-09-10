@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082424476696969216"
+      ],
+      "media_source_tweet_id": [
+        "2082424483852480730"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2082428119533949358",
+    "created_at": "2026-07-29T11:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082428119533949358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813768883540725760",
+          "start": 3,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gysmUDv2kz",
+          "end": 45,
+          "expanded_url": "https://x.com/ye_and_yae/status/2082424483852480730/photo/1",
+          "media_key": "3_2082424476696969216",
+          "start": 22,
+          "url": "https://t.co/gysmUDv2kz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082428119533949358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082424483852480730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye_and_yae: 每天的期待 https://t.co/gysmUDv2kz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2082424476696969216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZCB0UaAAAvZja.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082424476696969216"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "conversation_id": "2082424483852480730",
+        "created_at": "2026-07-29T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082424483852480730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gysmUDv2kz",
+              "end": 29,
+              "expanded_url": "https://x.com/ye_and_yae/status/2082424483852480730/photo/1",
+              "media_key": "3_2082424476696969216",
+              "start": 6,
+              "url": "https://t.co/gysmUDv2kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082424483852480730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天的期待 https://t.co/gysmUDv2kz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082424476696969216"
+          ],
+          "media_source_tweet_id": [
+            "2082424483852480730"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2082428119533949358",
+        "created_at": "2026-07-29T11:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428119533949358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813768883540725760",
+              "start": 3,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gysmUDv2kz",
+              "end": 45,
+              "expanded_url": "https://x.com/ye_and_yae/status/2082424483852480730/photo/1",
+              "media_key": "3_2082424476696969216",
+              "start": 22,
+              "url": "https://t.co/gysmUDv2kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428119533949358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082424483852480730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye_and_yae: 每天的期待 https://t.co/gysmUDv2kz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 ⬇️匿名问答箱 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 968,
+          "like_count": 24753,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "距你11.4km",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1149,
+          "like_count": 8728,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 4037
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2096582719316897941",
+    "created_at": "2026-09-06T12:54:07.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096582719316897941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 76,
+          "id": "1720665183188922368",
+          "start": 71,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/TheCyclist400/…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/TheCyclist400/status/2096429273448063375",
+          "start": 77,
+          "url": "https://t.co/JNmFMTYJDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096582719316897941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096429273448063375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抛开我的mtf身份 查看我的所有帖子 然后确定我的性别符不符合女性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/JNmFMTYJDy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2096582719316897941",
+        "created_at": "2026-09-06T12:54:07.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096582719316897941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1720665183188922368",
+              "start": 71,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TheCyclist400/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/TheCyclist400/status/2096429273448063375",
+              "start": 77,
+              "url": "https://t.co/JNmFMTYJDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096582719316897941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096429273448063375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的mtf身份 查看我的所有帖子 然后确定我的性别符不符合女性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/JNmFMTYJDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "conversation_id": "2096429273448063375",
+        "created_at": "2026-09-06T02:44:23.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096429273448063375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1720665183188922368",
+              "start": 71,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/grok/status/2096390166302675293",
+              "start": 77,
+              "url": "https://t.co/KqXAiPFgsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096429273448063375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3843,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096390166302675293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的mtf身份 查看我的所有帖子 然后确定我的性别符不符合女性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/KqXAiPFgsc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096582719316897941",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4112,
+          "following_count": 1097,
+          "like_count": 30274,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 1283
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "is_identity_verified": false,
+        "location": "匿名向我提问吧→",
+        "most_recent_tweet_id": "2096576967097438561",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886796352283402250/1769108488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 600,
+          "like_count": 12086,
+          "listed_count": 3,
+          "media_count": 789,
+          "tweet_count": 6064
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096582734311297528",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9040099,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7528,
+          "media_count": 9341793,
+          "tweet_count": 139157337
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

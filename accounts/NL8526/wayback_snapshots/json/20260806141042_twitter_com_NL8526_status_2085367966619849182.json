@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2085243173211693279",
+    "created_at": "2026-08-06T14:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085367966619849182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384889091901181964",
+          "start": 0,
+          "username": "hyclove1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085367966619849182",
+    "in_reply_to_user_id": "1384889091901181964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085243173211693279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyclove1 活动结束了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2085242565293375488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBFEKbWAAAS7iy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2085243173211693279",
+        "created_at": "2026-08-06T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085367966619849182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384889091901181964",
+              "start": 0,
+              "username": "hyclove1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085367966619849182",
+        "in_reply_to_user_id": "1384889091901181964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085243173211693279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyclove1 活动结束了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085242565293375488"
+          ]
+        },
+        "author_id": "1384889091901181964",
+        "conversation_id": "2085243173211693279",
+        "created_at": "2026-08-06T05:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085243173211693279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "蓝V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xFr5p1PGg",
+              "end": 78,
+              "expanded_url": "https://x.com/hyclove1/status/2085243173211693279/photo/1",
+              "media_key": "3_2085242565293375488",
+              "start": 55,
+              "url": "https://t.co/3xFr5p1PGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085243173211693279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3684,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有已经达到要求的老师来说说\n\n老马发2024年发的这个还算数吗\n\n5000个 ＃蓝V 粉丝可以免费订阅吗 https://t.co/3xFr5p1PGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 1007,
+          "like_count": 26089,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-21T15:18:00.000Z",
+        "description": "web3老兵 | 数字游民 | 业余撸毛选手 | 赛博小贩，每日出摊",
+        "id": "1384889091901181964",
+        "name": "hyclove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723283700979539968/Eav4X2b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 4777,
+          "like_count": 3140,
+          "listed_count": 9,
+          "media_count": 353,
+          "tweet_count": 7013
+        },
+        "url": "",
+        "username": "hyclove1",
+        "verified": true
+      }
+    ]
+  }
+}

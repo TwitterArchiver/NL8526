@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2088589734067224659",
+    "created_at": "2026-08-15T12:00:25.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088596671194390910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813141850712317952",
+          "start": 0,
+          "username": "sil030922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088596671194390910",
+    "in_reply_to_user_id": "1813141850712317952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088589734067224659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sil030922 好快…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2088589734067224659",
+        "created_at": "2026-08-15T12:00:25.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088596671194390910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813141850712317952",
+              "start": 0,
+              "username": "sil030922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088596671194390910",
+        "in_reply_to_user_id": "1813141850712317952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088589734067224659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sil030922 好快…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813141850712317952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2088589734067224659",
+        "created_at": "2026-08-15T11:32:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:30:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088589164921212956",
+          "2088589281883471929",
+          "2088589734067224659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088589734067224659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时间线梳理\n\n1.大概是十年以前，自我的青春期开始时，我便逐渐意识到我的性别认同与指派性别不符，与父母交谈无果，自身年小力不从心。选择压抑内心想法，庆幸周围环境友好，并无欺压霸凌，以致我能相对安稳地度过中学时代。😌\n\n2.长期的压抑使我塑造出新的人格，这种表面的健康实则暗藏隐患。\n2024年至2026年上半年出现明显的焦虑抑郁躯体化症状，因长期压抑躲闪，并未将其归因于性别焦虑。\n去过几次600号（上海精卫），治疗焦虑抑郁。😥😥\n\n解决性别认同问题的战役正式开始\n准备开始速通😋\n\n3.2026年6月19日，打破人格解离，自出柜，发现躯体化根源，失眠症状有所好转。不再压抑隐瞒躲闪，直接面对性别认同问题。强烈的性别焦虑涌上心头，犹如青春期时的明显感受。😭\n\n4.6月23日上午，向父母出柜坦白\n\n5.6月23日下午，600号挂号黄楠，性别相关问题初诊\n\n6.6月30日，二次挂号黄楠，因焦虑抑郁问题拒绝开小证（也可能是需要面诊两位医生才能开），告知观望6个月再来。😠\n\n7.7月4日，因极度性别焦虑，自行hrt\n\n8.7月28日，九院性别门诊初诊，检查激素水平\n\n9.8月3日，600号挂号刘娜，开出小证，被告知“你应该早点来的。”建议你和黄楠掰扯一下，一个让我等6个月，一个让我早点来。🤔🤔\n\n10.8月11日，九院性别门诊，检查激素水平，被告知小证打印错了，打成病历了。😓😓\n\n11.8月13日，600号面诊陆峥（-800，号是真的贵）成功开大证，这次应该没有打印错了。😊😊\n\n待续。。。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间线梳理\n\n1.大概是十年以前，自我的青春期开始时，我便逐渐意识到我的性别认同与指派性别不符，与父母交谈无果，自身年小力不从心。选择压抑内心想法，庆幸周围环境友好，并无欺压霸凌，以致我能相对安稳地度过中学时代。😌\n\n2.长期的压抑使我塑造出新的人格，这种表面的健康实则暗藏隐患。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088596671194390910",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915,
+          "following_count": 1042,
+          "like_count": 27145,
+          "listed_count": 6,
+          "media_count": 320,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T09:21:29.000Z",
+        "description": "现居上海|mtf|大证|出厂日期：2003.9.22|hrt：26.7.4|srs：27秋|精神状态稳定\n华东师范大学设计学|平面设计/插画/原画\n180cm|58kg",
+        "id": "1813141850712317952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088589734067224659",
+        "name": "sil🍥",
+        "pinned_tweet_id": "2088589734067224659",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079603259824910340/vWALFIQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 347,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "sil030922",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

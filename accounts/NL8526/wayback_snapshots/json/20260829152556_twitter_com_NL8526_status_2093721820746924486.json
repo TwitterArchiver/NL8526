@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2093717797335683331",
+    "created_at": "2026-08-29T15:25:56.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093721820746924486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093721820746924486",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093720995677040694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizukululu0721 没给你把框一起拿走那很“文明”了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2093717797335683331",
+        "created_at": "2026-08-29T15:25:56.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093721820746924486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093721820746924486",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093720995677040694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizukululu0721 没给你把框一起拿走那很“文明”了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640917359493005313",
+        "conversation_id": "2093717797335683331",
+        "created_at": "2026-08-29T15:22:39.000Z",
+        "display_text_range": [
+          8,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093720995677040694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093720995677040694",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093717797335683331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 哈哈我的币放在机台上，小孩神不知鬼不觉的就摸走了两个币😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093721820746924486",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 1060,
+          "like_count": 29105,
+          "listed_count": 7,
+          "media_count": 346,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "成分都在推文里啦🥰｜xnn努力中…｜友跨的喵！｜主要是碎碎念✨｜喜欢和大家一起贴贴～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "SZV",
+        "most_recent_tweet_id": "2093720995677040694",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2091091139982135658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1605,
+          "like_count": 3595,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

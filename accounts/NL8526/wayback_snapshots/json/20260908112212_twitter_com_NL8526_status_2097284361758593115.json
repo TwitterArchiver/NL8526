@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097268177285812224"
+      ],
+      "media_source_tweet_id": [
+        "2097268214719979852"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097284361758593115",
+    "created_at": "2026-09-08T11:22:12.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097284361758593115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951698283040276481",
+          "start": 3,
+          "username": "TulikoOR"
+        },
+        {
+          "end": 28,
+          "id": "2047476335220793344",
+          "start": 17,
+          "username": "86parsee86"
+        },
+        {
+          "end": 36,
+          "id": "1546431985086009344",
+          "start": 29,
+          "username": "NL8526"
+        },
+        {
+          "end": 45,
+          "id": "1506264364466438148",
+          "start": 37,
+          "username": "_bl333_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ogl0iRalQh",
+          "end": 69,
+          "expanded_url": "https://x.com/TulikoOR/status/2097268214719979852/photo/1",
+          "media_key": "3_2097268177285812224",
+          "start": 46,
+          "url": "https://t.co/Ogl0iRalQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097284361758593115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097268177285812224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097268214719979852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TulikoOR: 贴贴！@86parsee86 @NL8526 @_bl333_ https://t.co/Ogl0iRalQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2097268177285812224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr-S6HaEAA2DHV.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097268177285812224"
+          ],
+          "media_source_tweet_id": [
+            "2097268214719979852"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097284361758593115",
+        "created_at": "2026-09-08T11:22:12.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097284361758593115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951698283040276481",
+              "start": 3,
+              "username": "TulikoOR"
+            },
+            {
+              "end": 28,
+              "id": "2047476335220793344",
+              "start": 17,
+              "username": "86parsee86"
+            },
+            {
+              "end": 36,
+              "id": "1546431985086009344",
+              "start": 29,
+              "username": "NL8526"
+            },
+            {
+              "end": 45,
+              "id": "1506264364466438148",
+              "start": 37,
+              "username": "_bl333_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ogl0iRalQh",
+              "end": 69,
+              "expanded_url": "https://x.com/TulikoOR/status/2097268214719979852/photo/1",
+              "media_key": "3_2097268177285812224",
+              "start": 46,
+              "url": "https://t.co/Ogl0iRalQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097284361758593115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097268177285812224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097268214719979852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TulikoOR: 贴贴！@86parsee86 @NL8526 @_bl333_ https://t.co/Ogl0iRalQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097268177285812224"
+          ]
+        },
+        "author_id": "1951698283040276481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097268214719979852",
+        "created_at": "2026-09-08T10:18:02.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097268214719979852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047476335220793344",
+              "start": 3,
+              "username": "86parsee86"
+            },
+            {
+              "end": 22,
+              "id": "1546431985086009344",
+              "start": 15,
+              "username": "NL8526"
+            },
+            {
+              "end": 31,
+              "id": "1506264364466438148",
+              "start": 23,
+              "username": "_bl333_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ogl0iRalQh",
+              "end": 55,
+              "expanded_url": "https://x.com/TulikoOR/status/2097268214719979852/photo/1",
+              "media_key": "3_2097268177285812224",
+              "start": 32,
+              "url": "https://t.co/Ogl0iRalQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097268214719979852",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097268177285812224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴！@86parsee86 @NL8526 @_bl333_ https://t.co/Ogl0iRalQh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097284361758593115",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133,
+          "following_count": 1102,
+          "like_count": 30491,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-02T17:35:22.000Z",
+        "description": "",
+        "id": "1951698283040276481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097268214719979852",
+        "name": "Tuliko OR",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951698283040276481/1773145525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027302045028585472/wuPz12KO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 224,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "TulikoOR",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T00:44:32.000Z",
+        "description": "05.3出厂/mtf/双相/hrt25.8.6/轻微od/还在努力中/chunithm/到处羡慕人的柠檬精/软件在读/什么都不会/想要互fo🥺",
+        "id": "2047476335220793344",
+        "is_identity_verified": false,
+        "location": "Stockholm, Sweden",
+        "most_recent_tweet_id": "2089700212604563723",
+        "name": "🏳️‍⚧️柠檬香精Parsee🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047476335220793344/1776992391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047477230100779008/io5uiFPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 41,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "86parsee86",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T13:40:09.000Z",
+        "description": "rhythm game player & Touhou enjoyer (Apologized for my poor game and photograph level...) 中文/English",
+        "id": "1506264364466438148",
+        "is_identity_verified": false,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2089695072795410886",
+        "name": "Bl333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506264364466438148/1726715742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814624973576966144/FSludYLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 129,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "_bl333_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

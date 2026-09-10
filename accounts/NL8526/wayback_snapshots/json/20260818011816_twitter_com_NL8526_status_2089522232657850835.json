@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089522149451300864"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2089522232657850835",
+    "created_at": "2026-08-18T01:18:16.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:17:57.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089522151615537304",
+      "2089522232657850835"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "音乐会"
+        },
+        {
+          "end": 145,
+          "start": 135,
+          "tag": "UNDERTALE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XwMy3N29Ii",
+          "end": 169,
+          "expanded_url": "https://x.com/NL8526/status/2089522232657850835/photo/1",
+          "media_key": "3_2089522149451300864",
+          "start": 146,
+          "url": "https://t.co/XwMy3N29Ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089522232657850835",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089522149451300864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年《UNDERTALE (传说之下)》要来中国开音乐会了，圈内这么大的事情知道的人居然也不多，作为铁粉我也帮忙宣传一下吧，目前南京、上海已经在哔哩哔哩会员购开放购票。\n另外还有一些其他城市也官宣了，UT的音乐在风格上实在是独树一帜，想去的朋友不要错过了哦！\n#音乐会 #UNDERTALE https://t.co/XwMy3N29Ii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2089522149451300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP95UvxbAAALoSP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089522149451300864"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2089522151615537304",
+        "created_at": "2026-08-18T01:17:57.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:17:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089522151615537304",
+          "2089522232657850835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fE1rNpbiZ",
+              "end": 153,
+              "expanded_url": "https://x.com/NL8526/status/2089522151615537304/photo/1",
+              "media_key": "3_2089522149451300864",
+              "start": 130,
+              "url": "https://t.co/1fE1rNpbiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089522151615537304",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089522149451300864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年《UNDERTALE (传说之下)》要来中国开音乐会了，圈内这么大的事情知道的人居然也不多，作为铁粉我也帮忙宣传一下吧，目前南京、上海已经在哔哩哔哩会员购开放购票。\n另外还有一些其他城市也官宣了，UT的音乐在风格上实在是独树一帜，想去的朋友不要错过了哦！ https://t.co/1fE1rNpbiZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089522149451300864"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2089522232657850835",
+        "created_at": "2026-08-18T01:18:16.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:17:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089522151615537304",
+          "2089522232657850835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "音乐会"
+            },
+            {
+              "end": 145,
+              "start": 135,
+              "tag": "UNDERTALE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwMy3N29Ii",
+              "end": 169,
+              "expanded_url": "https://x.com/NL8526/status/2089522232657850835/photo/1",
+              "media_key": "3_2089522149451300864",
+              "start": 146,
+              "url": "https://t.co/XwMy3N29Ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089522232657850835",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089522149451300864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年《UNDERTALE (传说之下)》要来中国开音乐会了，圈内这么大的事情知道的人居然也不多，作为铁粉我也帮忙宣传一下吧，目前南京、上海已经在哔哩哔哩会员购开放购票。\n另外还有一些其他城市也官宣了，UT的音乐在风格上实在是独树一帜，想去的朋友不要错过了哦！\n#音乐会 #UNDERTALE https://t.co/XwMy3N29Ii"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089522232657850835",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 1063,
+          "like_count": 27595,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

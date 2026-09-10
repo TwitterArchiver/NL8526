@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2094288849027711091",
+    "created_at": "2026-08-31T16:17:22.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094459542092570754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094459542092570754",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094288849027711091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkyusejinki 好好休息吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2094288849027711091",
+        "created_at": "2026-08-31T16:17:22.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094459542092570754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094459542092570754",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094288849027711091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki 好好休息吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2094288849027711091",
+        "created_at": "2026-08-31T04:59:06.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094288849027711091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094288849027711091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是休学了呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094459542092570754",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 1065,
+          "like_count": 29517,
+          "listed_count": 7,
+          "media_count": 350,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生日期:2009.04.16｜HRT：2026.05.09(已中断)｜无证含糖｜喜欢听音乐，喜欢养植物，喜欢Undertale及其AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜QQ：3783134292",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "ansiyao520"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2094458956806803596",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 378,
+          "like_count": 5866,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095534302159360000"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2095534306953515508",
+    "created_at": "2026-09-03T15:28:06.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095534306953515508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRs6Uxarlr",
+          "end": 39,
+          "expanded_url": "https://x.com/NL8526/status/2095534306953515508/photo/1",
+          "media_key": "3_2095534302159360000",
+          "start": 16,
+          "url": "https://t.co/wRs6Uxarlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095534306953515508",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095534302159360000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想要X MoneyCard https://t.co/wRs6Uxarlr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095534302159360000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTVWF7a0AA69cB.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095534302159360000"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2095534306953515508",
+        "created_at": "2026-09-03T15:28:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095534306953515508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRs6Uxarlr",
+              "end": 39,
+              "expanded_url": "https://x.com/NL8526/status/2095534306953515508/photo/1",
+              "media_key": "3_2095534302159360000",
+              "start": 16,
+              "url": "https://t.co/wRs6Uxarlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095534306953515508",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095534302159360000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想要X MoneyCard https://t.co/wRs6Uxarlr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095534306953515508",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 1077,
+          "like_count": 29943,
+          "listed_count": 7,
+          "media_count": 358,
+          "tweet_count": 1274
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102288554496036864",
+        "3_2102288582161649664"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102288585743544476",
+    "created_at": "2026-09-22T06:47:12.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102288585743544476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3nnoY9KsrO",
+          "end": 162,
+          "expanded_url": "https://x.com/NL8526/status/2102288585743544476/photo/1",
+          "media_key": "3_2102288554496036864",
+          "start": 139,
+          "url": "https://t.co/3nnoY9KsrO"
+        },
+        {
+          "display_url": "pic.x.com/3nnoY9KsrO",
+          "end": 162,
+          "expanded_url": "https://x.com/NL8526/status/2102288585743544476/photo/1",
+          "media_key": "3_2102288582161649664",
+          "start": 139,
+          "url": "https://t.co/3nnoY9KsrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102288585743544476",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102288554496036864"
+      },
+      {
+        "media_key": "3_2102288582161649664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算是提前过中秋了吧 一个人包完了一大盆自制的纯素饺子馅\n\n要是我妈知道我把她寄的羊肚菌下到饺子馅里包饺子会不会挨骂啊😇\n其实很久没有包饺子了，趁这次机会练练手。从晚上七点出门买菜一直不停弄到十一点，我发现只要不看手机不被分散注意力还是能认真起来的🥳\n有机会做给小伙伴们尝尝🥰🥰 https://t.co/3nnoY9KsrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_2102288554496036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzUTUobEAAagvD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1831,
+        "media_key": "3_2102288582161649664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzUU7sa0AA9Ied.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102288554496036864",
+            "3_2102288582161649664"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102288585743544476",
+        "created_at": "2026-09-22T06:47:12.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102288585743544476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nnoY9KsrO",
+              "end": 162,
+              "expanded_url": "https://x.com/NL8526/status/2102288585743544476/photo/1",
+              "media_key": "3_2102288554496036864",
+              "start": 139,
+              "url": "https://t.co/3nnoY9KsrO"
+            },
+            {
+              "display_url": "pic.x.com/3nnoY9KsrO",
+              "end": 162,
+              "expanded_url": "https://x.com/NL8526/status/2102288585743544476/photo/1",
+              "media_key": "3_2102288582161649664",
+              "start": 139,
+              "url": "https://t.co/3nnoY9KsrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102288585743544476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102288554496036864"
+          },
+          {
+            "media_key": "3_2102288582161649664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算是提前过中秋了吧 一个人包完了一大盆自制的纯素饺子馅\n\n要是我妈知道我把她寄的羊肚菌下到饺子馅里包饺子会不会挨骂啊😇\n其实很久没有包饺子了，趁这次机会练练手。从晚上七点出门买菜一直不停弄到十一点，我发现只要不看手机不被分散注意力还是能认真起来的🥳\n有机会做给小伙伴们尝尝🥰🥰 https://t.co/3nnoY9KsrO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102288585743544476",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 1149,
+          "like_count": 31509,
+          "listed_count": 9,
+          "media_count": 388,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

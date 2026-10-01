@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2102954374750503113",
+    "created_at": "2026-09-24T07:58:47.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103031377138729083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092545085691047936",
+          "start": 0,
+          "username": "CAgf0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103031377138729083",
+    "in_reply_to_user_id": "2092545085691047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102999630107828619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAgf0p 不会玩诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102999622411239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9bA7CaQAAn-sK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2102954374750503113",
+        "created_at": "2026-09-24T07:58:47.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103031377138729083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092545085691047936",
+              "start": 0,
+              "username": "CAgf0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103031377138729083",
+        "in_reply_to_user_id": "2092545085691047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102999630107828619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAgf0p 不会玩诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102999622411239424"
+          ]
+        },
+        "author_id": "2092545085691047936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102954374750503113",
+        "created_at": "2026-09-24T05:52:38.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102999630107828619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03zS7lGJZn",
+              "end": 44,
+              "expanded_url": "https://x.com/CAgf0p/status/2102999630107828619/photo/1",
+              "media_key": "3_2102999622411239424",
+              "start": 21,
+              "url": "https://t.co/03zS7lGJZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102999630107828619",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102999622411239424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102954374750503113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 厉害欸，你下国际象棋吗？ https://t.co/03zS7lGJZn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103031377138729083",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 1153,
+          "like_count": 31692,
+          "listed_count": 9,
+          "media_count": 393,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T09:34:28.000Z",
+        "description": "最爱@beishang7891🥰 \n里推@CA20270221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "beishang7891"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "CA20270221"
+              }
+            ]
+          }
+        },
+        "id": "2092545085691047936",
+        "is_identity_verified": true,
+        "location": "Moon",
+        "most_recent_tweet_id": "2103029170750320956",
+        "name": "CA",
+        "pinned_tweet_id": "2100838103686828422",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092547016832466944/XPh5JwxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 469,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "CAgf0p",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

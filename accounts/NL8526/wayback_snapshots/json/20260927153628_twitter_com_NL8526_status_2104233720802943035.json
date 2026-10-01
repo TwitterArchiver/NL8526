@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2104043438039879746",
+    "created_at": "2026-09-27T15:36:28.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104233720802943035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972928004860116992",
+          "start": 0,
+          "username": "SMAcn_zyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104233720802943035",
+    "in_reply_to_user_id": "1972928004860116992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104043438039879746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SMAcn_zyq xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104043427319181312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMQWXVa8AArJ3G.jpg",
+        "width": 942
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2104043427331747840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMQWXYasAAoGaT.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2104043438039879746",
+        "created_at": "2026-09-27T15:36:28.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233720802943035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972928004860116992",
+              "start": 0,
+              "username": "SMAcn_zyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233720802943035",
+        "in_reply_to_user_id": "1972928004860116992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104043438039879746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMAcn_zyq xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104043427319181312",
+            "3_2104043427331747840"
+          ]
+        },
+        "author_id": "1972928004860116992",
+        "conversation_id": "2104043438039879746",
+        "created_at": "2026-09-27T03:00:21.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104043438039879746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZQFroDchr",
+              "end": 167,
+              "expanded_url": "https://x.com/SMAcn_zyq/status/2104043438039879746/photo/1",
+              "media_key": "3_2104043427319181312",
+              "start": 144,
+              "url": "https://t.co/pZQFroDchr"
+            },
+            {
+              "display_url": "pic.x.com/pZQFroDchr",
+              "end": 167,
+              "expanded_url": "https://x.com/SMAcn_zyq/status/2104043438039879746/photo/1",
+              "media_key": "3_2104043427331747840",
+              "start": 144,
+              "url": "https://t.co/pZQFroDchr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104043438039879746",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104043427319181312"
+          },
+          {
+            "media_key": "3_2104043427331747840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "好了，我来大概说一下411的未成年预约流程吧，如图我是在26年7月7号去面诊的，陪同的是我的母亲（是好久之前了捏，今天才想起来可以分享一下。顺带一提赵老师真的非常和蔼，人真的很好）。带上大证、家长同意书（大证是必须的，赵医生会看）按自己挂的号上的时间准时去就好，从面诊进入医院以后乘电梯去4楼（没记错的话）找找医生就好，不知道在哪的话可以去问护士，到赵医生那里以后就说明自己的目的（直接告诉赵医生自己是来预约的，带了那些材料就好）然后赵医生会和陪同的父母沟通，当时我母亲和赵医生说她觉得我的大证医生开的太随意了、我的性别不认同是在24年去漫展之后出现的什么的…反正就是当时我都想看泰国的手术了，但是赵医生自己就和我妈妈说根据赵医生这么久的经验来看我的情况就是存在的，然后就是聊了我对未来的规划之类的，然后最后就是赵医生告诉我说我没办法给你排具体的时间，然后给了我一个大概的时间（9-12月份）会让后面的一个姐姐登记身份证名字手机号之类的，然后会告诉你入院要准备哪些材料（如图二）然后就结束了，我感觉简单到都像是假的了（吐舌头），总之我的经历大概就是这样的，我还有一小段录音捏，如果感兴趣的人多我可以试着把他转换成文字发出来awa"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 805,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了，我来大概说一下411的未成年预约流程吧，如图我是在26年7月7号去面诊的，陪同的是我的母亲（是好久之前了捏，今天才想起来可以分享一下。顺带一提赵老师真的非常和蔼，人真的很好）。带上大证、家长同意书（大证是必须的，赵医生会看）按自己挂的号上的时间准时去就好，从面诊进入医院以后乘电梯 https://t.co/pZQFroDchr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104233720802943035",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 1163,
+          "like_count": 32211,
+          "listed_count": 10,
+          "media_count": 395,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T07:34:37.000Z",
+        "description": "我要什么时候才能变成梦里的样子…\n大证mtf | 家长党｜手术排期中\n 偶像 @_xron4\n目前账号野野代理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 39,
+                "username": "_xron4"
+              }
+            ]
+          }
+        },
+        "id": "1972928004860116992",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2104137731127611833",
+        "name": "NatsumeAn🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2104117128844673244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972928004860116992/1790497385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100285867701207040/Mjt37gRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 298,
+          "like_count": 6219,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "SMAcn_zyq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

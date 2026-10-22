@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2110307687921745952",
+    "created_at": "2026-10-14T10:10:32.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T11:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110312288947421518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530517051491725318",
+          "start": 0,
+          "username": "egg_ehh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110312288947421518",
+    "in_reply_to_user_id": "1530517051491725318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110309595688427707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@egg_ehh 哈哈 前面说过了是神秘8开头四位数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2110307687921745952",
+        "created_at": "2026-10-14T10:10:32.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T11:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110312288947421518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530517051491725318",
+              "start": 0,
+              "username": "egg_ehh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110312288947421518",
+        "in_reply_to_user_id": "1530517051491725318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110309595688427707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@egg_ehh 哈哈 前面说过了是神秘8开头四位数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530517051491725318",
+        "conversation_id": "2110307687921745952",
+        "created_at": "2026-10-14T09:59:49.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T10:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110309595688427707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110309595688427707",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110307687921745952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 后面的数字好不好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多 个人站➡️",
+        "most_recent_tweet_id": "2110312288947421518",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4695,
+          "following_count": 1228,
+          "like_count": 34116,
+          "listed_count": 10,
+          "media_count": 419,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-28T11:51:24.000Z",
+        "description": "web3达人~~喜欢胡说八道，不构成投资建议\n\nTG：https://t.co/HhJ4gormyu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/baobao_he",
+                "end": 50,
+                "expanded_url": "https://t.me/baobao_he",
+                "start": 27,
+                "url": "https://t.co/HhJ4gormyu"
+              }
+            ]
+          }
+        },
+        "id": "1530517051491725318",
+        "is_identity_verified": true,
+        "location": "universe",
+        "most_recent_tweet_id": "2110309595688427707",
+        "name": "何包蛋",
+        "pinned_tweet_id": "2020411507067220295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530517051491725318/1788408538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100137862570360832/UoLF4Obp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21478,
+          "following_count": 15071,
+          "like_count": 7944,
+          "listed_count": 20,
+          "media_count": 826,
+          "tweet_count": 10130
+        },
+        "url": "",
+        "username": "egg_ehh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

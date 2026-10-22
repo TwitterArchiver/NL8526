@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2106984817376243843",
+    "created_at": "2026-10-05T06:02:39.000Z",
+    "display_text_range": [
+      16,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106988418878386316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106988418878386316",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106984817376243843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 你这个机型应该不需要申请直接可以解锁\n这个emoji等Android18更新就会有了（不知道能不能等到c18的OTA🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2106984805669928960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2DhHkaAAAFtqa.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2106984817376243843",
+        "created_at": "2026-10-05T06:02:39.000Z",
+        "display_text_range": [
+          16,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106988418878386316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106988418878386316",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106984817376243843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 你这个机型应该不需要申请直接可以解锁\n这个emoji等Android18更新就会有了（不知道能不能等到c18的OTA🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106984805669928960"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2106984817376243843",
+        "created_at": "2026-10-05T05:48:21.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106984817376243843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LvDxL61IQt",
+              "end": 135,
+              "expanded_url": "https://x.com/Rococo90933671/status/2106984817376243843/photo/1",
+              "media_key": "3_2106984805669928960",
+              "start": 112,
+              "url": "https://t.co/LvDxL61IQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106984817376243843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106984805669928960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都把数据备份好了，搜教程下东西折腾了一上午，下定决心要解bl了，结果它告诉我，无法申请深度测试？\n\n不是过不了审核哦，而是一开始就申请不了……\n\n本来都下定决心一定要root了，现在看来为了一个🇹🇼emoji还是不值得🫠 https://t.co/LvDxL61IQt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2106988418878386316",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791102648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 1204,
+          "like_count": 33195,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2106987885966811534",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15107,
+          "following_count": 3291,
+          "like_count": 53269,
+          "listed_count": 48,
+          "media_count": 5722,
+          "tweet_count": 28108
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

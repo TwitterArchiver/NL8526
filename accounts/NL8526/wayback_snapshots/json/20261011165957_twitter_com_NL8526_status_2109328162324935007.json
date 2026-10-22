@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2109328162324935007",
+    "created_at": "2026-10-11T16:59:57.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T17:59:36.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109328074156499254",
+      "2109328162324935007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2109328162324935007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "唉 同岁亲戚年纪轻轻就得急性肾炎 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…\n诱因基本上很明确，暑假的时候练车 因为天气热，每天都喝两瓶饮料以上，饮食不规律 有一顿没一顿的，所以才变成现在这样…\n大家真的要好好注意身体，发生在我身边的真事 也是真怕。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉 同岁亲戚年纪轻轻就得急性肾炎 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2109328074156499254",
+        "created_at": "2026-10-11T16:59:36.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:59:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109328074156499254",
+          "2109328162324935007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109328074156499254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉 同岁亲戚年纪轻轻就得急性肾病 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…\n诱因基本上很明确，暑假的时候练车 因为天气热，每天都喝两瓶饮料以上，饮食不规律 有一顿没一顿的，所以才变成现在这样…\n大家真的要好好注意身体，发生在我身边的真事 也是真怕。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 同岁亲戚年纪轻轻就得急性肾病 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2109328162324935007",
+        "created_at": "2026-10-11T16:59:57.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:59:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109328074156499254",
+          "2109328162324935007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109328162324935007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉 同岁亲戚年纪轻轻就得急性肾炎 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…\n诱因基本上很明确，暑假的时候练车 因为天气热，每天都喝两瓶饮料以上，饮食不规律 有一顿没一顿的，所以才变成现在这样…\n大家真的要好好注意身体，发生在我身边的真事 也是真怕。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 同岁亲戚年纪轻轻就得急性肾炎 红斑狼疮了，他得病之后狂掉称20斤，真的要注意身体 注意饮食啊。\n前几天还去做了肾穿刺没出结果，在我们小县城住院的时候还查不出来是什么病，辗转三四家医院。目前情况稳定，还不确定是不是白血病，而且肾脏是出现了损伤的，希望不会太严重到透析…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2109328162324935007",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4663,
+          "following_count": 1213,
+          "like_count": 33915,
+          "listed_count": 10,
+          "media_count": 411,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

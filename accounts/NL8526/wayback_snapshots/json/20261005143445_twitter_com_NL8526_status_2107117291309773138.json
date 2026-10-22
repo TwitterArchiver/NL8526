@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2107117291309773138",
+    "created_at": "2026-10-05T14:34:45.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T15:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107117291309773138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kana_satsushou…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/kana_satsushou/status/2106962873830494260",
+          "start": 28,
+          "url": "https://t.co/JyQXwoVszQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107117291309773138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106962873830494260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本語で投稿したら、日本の友達が反応してくれるかな？🥰 https://t.co/JyQXwoVszQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2107117291309773138",
+        "created_at": "2026-10-05T14:34:45.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107117291309773138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kana_satsushou…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/kana_satsushou/status/2106962873830494260",
+              "start": 28,
+              "url": "https://t.co/JyQXwoVszQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107117291309773138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106962873830494260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本語で投稿したら、日本の友達が反応してくれるかな？🥰 https://t.co/JyQXwoVszQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "2106962873830494260",
+        "created_at": "2026-10-05T04:21:09.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106962873830494260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanidedesuyo/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kanidedesuyo/status/2106303109769363463",
+              "start": 22,
+              "url": "https://t.co/SLHMCdOOFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106962873830494260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 28057,
+          "like_count": 401,
+          "quote_count": 7,
+          "reply_count": 212,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106303109769363463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发中文的话，中国朋友们会不会来跟我互动呀… https://t.co/SLHMCdOOFE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2107117291309773138",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791102648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 1204,
+          "like_count": 33299,
+          "listed_count": 10,
+          "media_count": 402,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "现实生活败北组",
+        "id": "1794131217463615488",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2107112194588786731",
+        "name": "加奈酱",
+        "pinned_tweet_id": "2107016894880665617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794131217463615488/1780633019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103335386806423552/PBbVdL3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 4987,
+          "like_count": 1805,
+          "listed_count": 10,
+          "media_count": 470,
+          "tweet_count": 6897
+        },
+        "url": "",
+        "username": "kana_satsushou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

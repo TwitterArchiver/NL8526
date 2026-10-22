@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2109681633133773280",
+    "created_at": "2026-10-13T05:03:08.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T06:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109872543939395713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877722830625964032",
+          "start": 0,
+          "username": "gi8345066865637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109872543939395713",
+    "in_reply_to_user_id": "1877722830625964032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109681633133773280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gi8345066865637 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2109681633133773280",
+        "created_at": "2026-10-13T05:03:08.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T06:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109872543939395713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877722830625964032",
+              "start": 0,
+              "username": "gi8345066865637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109872543939395713",
+        "in_reply_to_user_id": "1877722830625964032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109681633133773280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gi8345066865637 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877722830625964032",
+        "conversation_id": "2109681633133773280",
+        "created_at": "2026-10-12T16:24:31.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T17:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109681633133773280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109681633133773280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3394,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宣布个事😠！\n    我打算去医院开证了，有前辈知道南京哪个医院医生对跨性别比较友好呀，本人已成年，开证会被征求父母同意嘛。跪求前辈们解答🙏🏻🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多 个人站➡️",
+        "most_recent_tweet_id": "2109872543939395713",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 1219,
+          "like_count": 34053,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-10T14:23:14.000Z",
+        "description": "找朋友 🏳️‍⚧️｜无证含糖｜HRT49天｜MTF但是同性恋？！｜努力学习中，如果升学失败将不得不退圈接受命运…",
+        "id": "1877722830625964032",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2109850413323477354",
+        "name": "gi🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075491728019308544/Nksh7NKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 122,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "gi8345066865637",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

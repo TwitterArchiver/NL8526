@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2106366385010188765",
+    "created_at": "2026-10-03T12:58:50.000Z",
+    "display_text_range": [
+      22,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106368378122473610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhweaa"
+        },
+        {
+          "end": 21,
+          "id": "2801561021",
+          "start": 8,
+          "username": "QimoHK300311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106368378122473610",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106366385010188765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa @QimoHK300311 等着我找柠凉弄你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2106366385010188765",
+        "created_at": "2026-10-03T12:58:50.000Z",
+        "display_text_range": [
+          22,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106368378122473610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhweaa"
+            },
+            {
+              "end": 21,
+              "id": "2801561021",
+              "start": 8,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106368378122473610",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106366385010188765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa @QimoHK300311 等着我找柠凉弄你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2106366385010188765",
+        "created_at": "2026-10-03T12:50:55.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106366385010188765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2801561021",
+              "start": 7,
+              "username": "QimoHK300311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qimohk300311/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/qimohk300311/status/2106365842401218620",
+              "start": 33,
+              "url": "https://t.co/kiv7ZS6XmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106366385010188765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106365842401218620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和广东省大明星@QimoHK300311 赛博面基了👍💥\n😡🫱📱 https://t.co/kiv7ZS6XmJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106368378122473610",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 1197,
+          "like_count": 32989,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精｜想要看遍大千世界 ✈️｜想要组办构建前沿技术项目 🏗️ 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36pCH"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2106368029047304475",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2106368029047304475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8392,
+          "following_count": 437,
+          "like_count": 33704,
+          "listed_count": 23,
+          "media_count": 2952,
+          "tweet_count": 22305
+        },
+        "url": "https://t.co/MtaZw36pCH",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "我爱你们，每一天都要约定明天再见哦mua～\n生产年月2011.05|MtF/X,enby|常驻广东佛山+广州|已出柜+半家长党(小证含🍥)|HRT:2025.05.09|高一住校|业余无线电(BG7MUW)|状态焦虑抑郁(拒绝od!)|一代目@HKQimo300311\n可以叫我齐墨\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "HKQimo300311"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLkeW"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "is_identity_verified": false,
+        "location": "暨南大学附属第一医院1号楼6楼精神医学科门诊",
+        "most_recent_tweet_id": "2106365842401218620",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100406207819255944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2801561021/1789235243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105997219576836097/jIEyewjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 426,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/LBSe4QLkeW",
+        "username": "QimoHK300311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

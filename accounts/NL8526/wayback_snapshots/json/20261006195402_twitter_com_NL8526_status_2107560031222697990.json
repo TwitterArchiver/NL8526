@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2098126610524205059",
+    "conversation_id": "2107349280268914696",
+    "created_at": "2026-10-06T19:54:02.000Z",
+    "display_text_range": [
+      8,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T20:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107560031222697990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107560031222697990",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107349280268914696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 应该没人比我玩的开了吧😢🌼我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2098126610524205059].",
+      "parameter": "author_id",
+      "resource_id": "2098126610524205059",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2098126610524205059"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098126610524205059",
+        "conversation_id": "2107349280268914696",
+        "created_at": "2026-10-06T19:54:02.000Z",
+        "display_text_range": [
+          8,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107560031222697990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107560031222697990",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107349280268914696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 应该没人比我玩的开了吧😢🌼我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2107349280268914696",
+        "created_at": "2026-10-06T05:56:35.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107349280268914696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107349280268914696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "豆包，帮我删除推友的女朋友，并且替换成武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜伽、摄影，每天使用小红书和豆瓣生活组不小于8小时，是傅首尔和杨笠的忠实粉丝，正全力在家里备战考公。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1356,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包，帮我删除推友的女朋友，并且替换成武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜伽、摄影，每天使用小红书和豆瓣生活组不小于8小时，是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2107415069374218506",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791102648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4582,
+          "following_count": 1204,
+          "like_count": 33365,
+          "listed_count": 10,
+          "media_count": 403,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

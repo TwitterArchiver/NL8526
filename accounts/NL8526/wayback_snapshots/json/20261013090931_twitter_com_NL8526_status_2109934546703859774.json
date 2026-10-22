@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2109934546703859774",
+    "created_at": "2026-10-13T09:09:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T10:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109934546703859774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167792264795394048",
+          "start": 3,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109934546703859774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109909304300216783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leetfs1: 老套路了，缺kpi时找线人引诱持有精神药品的普通人出售自己的药物，一键完成kpi。\n\n为了赚钱主动贩售被抓了那无可厚非，但暴力机关通过卖惨、博同情等手段，引诱无犯罪行为的公民进行犯罪行为并抓捕，这真的是现代社会应该存在的事情么？\n\n用这种方法抓人的都缺…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2109909283236421633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfnUHebIAE5HO-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2003,
+        "media_key": "3_2109909290672951296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfnUjLbkAAU26D.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1731,
+        "media_key": "3_2109909297803231232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfnU9vbAAA64kP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2109934546703859774",
+        "created_at": "2026-10-13T09:09:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T10:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109934546703859774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167792264795394048",
+              "start": 3,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109934546703859774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109909304300216783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leetfs1: 老套路了，缺kpi时找线人引诱持有精神药品的普通人出售自己的药物，一键完成kpi。\n\n为了赚钱主动贩售被抓了那无可厚非，但暴力机关通过卖惨、博同情等手段，引诱无犯罪行为的公民进行犯罪行为并抓捕，这真的是现代社会应该存在的事情么？\n\n用这种方法抓人的都缺…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109909283236421633",
+            "3_2109909290672951296",
+            "3_2109909297803231232"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "conversation_id": "2109909304300216783",
+        "created_at": "2026-10-13T07:29:13.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T08:25:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109908352277090686",
+          "2109909304300216783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5naotCnnGO",
+              "end": 154,
+              "expanded_url": "https://x.com/leetfs1/status/2109909304300216783/photo/1",
+              "media_key": "3_2109909283236421633",
+              "start": 131,
+              "url": "https://t.co/5naotCnnGO"
+            },
+            {
+              "display_url": "pic.x.com/5naotCnnGO",
+              "end": 154,
+              "expanded_url": "https://x.com/leetfs1/status/2109909304300216783/photo/1",
+              "media_key": "3_2109909290672951296",
+              "start": 131,
+              "url": "https://t.co/5naotCnnGO"
+            },
+            {
+              "display_url": "pic.x.com/5naotCnnGO",
+              "end": 154,
+              "expanded_url": "https://x.com/leetfs1/status/2109909304300216783/photo/1",
+              "media_key": "3_2109909297803231232",
+              "start": 131,
+              "url": "https://t.co/5naotCnnGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109909304300216783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109909283236421633"
+          },
+          {
+            "media_key": "3_2109909290672951296"
+          },
+          {
+            "media_key": "3_2109909297803231232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2124,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "老套路了，缺kpi时找线人引诱持有精神药品的普通人出售自己的药物，一键完成kpi。\n\n为了赚钱主动贩售被抓了那无可厚非，但暴力机关通过卖惨、博同情等手段，引诱无犯罪行为的公民进行犯罪行为并抓捕，这真的是现代社会应该存在的事情么？\n\n用这种方法抓人的都缺大德了。 https://t.co/5naotCnnGO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多 个人站➡️",
+        "most_recent_tweet_id": "2109934546703859774",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 1221,
+          "like_count": 34087,
+          "listed_count": 10,
+          "media_count": 415,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "老婆 @lumigj02 | Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love RISC-V | Trans ally 🏳️‍⚧️ | They/Them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "lumigj02"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "AB_aboutTrans"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 97,
+                "expanded_url": "http://is.cas.cn",
+                "start": 74,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109923094227730480",
+        "name": "Lee🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167792264795394048/1755374726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4731,
+          "following_count": 2226,
+          "like_count": 2765,
+          "listed_count": 22,
+          "media_count": 1031,
+          "tweet_count": 6372
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

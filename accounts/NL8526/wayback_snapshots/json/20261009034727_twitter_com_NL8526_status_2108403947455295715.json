@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108389072540700672"
+      ],
+      "media_source_tweet_id": [
+        "2108389234784809300"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2108403947455295715",
+    "created_at": "2026-10-09T03:47:27.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T04:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108403947455295715"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "VOCALOID7"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "82286936",
+          "start": 3,
+          "username": "vocaloid_yamaha"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2003年の発売以来、「VOCALOID」はクリエイターやファンの皆さまに支えられながら、音楽制作における新た",
+          "display_url": "vocaloid.com/news/news_47/",
+          "end": 77,
+          "expanded_url": "https://www.vocaloid.com/news/news_47/",
+          "images": [
+            {
+              "height": 750,
+              "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=orig",
+              "width": 750
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "VOCALOID7 発売決定のお知らせ - ボーカロイド公式｜エディター・ボイスバンク購入｜歌声制作｜サポート情報",
+          "unwound_url": "https://www.vocaloid.com/news/news_47/",
+          "url": "https://t.co/0SSwnd1iOw"
+        },
+        {
+          "description": "Since its debut in 2003, VOCALOID has expanded the poss",
+          "display_url": "vocaloid.com/en/news/news_4…",
+          "end": 106,
+          "expanded_url": "https://www.vocaloid.com/en/news/news_47/",
+          "images": [
+            {
+              "height": 750,
+              "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=orig",
+              "width": 750
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "VOCALOID7 Coming November 11, 2026 - Official VOCALOID Website | Editor & Voice Bank Purchases | Vocal Creation | Support",
+          "unwound_url": "https://www.vocaloid.com/en/news/news_47/",
+          "url": "https://t.co/uzmDQLcGhy"
+        },
+        {
+          "display_url": "pic.x.com/VY9uJEthwj",
+          "end": 130,
+          "expanded_url": "https://x.com/vocaloid_yamaha/status/2108389234784809300/photo/1",
+          "media_key": "3_2108389072540700672",
+          "start": 107,
+          "url": "https://t.co/VY9uJEthwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108403947455295715",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "alt_text": "2026 NOVEMBER 11",
+        "media_key": "3_2108389072540700672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108389234784809300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vocaloid_yamaha: #VOCALOID7\n2026 NOVEMBER 11\n\n日 : https://t.co/0SSwnd1iOw\nEn : https://t.co/uzmDQLcGhy https://t.co/VY9uJEthwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "2026 NOVEMBER 11",
+        "height": 616,
+        "media_key": "3_2108389072540700672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKAsNUakAAS0Lr.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108389072540700672"
+          ],
+          "media_source_tweet_id": [
+            "2108389234784809300"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2108403947455295715",
+        "created_at": "2026-10-09T03:47:27.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T04:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108403947455295715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "VOCALOID7"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "82286936",
+              "start": 3,
+              "username": "vocaloid_yamaha"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2003年の発売以来、「VOCALOID」はクリエイターやファンの皆さまに支えられながら、音楽制作における新た",
+              "display_url": "vocaloid.com/news/news_47/",
+              "end": 77,
+              "expanded_url": "https://www.vocaloid.com/news/news_47/",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "VOCALOID7 発売決定のお知らせ - ボーカロイド公式｜エディター・ボイスバンク購入｜歌声制作｜サポート情報",
+              "unwound_url": "https://www.vocaloid.com/news/news_47/",
+              "url": "https://t.co/0SSwnd1iOw"
+            },
+            {
+              "description": "Since its debut in 2003, VOCALOID has expanded the poss",
+              "display_url": "vocaloid.com/en/news/news_4…",
+              "end": 106,
+              "expanded_url": "https://www.vocaloid.com/en/news/news_47/",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "VOCALOID7 Coming November 11, 2026 - Official VOCALOID Website | Editor & Voice Bank Purchases | Vocal Creation | Support",
+              "unwound_url": "https://www.vocaloid.com/en/news/news_47/",
+              "url": "https://t.co/uzmDQLcGhy"
+            },
+            {
+              "display_url": "pic.x.com/VY9uJEthwj",
+              "end": 130,
+              "expanded_url": "https://x.com/vocaloid_yamaha/status/2108389234784809300/photo/1",
+              "media_key": "3_2108389072540700672",
+              "start": 107,
+              "url": "https://t.co/VY9uJEthwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108403947455295715",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "alt_text": "2026 NOVEMBER 11",
+            "media_key": "3_2108389072540700672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108389234784809300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vocaloid_yamaha: #VOCALOID7\n2026 NOVEMBER 11\n\n日 : https://t.co/0SSwnd1iOw\nEn : https://t.co/uzmDQLcGhy https://t.co/VY9uJEthwj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108389072540700672"
+          ]
+        },
+        "author_id": "82286936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2108389234784809300",
+        "created_at": "2026-10-09T02:49:00.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T03:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108389234784809300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "VOCALOID7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2003年の発売以来、「VOCALOID」はクリエイターやファンの皆さまに支えられながら、音楽制作における新た",
+              "display_url": "vocaloid.com/news/news_47/",
+              "end": 56,
+              "expanded_url": "https://www.vocaloid.com/news/news_47/",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108385288557129728/4evuhH2c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "VOCALOID7 発売決定のお知らせ - ボーカロイド公式｜エディター・ボイスバンク購入｜歌声制作｜サポート情報",
+              "unwound_url": "https://www.vocaloid.com/news/news_47/",
+              "url": "https://t.co/0SSwnd1iOw"
+            },
+            {
+              "description": "Since its debut in 2003, VOCALOID has expanded the poss",
+              "display_url": "vocaloid.com/en/news/news_4…",
+              "end": 85,
+              "expanded_url": "https://www.vocaloid.com/en/news/news_47/",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108389281035415552/QRg1JCuq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "VOCALOID7 Coming November 11, 2026 - Official VOCALOID Website | Editor & Voice Bank Purchases | Vocal Creation | Support",
+              "unwound_url": "https://www.vocaloid.com/en/news/news_47/",
+              "url": "https://t.co/uzmDQLcGhy"
+            },
+            {
+              "display_url": "pic.x.com/VY9uJEthwj",
+              "end": 109,
+              "expanded_url": "https://x.com/vocaloid_yamaha/status/2108389234784809300/photo/1",
+              "media_key": "3_2108389072540700672",
+              "start": 86,
+              "url": "https://t.co/VY9uJEthwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108389234784809300",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "alt_text": "2026 NOVEMBER 11",
+            "media_key": "3_2108389072540700672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 79043,
+          "like_count": 2848,
+          "quote_count": 233,
+          "reply_count": 17,
+          "retweet_count": 1326
+        },
+        "reply_settings": "everyone",
+        "text": "#VOCALOID7\n2026 NOVEMBER 11\n\n日 : https://t.co/0SSwnd1iOw\nEn : https://t.co/uzmDQLcGhy https://t.co/VY9uJEthwj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2108403947455295715",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 1213,
+          "like_count": 33537,
+          "listed_count": 10,
+          "media_count": 407,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-14T05:46:10.000Z",
+        "description": "ヤマハ株式会社 VOCALOID（ボーカロイド・ボカロ）の公式アカウントです。\nVOCALOID6 / VOCALO CHANGER PLUGIN 体験版は公式サイトから\nお問い合わせ → https://t.co/eeU6mVXAka",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vocaloid.com/support/",
+                "end": 118,
+                "expanded_url": "http://vocaloid.com/support/",
+                "start": 95,
+                "url": "https://t.co/eeU6mVXAka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vocaloid.com",
+                "end": 23,
+                "expanded_url": "https://www.vocaloid.com/",
+                "start": 0,
+                "url": "https://t.co/zjLzGGmQ7u"
+              }
+            ]
+          }
+        },
+        "id": "82286936",
+        "is_identity_verified": false,
+        "location": "In Your Computer",
+        "most_recent_tweet_id": "2108396077129126227",
+        "name": "ボーカロイド - VOCALOID6",
+        "pinned_tweet_id": "2108389234784809300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82286936/1665640947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/525209182786428928/dRdavR7I_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140239,
+          "following_count": 256,
+          "like_count": 3336,
+          "listed_count": 1195,
+          "media_count": 12710,
+          "tweet_count": 20902
+        },
+        "url": "https://t.co/zjLzGGmQ7u",
+        "username": "vocaloid_yamaha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

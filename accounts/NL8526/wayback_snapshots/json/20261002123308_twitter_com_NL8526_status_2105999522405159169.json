@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2105983895602901432",
+    "created_at": "2026-10-02T12:33:08.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105999522405159169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1350698971996381191",
+          "start": 0,
+          "username": "ashinakei1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105999522405159169",
+    "in_reply_to_user_id": "1350698971996381191",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105983895602901432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashinakei1203 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2105983895602901432",
+        "created_at": "2026-10-02T12:33:08.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105999522405159169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1350698971996381191",
+              "start": 0,
+              "username": "ashinakei1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105999522405159169",
+        "in_reply_to_user_id": "1350698971996381191",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105983895602901432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashinakei1203 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350698971996381191",
+        "conversation_id": "2105983895602901432",
+        "created_at": "2026-10-02T11:31:02.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105983895602901432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105983895602901432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 319,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑似成为家长党了！咱爸妈说咱是个成年人了，真的想清楚了确定下来了，他们也不会阻拦我。我真的想清楚了家长同意书什么的他们也可以签字，平胸完全ok，hrt再考虑一下下，主要是担心我身体，他们说到时候看看最优方案。\n整个沟通过程都很平和，国庆“battle”完美结束！！😊😊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105999522405159169",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 1191,
+          "like_count": 32805,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-17T06:58:33.000Z",
+        "description": "可以叫我顺/阿顺\nhe/him/ftmtx/demiboy/transfemboy\n出厂2004.12/♐/xntx/ADHD/泛性恋/回避型人格/家长党\n最爱的脑婆：@sil030922",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "sil030922"
+              }
+            ]
+          }
+        },
+        "id": "1350698971996381191",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105999432709996757",
+        "name": "asn顺🏳‍⚧",
+        "pinned_tweet_id": "2087769889348174095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350698971996381191/1786206306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104587616800911360/Qp6OYBSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 327,
+          "like_count": 17608,
+          "listed_count": 6,
+          "media_count": 103,
+          "tweet_count": 4970
+        },
+        "url": "",
+        "username": "ashinakei1203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

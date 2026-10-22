@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2107415069374218506",
+    "created_at": "2026-10-06T10:18:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107415069374218506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107415069374218506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107180543813283917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: 我先来, \n16岁就敢为自己一生学文还是理做打算?\n18岁就敢为自己一生学什么专业做打算?\n22岁就敢为自己一生做什么工作做打算?\n26岁就敢为自己孩子的一生做打算?\n30岁就敢为自己一生住哪买什么房做打算?\n50岁就敢为自己怎么养老做打算?\n65岁…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2107415069374218506",
+        "created_at": "2026-10-06T10:18:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107415069374218506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107415069374218506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107180543813283917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: 我先来, \n16岁就敢为自己一生学文还是理做打算?\n18岁就敢为自己一生学什么专业做打算?\n22岁就敢为自己一生做什么工作做打算?\n26岁就敢为自己孩子的一生做打算?\n30岁就敢为自己一生住哪买什么房做打算?\n50岁就敢为自己怎么养老做打算?\n65岁…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2107180543813283917",
+        "created_at": "2026-10-05T18:46:05.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T19:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107180543813283917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Welt28Xt/statu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Welt28Xt/status/2106553904427381203",
+              "start": 154,
+              "url": "https://t.co/1StloK6cx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107180543813283917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5070,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106553904427381203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先来, \n16岁就敢为自己一生学文还是理做打算?\n18岁就敢为自己一生学什么专业做打算?\n22岁就敢为自己一生做什么工作做打算?\n26岁就敢为自己孩子的一生做打算?\n30岁就敢为自己一生住哪买什么房做打算?\n50岁就敢为自己怎么养老做打算?\n65岁就敢为自己遗产安排做打算?\n刚死就敢为自己下一生做打算? https://t.co/1StloK6cx3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2107415069374218506",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791102648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4580,
+          "following_count": 1205,
+          "like_count": 33350,
+          "listed_count": 10,
+          "media_count": 403,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107408016102580409",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 292,
+          "like_count": 12386,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

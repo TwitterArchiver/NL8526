@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2108121042254524449",
+    "created_at": "2026-10-08T10:10:30.000Z",
+    "display_text_range": [
+      23,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T11:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108137955680485781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032037309219315712",
+          "start": 0,
+          "username": "fcjdfb"
+        },
+        {
+          "end": 22,
+          "id": "1378376814389694468",
+          "start": 8,
+          "username": "McFlurry_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108137955680485781",
+    "in_reply_to_user_id": "2032037309219315712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108121042254524449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fcjdfb @McFlurry_1222 绷绷居然是互b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2108121042254524449",
+        "created_at": "2026-10-08T10:10:30.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108137955680485781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032037309219315712",
+              "start": 0,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 22,
+              "id": "1378376814389694468",
+              "start": 8,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108137955680485781",
+        "in_reply_to_user_id": "2032037309219315712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108121042254524449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcjdfb @McFlurry_1222 绷绷居然是互b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2108121042254524449",
+        "created_at": "2026-10-08T09:03:18.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108121042254524449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108121042254524449",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 131,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@McFlurry_1222 我觉得上次space说的那个话题很有意思\n就是老mtf学习模仿的就是很刻板中年妇女的印象\n然后年轻mtf又基本不学习模仿顺女，整个人外貌和内在都很“男性成长环境带来”，除了胸看不出来哪里是mtf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2108137955680485781",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 1205,
+          "like_count": 33458,
+          "listed_count": 10,
+          "media_count": 406,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2108121042254524449",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 72,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1953
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "八宫巡担当，中英OK\nBi🏳️‍🌈/Enby/They Them",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108136342786081190",
+        "name": "可乐麦旋风",
+        "pinned_tweet_id": "2106901473691086951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1790357152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106537335420760065/JkEmRJI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 7247,
+          "like_count": 185344,
+          "listed_count": 3,
+          "media_count": 830,
+          "tweet_count": 30911
+        },
+        "url": "",
+        "username": "McFlurry_1222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107808516413272064",
+        "3_2107808516379688960",
+        "3_2107808516396437504"
+      ],
+      "media_source_tweet_id": [
+        "2107808527217475672",
+        "2107808527217475672",
+        "2107808527217475672"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2107848981833568408",
+    "created_at": "2026-10-07T15:02:13.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T16:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107848981833568408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086703565448564736",
+          "start": 3,
+          "username": "You_Takashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPI3jRkMWh",
+          "end": 115,
+          "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+          "media_key": "3_2107808516413272064",
+          "start": 92,
+          "url": "https://t.co/nPI3jRkMWh"
+        },
+        {
+          "display_url": "pic.x.com/nPI3jRkMWh",
+          "end": 115,
+          "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+          "media_key": "3_2107808516379688960",
+          "start": 92,
+          "url": "https://t.co/nPI3jRkMWh"
+        },
+        {
+          "display_url": "pic.x.com/nPI3jRkMWh",
+          "end": 115,
+          "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+          "media_key": "3_2107808516396437504",
+          "start": 92,
+          "url": "https://t.co/nPI3jRkMWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107848981833568408",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107808516413272064"
+      },
+      {
+        "media_key": "3_2107808516379688960"
+      },
+      {
+        "media_key": "3_2107808516396437504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107808527217475672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @You_Takashi: 中国跨性别应该找什么工作？唯一推荐麦当劳！\n很多跨性别都面临找工作问题喵，没钱应该进厂还是送外卖？统统不要去喵！立刻前往你身边最近的麦当劳应聘喵！… https://t.co/nPI3jRkMWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2107808516413272064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBwrZNbMAA2Co9.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107808516379688960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBwrZFawAA131y.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107808516396437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBwrZJaUAAGwxg.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107808516413272064",
+            "3_2107808516379688960",
+            "3_2107808516396437504"
+          ],
+          "media_source_tweet_id": [
+            "2107808527217475672",
+            "2107808527217475672",
+            "2107808527217475672"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107848981833568408",
+        "created_at": "2026-10-07T15:02:13.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107848981833568408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086703565448564736",
+              "start": 3,
+              "username": "You_Takashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 115,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516413272064",
+              "start": 92,
+              "url": "https://t.co/nPI3jRkMWh"
+            },
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 115,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516379688960",
+              "start": 92,
+              "url": "https://t.co/nPI3jRkMWh"
+            },
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 115,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516396437504",
+              "start": 92,
+              "url": "https://t.co/nPI3jRkMWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107848981833568408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107808516413272064"
+          },
+          {
+            "media_key": "3_2107808516379688960"
+          },
+          {
+            "media_key": "3_2107808516396437504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107808527217475672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @You_Takashi: 中国跨性别应该找什么工作？唯一推荐麦当劳！\n很多跨性别都面临找工作问题喵，没钱应该进厂还是送外卖？统统不要去喵！立刻前往你身边最近的麦当劳应聘喵！… https://t.co/nPI3jRkMWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107808516413272064",
+            "3_2107808516379688960",
+            "3_2107808516396437504"
+          ]
+        },
+        "author_id": "2086703565448564736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107808527217475672",
+        "created_at": "2026-10-07T12:21:28.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107808527217475672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 97,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516413272064",
+              "start": 74,
+              "url": "https://t.co/nPI3jRkMWh"
+            },
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 97,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516379688960",
+              "start": 74,
+              "url": "https://t.co/nPI3jRkMWh"
+            },
+            {
+              "display_url": "pic.x.com/nPI3jRkMWh",
+              "end": 97,
+              "expanded_url": "https://x.com/You_Takashi/status/2107808527217475672/photo/1",
+              "media_key": "3_2107808516396437504",
+              "start": 74,
+              "url": "https://t.co/nPI3jRkMWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107808527217475672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107808516413272064"
+          },
+          {
+            "media_key": "3_2107808516379688960"
+          },
+          {
+            "media_key": "3_2107808516396437504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 753,
+                "id": "71026122",
+                "start": 743,
+                "username": "McDonalds"
+              }
+            ]
+          },
+          "text": "中国跨性别应该找什么工作？唯一推荐麦当劳！\n很多跨性别都面临找工作问题喵，没钱应该进厂还是送外卖？统统不要去喵！立刻前往你身边最近的麦当劳应聘喵！\n为什么一定要去麦当劳喵？进厂送外卖面临的是人事和站长的性别认同歧视、强制短发等不人道的着装规定、恶劣的环境、超时的工作时长和无止尽的压榨。想要摆脱这一切？你需要去麦当劳！\n我配的三张图是麦当劳员工休息室里粘贴的政策，每个中国麦当劳里都有，我敢保证，没有第二个中国企业会把这样的政策粘贴出来。里面明确写道所有员工应聘者都不会因为性别认同和表达被区别对待，适用于所有雇佣活动。麦当劳不仅是这样写的，也是这样做的。在麦当劳的新员工培训视频里，专门有反歧视LGBTQ员工的宣传；工作时，同事领导都很友善；餐厅注意的是你有没有按照食品安全的标准佩戴发网洗手，认真对待工作，不会对你的头发长短指手画脚；排班时间合理，每天八小时，繁忙时段多工作一两小时，正常计算工资，兼职排班三天打鱼两天晒网，全职上六休一；工作强度适中，能快速适应；对学历无特别要求；我所在城市云南玉溪的时薪12元，上海时薪约19元，深圳时薪约17元，可供参考。\n最让我印象深刻的是，在我暂时离开麦当劳停止兼职排班前往其他城市寻找跨性别医疗援助时，经理在人手短缺的情况下仍然询问我是否有意愿继续回去工作，没有因为我的跨性别身份区别对待我，那个时候我已经向身边的所有人出柜。\n如何前往麦当劳工作？美团搜索麦当劳查找最近餐厅电话，打电话询问是否招学生兼职（需要学生证）/社会兼职/全职，餐厅表示招人约定应聘时间，前往应聘填表，通过初审后准备办理健康证银行卡，办理完毕后提交正式入职。\n如果应聘过程中因为性别表达及性别认同相关问题受阻且无法当场解决，可以发邮件给麦当劳或者在评论区写下经历并@McDonalds"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4007,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国跨性别应该找什么工作？唯一推荐麦当劳！\n很多跨性别都面临找工作问题喵，没钱应该进厂还是送外卖？统统不要去喵！立刻前往你身边最近的麦当劳应聘喵！ https://t.co/nPI3jRkMWh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2107848981833568408",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791102648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583,
+          "following_count": 1204,
+          "like_count": 33393,
+          "listed_count": 10,
+          "media_count": 404,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T06:39:06.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜19岁 190cm 85kg｜she/they｜泛性恋｜就读于云南民族大学｜初次HRT 2026.07.28（停药中）｜小证3张｜双相｜逃出过精神病院｜想切蛋｜想去北海道｜护照被晶哥扣押中😡\nTEL:+86 16608775256\nEMALL:3107410449@qq.com",
+        "id": "2086703565448564736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107840039141142732",
+        "name": "杨崇志 You Takashi🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086703565448564736/1790478315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086704024263471104/N-YZsC4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 35,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "You_Takashi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

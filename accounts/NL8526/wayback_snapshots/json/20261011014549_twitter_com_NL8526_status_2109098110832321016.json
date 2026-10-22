@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2108978931466715384",
+    "created_at": "2026-10-11T01:45:49.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T02:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109098110832321016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676500088221478912",
+          "start": 0,
+          "username": "DOGYeah3376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109098110832321016",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108978931466715384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGYeah3376 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2108978926035111937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSZKM0bkAEzXu0.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2108978931466715384",
+        "created_at": "2026-10-11T01:45:49.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109098110832321016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109098110832321016",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108978931466715384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108978926035111937"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2108978931466715384",
+        "created_at": "2026-10-10T17:52:14.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T18:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108978931466715384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5fmQnt9tw",
+              "end": 35,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2108978931466715384/photo/1",
+              "media_key": "3_2108978926035111937",
+              "start": 12,
+              "url": "https://t.co/J5fmQnt9tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108978931466715384",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108978926035111937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念！（？ https://t.co/J5fmQnt9tw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2109098110832321016",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 1213,
+          "like_count": 33792,
+          "listed_count": 10,
+          "media_count": 410,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "「實驗品」｜🤓 @YyyyyIsntPog ❤️@opaoguonai1108 ｜#ai #odtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "ai"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "YyyyyIsntPog"
+              },
+              {
+                "end": 39,
+                "start": 24,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/LlpVjhIUlY"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "is_identity_verified": false,
+        "location": "🚪68解锁碎碎念",
+        "most_recent_tweet_id": "2108978931466715384",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2104156728078278704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676500088221478912/1771917906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 1079,
+          "like_count": 77884,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 5576
+        },
+        "url": "https://t.co/LlpVjhIUlY",
+        "username": "DOGYeah3376",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

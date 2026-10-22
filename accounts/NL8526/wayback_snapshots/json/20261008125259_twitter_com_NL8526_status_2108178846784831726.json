@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2108178796923039744"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2108178846784831726",
+    "created_at": "2026-10-08T12:52:59.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T13:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108178846784831726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Ig2IYy48l",
+          "end": 30,
+          "expanded_url": "https://x.com/NL8526/status/2108178846784831726/video/1",
+          "media_key": "7_2108178796923039744",
+          "start": 7,
+          "url": "https://t.co/1Ig2IYy48l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108178846784831726",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_2108178796923039744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "音游吃收收味 https://t.co/1Ig2IYy48l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10448,
+        "height": 1920,
+        "media_key": "7_2108178796923039744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2108178796923039744/pu/img/in1wKAxsPbvlUzAe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2108178796923039744/pu/vid/avc1/720x1280/oxaLGqyjmVeD6oi1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2108178796923039744/pu/vid/avc1/1080x1920/2_DKaxkouHU-lYbi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2108178796923039744/pu/pl/icdYIk0W2ASlBa70.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2108178796923039744/pu/vid/avc1/320x568/reKCx6f0lNkh8z-v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2108178796923039744/pu/vid/avc1/480x852/BL95aUPGmbC7rz-m.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2108178796923039744"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2108178846784831726",
+        "created_at": "2026-10-08T12:52:59.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108178846784831726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ig2IYy48l",
+              "end": 30,
+              "expanded_url": "https://x.com/NL8526/status/2108178846784831726/video/1",
+              "media_key": "7_2108178796923039744",
+              "start": 7,
+              "url": "https://t.co/1Ig2IYy48l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108178846784831726",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2108178796923039744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音游吃收收味 https://t.co/1Ig2IYy48l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2108178846784831726",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 1206,
+          "like_count": 33485,
+          "listed_count": 10,
+          "media_count": 407,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

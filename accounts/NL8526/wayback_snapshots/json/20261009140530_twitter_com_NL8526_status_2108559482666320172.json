@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108061249061957632"
+      ],
+      "media_source_tweet_id": [
+        "2108061367249060084"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "conversation_id": "2108559482666320172",
+    "created_at": "2026-10-09T14:05:30.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T15:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108559482666320172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881703898813153280",
+          "start": 3,
+          "username": "DestinAqua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38j1RrGLFv",
+          "end": 61,
+          "expanded_url": "https://x.com/DestinAqua/status/2108061367249060084/photo/1",
+          "media_key": "3_2108061249061957632",
+          "start": 38,
+          "url": "https://t.co/38j1RrGLFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108559482666320172",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108061249061957632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108061367249060084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DestinAqua: 牛逼，现在黑苹果可以驱动现代N卡了🎉🎉🎉😆 https://t.co/38j1RrGLFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_2108061249061957632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUFWiXsasAA1eD0.jpg",
+        "width": 3002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108061249061957632"
+          ],
+          "media_source_tweet_id": [
+            "2108061367249060084"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2108559482666320172",
+        "created_at": "2026-10-09T14:05:30.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108559482666320172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881703898813153280",
+              "start": 3,
+              "username": "DestinAqua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38j1RrGLFv",
+              "end": 61,
+              "expanded_url": "https://x.com/DestinAqua/status/2108061367249060084/photo/1",
+              "media_key": "3_2108061249061957632",
+              "start": 38,
+              "url": "https://t.co/38j1RrGLFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108559482666320172",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108061249061957632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108061367249060084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DestinAqua: 牛逼，现在黑苹果可以驱动现代N卡了🎉🎉🎉😆 https://t.co/38j1RrGLFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108061249061957632"
+          ]
+        },
+        "author_id": "881703898813153280",
+        "conversation_id": "2108061367249060084",
+        "created_at": "2026-10-08T05:06:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T06:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108061367249060084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38j1RrGLFv",
+              "end": 45,
+              "expanded_url": "https://x.com/DestinAqua/status/2108061367249060084/photo/1",
+              "media_key": "3_2108061249061957632",
+              "start": 22,
+              "url": "https://t.co/38j1RrGLFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108061367249060084",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108061249061957632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 73585,
+          "like_count": 1173,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼，现在黑苹果可以驱动现代N卡了🎉🎉🎉😆 https://t.co/38j1RrGLFv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2108559482666320172",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 1216,
+          "like_count": 33596,
+          "listed_count": 10,
+          "media_count": 408,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-03T02:39:25.000Z",
+        "description": "目前常驻福州",
+        "id": "881703898813153280",
+        "is_identity_verified": false,
+        "location": "Mars or Satellite",
+        "most_recent_tweet_id": "2108532821174423940",
+        "name": "Aqua Destin",
+        "pinned_tweet_id": "1926978074903523818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/881703898813153280/1756997283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005475412399239168/Gd4qFab9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1200,
+          "like_count": 107308,
+          "listed_count": 1,
+          "media_count": 1149,
+          "tweet_count": 12161
+        },
+        "url": "",
+        "username": "DestinAqua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

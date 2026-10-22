@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2106302312813879376",
+    "created_at": "2026-10-03T08:36:19.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106302312813879376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106302312813879376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106156504059666711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 在江西，娶老婆还不如我变别人老婆省钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2106302312813879376",
+        "created_at": "2026-10-03T08:36:19.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106302312813879376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106302312813879376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106156504059666711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 在江西，娶老婆还不如我变别人老婆省钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106156504059666711",
+        "created_at": "2026-10-02T22:56:55.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106156504059666711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106156504059666711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1308,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在江西，娶老婆还不如我变别人老婆省钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106302312813879376",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 1196,
+          "like_count": 32956,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106298264278737398",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 585,
+          "like_count": 18830,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 6803
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

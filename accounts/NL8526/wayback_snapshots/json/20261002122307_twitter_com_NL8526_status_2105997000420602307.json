@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105996989850935296"
+      ]
+    },
+    "author_id": "1546431985086009344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105997000420602307",
+    "created_at": "2026-10-02T12:23:07.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105997000420602307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 41,
+          "id": "1843618783937937408",
+          "start": 27,
+          "username": "IllusoryKyoka"
+        },
+        {
+          "end": 52,
+          "id": "1814986653838299136",
+          "start": 42,
+          "username": "WuYueMeow"
+        },
+        {
+          "end": 64,
+          "id": "1679858508467159041",
+          "start": 53,
+          "username": "Amiartisan"
+        },
+        {
+          "end": 81,
+          "id": "1765154815678779392",
+          "start": 65,
+          "username": "NFhLWuYaiP90228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3K8Nd5SsE",
+          "end": 116,
+          "expanded_url": "https://x.com/NL8526/status/2105997000420602307/photo/1",
+          "media_key": "3_2105996989850935296",
+          "start": 93,
+          "url": "https://t.co/e3K8Nd5SsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105997000420602307",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105996989850935296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面！许久未见的雾月姐姐，我们大家以后都要好好的噢🥰🥰\n@IllusoryKyoka @WuYueMeow @Amiartisan @NFhLWuYaiP90228 以及一位神秘姐姐😎😎 https://t.co/e3K8Nd5SsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105996989850935296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToBGq4bYAA4KYz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105996989850935296"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105997000420602307",
+        "created_at": "2026-10-02T12:23:07.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105997000420602307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1843618783937937408",
+              "start": 27,
+              "username": "IllusoryKyoka"
+            },
+            {
+              "end": 52,
+              "id": "1814986653838299136",
+              "start": 42,
+              "username": "WuYueMeow"
+            },
+            {
+              "end": 64,
+              "id": "1679858508467159041",
+              "start": 53,
+              "username": "Amiartisan"
+            },
+            {
+              "end": 81,
+              "id": "1765154815678779392",
+              "start": 65,
+              "username": "NFhLWuYaiP90228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3K8Nd5SsE",
+              "end": 116,
+              "expanded_url": "https://x.com/NL8526/status/2105997000420602307/photo/1",
+              "media_key": "3_2105996989850935296",
+              "start": 93,
+              "url": "https://t.co/e3K8Nd5SsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105997000420602307",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105996989850935296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面！许久未见的雾月姐姐，我们大家以后都要好好的噢🥰🥰\n@IllusoryKyoka @WuYueMeow @Amiartisan @NFhLWuYaiP90228 以及一位神秘姐姐😎😎 https://t.co/e3K8Nd5SsE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105997000420602307",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 1191,
+          "like_count": 32802,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-A 坚实守护者🛡️/产地:Canton/深柜/174cm/无证含糖/经济独立/年龄毕业党/车房⭕/原生解绑/HRT:26.2.1/心理健康/不烟不酒/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "is_identity_verified": false,
+        "location": "北海道 小樽市",
+        "most_recent_tweet_id": "2101867366753964465",
+        "name": "鏡花Kyoka🍥",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843618783937937408/1776883211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090266982738472960/iaTut6PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 239,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "IllusoryKyoka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T11:32:01.000Z",
+        "description": "一般路过小🐈 | 🏳️‍⚧️ 多体 | 某底部三本软工在读 | 算竞尝试中 |《助人技术》学习中 | 有一点自杀干预经验 | 愿灰暗不再 | 暂居南昌 | 最爱的猫猫🥰@Amiartisan | 姐姐@orugannokasa\n @Dominnicchina @lingrhythm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Amiartisan"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "orugannokasa"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Dominnicchina"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "lingrhythm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyawy.com",
+                "end": 23,
+                "expanded_url": "http://nyawy.com",
+                "start": 0,
+                "url": "https://t.co/3zkyWb4Yq5"
+              }
+            ]
+          }
+        },
+        "id": "1814986653838299136",
+        "is_identity_verified": false,
+        "location": "?",
+        "most_recent_tweet_id": "2104402628054773814",
+        "name": "雾月",
+        "pinned_tweet_id": "2063177163776631242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814986653838299136/1781509246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102624075088842752/EzT3gc4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 458,
+          "like_count": 6894,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/3zkyWb4Yq5",
+        "username": "WuYueMeow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜最好最好的宝宝@WuYueMeow｜试着去成为这个世界美好的那部分吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "WuYueMeow"
+              }
+            ]
+          }
+        },
+        "id": "1679858508467159041",
+        "is_identity_verified": false,
+        "location": "宝宝心里❤️",
+        "most_recent_tweet_id": "2104927094606364825",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679858508467159041/1769603323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104048775769866240/OY2-0QuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 152,
+          "like_count": 3887,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "🏳️‍⚧️mtf HRT：2026/3/24から | 坐标大湾区 | 高校生 | acgが好き | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099355251229052929",
+        "name": "依松佐河🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765154815678779392/1781029147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058982342295986176/g_UThJOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 604,
+          "like_count": 26073,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "NFhLWuYaiP90228",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

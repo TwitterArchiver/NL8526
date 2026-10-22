@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2108168316103823533",
+    "created_at": "2026-10-08T13:25:21.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108186991754117586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108186991754117586",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108168316103823533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji 导员人真的好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2108168294440251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUG35OzaMAA40Ca.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2108168302329729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUG35sMaEAAT_ET.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2108168316103823533",
+        "created_at": "2026-10-08T13:25:21.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108186991754117586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108186991754117586",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108168316103823533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 导员人真的好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108168294440251392",
+            "3_2108168302329729024"
+          ]
+        },
+        "author_id": "4313176880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108168316103823533",
+        "created_at": "2026-10-08T12:11:09.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108168316103823533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HveD13xqy9",
+              "end": 153,
+              "expanded_url": "https://x.com/fake_fuji/status/2108168316103823533/photo/1",
+              "media_key": "3_2108168294440251392",
+              "start": 130,
+              "url": "https://t.co/HveD13xqy9"
+            },
+            {
+              "display_url": "pic.x.com/HveD13xqy9",
+              "end": 153,
+              "expanded_url": "https://x.com/fake_fuji/status/2108168316103823533/photo/1",
+              "media_key": "3_2108168302329729024",
+              "start": 130,
+              "url": "https://t.co/HveD13xqy9"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2103716442546065441",
+              "start": 154,
+              "url": "https://t.co/sL9mlY4YHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108168316103823533",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108168294440251392"
+          },
+          {
+            "media_key": "3_2108168302329729024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "晚上玩mc，突然导员问我在哪\n\n我还以为连续不登校被她发现了（那句状态不好显得很心虚）\n\n原来是有两只鸡她吃不了，要用我家冰箱冷藏一下（其实就是送给我了）\n\n有好吃的当然要去啦，导员还送了我一堆零食\n\n我说：好不容易把我老妈给我的食材吃完了，您又要让我长肉了\n\n她说：没事，吃饱了再减肥（ಥ⁠_⁠ಥ）\n\n还是很感动的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1175,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103716442546065441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚上玩mc，突然导员问我在哪\n\n我还以为连续不登校被她发现了（那句状态不好显得很心虚）\n\n原来是有两只鸡她吃不了，要用我家冰箱冷藏一下（其实就是送给我了）\n\n有好吃的当然要去啦，导员还送了我一堆零食\n\n我说：好不容易把我老妈给我的食材吃完了，您又要让我长肉了 https://t.co/HveD13xqy9 https://t.co/sL9mlY4YHp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2108186991754117586",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 1206,
+          "like_count": 33488,
+          "listed_count": 10,
+          "media_count": 407,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2108186812590014780",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 1012,
+          "like_count": 2882,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

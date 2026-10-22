@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2106633334776607124",
+    "created_at": "2026-10-04T06:37:13.000Z",
+    "display_text_range": [
+      31,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106634728833265997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        },
+        {
+          "end": 30,
+          "id": "1814290493418901504",
+          "start": 17,
+          "username": "Sixtimenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106634728833265997",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106633334776607124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@_Genshin_Ganyu_ @Sixtimenight xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2106633334776607124",
+        "created_at": "2026-10-04T06:37:13.000Z",
+        "display_text_range": [
+          31,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106634728833265997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 30,
+              "id": "1814290493418901504",
+              "start": 17,
+              "username": "Sixtimenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106634728833265997",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106633334776607124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_Genshin_Ganyu_ @Sixtimenight xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511574513967722505",
+        "conversation_id": "2106633334776607124",
+        "created_at": "2026-10-04T06:31:41.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106633334776607124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1814290493418901504",
+              "start": 39,
+              "username": "Sixtimenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106633334776607124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "曾几何时我们在香港见上第一面的时候，我就预言过你当男娘底子很好的。\n一语成谶\n@Sixtimenight"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106634728833265997",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 1197,
+          "like_count": 33030,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "18岁，是文盲\n椰羊老师 ｜ 业余电台BD7PVQ\n一般业务请发件 i@ganyu.rocks\n特殊业务🚪50",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApycSp"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "is_identity_verified": false,
+        "location": "我於萬物之中",
+        "most_recent_tweet_id": "2106633334776607124",
+        "name": "研究员王小美🥥🐑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511574513967722505/1787747535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 1661,
+          "like_count": 5901,
+          "listed_count": 10,
+          "media_count": 460,
+          "tweet_count": 3154
+        },
+        "url": "https://t.co/aXUuApycSp",
+        "username": "_Genshin_Ganyu_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-19T13:25:56.000Z",
+        "description": "06年大四211大学生/年化1000万/独立解决孙宇晨奖问题/一百天GPT Live口语训练计划\n\nAmbassador of @moledao_io\n\n和AI、web3、美股强相关～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "moledao_io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arthurknight",
+                "end": 23,
+                "expanded_url": "http://t.me/Arthurknight",
+                "start": 0,
+                "url": "https://t.co/KYJB0WoUU4"
+              }
+            ]
+          }
+        },
+        "id": "1814290493418901504",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106631182607847862",
+        "name": "六时夜",
+        "pinned_tweet_id": "2100200172672491885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814290493418901504/1788610144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099884269632135169/3gTgmHii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 946,
+          "like_count": 8113,
+          "listed_count": 5,
+          "media_count": 177,
+          "tweet_count": 6773
+        },
+        "url": "https://t.co/KYJB0WoUU4",
+        "username": "Sixtimenight",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

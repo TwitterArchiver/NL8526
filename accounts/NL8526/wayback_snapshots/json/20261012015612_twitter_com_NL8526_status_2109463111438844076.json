@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1546431985086009344",
+    "conversation_id": "2109463111438844076",
+    "created_at": "2026-10-12T01:56:12.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T02:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109463111438844076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2033549131797733376",
+          "start": 3,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109463111438844076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108881234596348297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nini_incrypto_: 我感觉ADHD一定要在上午十点前强迫自己完成一项任务，这样，就算接下来的一天什么都不做，玩得不会太愧疚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2109463111438844076",
+        "created_at": "2026-10-12T01:56:12.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T02:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109463111438844076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2033549131797733376",
+              "start": 3,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109463111438844076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108881234596348297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nini_incrypto_: 我感觉ADHD一定要在上午十点前强迫自己完成一项任务，这样，就算接下来的一天什么都不做，玩得不会太愧疚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2108881234596348297",
+        "created_at": "2026-10-10T11:24:02.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108881234596348297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108881234596348297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 37423,
+          "like_count": 802,
+          "quote_count": 10,
+          "reply_count": 277,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉ADHD一定要在上午十点前强迫自己完成一项任务，这样，就算接下来的一天什么都不做，玩得不会太愧疚。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "😺AuDHD BPD低能量猫 ♍ISFP-T BMI17.7 🎹钢专/数码/音游/MC 📚大一已成年/努力经营自己/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYXZbB"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "location": "了解更多  个人站 →",
+        "most_recent_tweet_id": "2109463111438844076",
+        "name": "柠凉",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1791394238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106660532979970048/Fph_c5Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 1213,
+          "like_count": 33926,
+          "listed_count": 10,
+          "media_count": 411,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/ywtMqYXZbB",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07年大学生\n专注于美股、crypto、AI\n交流群https://t.co/uP9poCiBZO\n咨询/合作TG：@niniincrypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "niniincrypto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+6eFGz4GoM2wwN…",
+                "end": 49,
+                "expanded_url": "https://t.me/+6eFGz4GoM2wwNzJh",
+                "start": 26,
+                "url": "https://t.co/uP9poCiBZO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109298354543051001",
+        "name": "nini",
+        "pinned_tweet_id": "2099920928247537935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033549131797733376/1774090328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26920,
+          "following_count": 1439,
+          "like_count": 31003,
+          "listed_count": 118,
+          "media_count": 498,
+          "tweet_count": 9791
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
